@@ -1,4 +1,5 @@
 [**Alistair Leontine - The Kaleidoscope of Lost Parallels**](works/**Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels**.md)  
+[<Miriam Fields - The Illusion of Seeing Clearly>](works/<Miriam-Fields-The-Illusion-of-Seeing-Clearly>.md)  
 [<pseudonym> - <The Specter of Intangible Labor: A Haunting Synthesis>](works/<pseudonym>-<The-Specter-of-Intangible-Labor:-A-Haunting-Synthesis>.md)  
 [<pseudonym> - *Refractions of the Impossible Horizon*](works/<pseudonym>-*Refractions-of-the-Impossible-Horizon*.md)  
 [A. E. Velo - The Siege of Futures](works/A.-E.-Velo-The-Siege-of-Futures.md)  
