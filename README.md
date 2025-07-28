@@ -4,3 +4,4 @@
 [Kieran Holloway - The Vanishing Horizon](works/Kieran-Holloway-The-Vanishing-Horizon.md)  
 [Kwame Garrison - The Auction of Tomorrow](works/Kwame-Garrison-The-Auction-of-Tomorrow.md)  
 [Marcus Thornfeld - The Phantom at the Window](works/Marcus-Thornfeld-The-Phantom-at-the-Window.md)  
+[Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
