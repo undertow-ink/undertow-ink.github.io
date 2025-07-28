@@ -1,4 +1,4 @@
-[A. Deacon - The Geometry of Strangers](works/A.-Deacon-The-Geometry-of-Strangers.md)  
+[A. Deacon - The Geometry of Strangers](works/A-Deacon-The-Geometry-of-Strangers.md)  
 [A.E. Velo - The Siege of Futures](works/AE-Velo-The-Siege-of-Futures.md)  
 [A.P. Erymdor - Echoes in the Dust of Thought](works/AP-Erymdor-Echoes-in-the-Dust-of-Thought.md)  
 [A.P. Mercier - The Shadow's Horizon](works/AP-Mercier-The-Shadows-Horizon.md)  
@@ -15,6 +15,7 @@
 [Amaro Inácio - The Submerged Continuum](works/Amaro-Incio-The-Submerged-Continuum.md)  
 [Amias Lumin - The Web of Emergence](works/Amias-Lumin-The-Web-of-Emergence.md)  
 [Anselm Varion - "The Gravitational Pull of Longing"](works/Anselm-Varion-"The-Gravitational-Pull-of-Longing".md)  
+[Anura Deva - The Nexus of Being and Absence](works/Anura-Deva-The-Nexus-of-Being-and-Absence.md)  
 [Arden Vexer - Entropies of Exchange](works/Arden-Vexer-Entropies-of-Exchange.md)  
 [Aria Ellsworth - Echoes of the Ancient Abyss](works/Aria-Ellsworth-Echoes-of-the-Ancient-Abyss.md)  
 [Astra Evander - Shattered Elegies](works/Astra-Evander-Shattered-Elegies.md)  
