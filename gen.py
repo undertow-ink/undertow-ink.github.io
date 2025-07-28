@@ -37,33 +37,40 @@ def do_the_thing(content):
 
 
 
-with open('authors.txt') as f:
-    lines = [line.strip() for line in f]
 
-author1, author2 = random.sample(lines, 2)
+def gen_prompt():
 
-prompt = f"""You are to write as a collaboration between {author1} and {author2}. 
+    with open('authors.txt') as f:
+        lines = [line.strip() for line in f]
+    author1, author2 = random.sample(lines, 2)
 
-Embody both authors and write a long piece as if it came from those two authors working together. Seamlessly interweave and combine the themes, tones, philosophies, and storytelling approaches of both authors. Match their writing styles, approaches, and tones. Make it emotionally compelling to the reader.
+    prompt = f"""You are to write as a collaboration between {author1} and {author2}.
 
-Do not mention any characters from their books. For non-fiction works, apply the ideas to different circumstances - zoom in or zoom out on the concepts. Focus on matching their argument styles and writing styles rather than specific beliefs.
+    Embody both authors and write a long piece as if it came from those two authors working together. Seamlessly interweave and combine the themes, tones, philosophies, and storytelling approaches of both authors. Match their writing styles, approaches, and tones. Make it emotionally compelling to the reader.
 
-Demonstrate a deep understanding of both works through your writing.
+    Do not mention any characters from their books. For non-fiction works, apply the ideas to different circumstances - zoom in or zoom out on the concepts. Focus on matching their argument styles and writing styles rather than specific beliefs.
 
-Create a fake author name not associated with the actual authors, a pseudonym.
+    Demonstrate a deep understanding of both works through your writing.
 
-Return only the creative work itself with '<pseudonym> - <title>' on the first line. No additional commentary.
+    Create a fake author name not associated with the actual authors, a pseudonym.
 
-Make the piece unafraid to draw conclusions that might unsettle or provoke. Present a clear thesis in the opening paragraph that asserts the deeper truth both authors are reaching for, as if the collaboration has distilled their shared philosophy into a single urgent statement. Let every subsequent section build on that claim with precision, weight, and emotional force, weaving analysis and aesthetic resonance so that form and content reinforce one another.
+    Return only the creative work itself with '<pseudonym> - <title>' on the first line. No additional commentary.
 
-Allow the writing to move between abstraction and the concrete, balancing intellectual rigor with sensory detail or human stakes, so that ideas feel lived and consequential. Avoid hedging or neutrality; let the prose take risks, as if these two voices together have something vital to say about the world that cannot be left unsaid.
+    Make the piece unafraid to draw conclusions that might unsettle or provoke. Present a clear thesis in the opening paragraph that asserts the deeper truth both authors are reaching for, as if the collaboration has distilled their shared philosophy into a single urgent statement. Let every subsequent section build on that claim with precision, weight, and emotional force, weaving analysis and aesthetic resonance so that form and content reinforce one another.
 
-YOU CANNOT -- CANNOT!!! -- mention either author or either title!!! --- you are creating something NEW!!! DO NOT REHASH!!!
+    Allow the writing to move between abstraction and the concrete, balancing intellectual rigor with sensory detail or human stakes, so that ideas feel lived and consequential. Avoid hedging or neutrality; let the prose take risks, as if these two voices together have something vital to say about the world that cannot be left unsaid.
 
-Imagine if one author tackled the project of the other authors book and then the other author took on the subject of their book. Then imagine this topsy terve concept collaborated on something completely new.
+    YOU CANNOT -- CANNOT!!! -- mention either author or either title!!! --- you are creating something NEW!!! DO NOT REHASH!!!
 
-"""
+    Imagine if one author tackled the project of the other authors book and then the other author took on the subject of their book. Then imagine this topsy terve concept collaborated on something completely new.
 
+    """
+
+    return prompt, author1, author2
+
+
+
+prompt, author1, author2 = gen_prompt()
 client = anthropic.Anthropic()
 print('sending API request to Claude')
 response = client.messages.create(
@@ -74,20 +81,28 @@ response = client.messages.create(
 print('received response from Claude')
 claude_content = response.content[0].text
 do_the_thing(claude_content)
+subprocess.run(["git", "add", "-A"])
+subprocess.run(["git", "commit", "-m", f"{author1.split(' - ')[0]} / {author2.split(' - ')[0]} (Claude)"])
+print('pushing to github')
+subprocess.run(["git", "push"])
 
+prompt, author1, author2 = gen_prompt()
 client = OpenAI()
 print('sending API request to ChatGPT')
 response = client.chat.completions.create(
     model="gpt-4o",
     max_tokens=4000,
-    messages=[{"role": "user", "content": prompt}]
+    # max_output_tokens=4000,
+    messages=[
+        {"role": "system", "content": "write long response"},
+        {"role": "user", "content": prompt},
+    ],
 )
 print('received response from ChatGPT')
 chatgpt_content = response.choices[0].message.content
 do_the_thing(chatgpt_content)
 
-# subprocess.run(["git", "add", filename])
 subprocess.run(["git", "add", "-A"])
-subprocess.run(["git", "commit", "-m", f"{author1} / {author2}"])
+subprocess.run(["git", "commit", "-m", f"{author1.split(' - ')[0]} / {author2.split(' - ')[0]} (ChatGPT)"])
 print('pushing to github')
 subprocess.run(["git", "push"])
