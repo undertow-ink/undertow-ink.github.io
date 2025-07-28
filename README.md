@@ -29,6 +29,7 @@
 [Columba Lark - Resonances of Existence](works/Columba-Lark-Resonances-of-Existence.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
 [D.S. Rousseau - The Fabric of Silence](works/DS-Rousseau-The-Fabric-of-Silence.md)  
+[Daniel Leith - The Shattered Veil](works/Daniel-Leith-The-Shattered-Veil.md)  
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
 [E. F. Penrose - The Minds Without Borders](works/E.-F.-Penrose-The-Minds-Without-Borders.md)  
 [E. Neotia - The Echoing Labyrinth](works/E-Neotia-The-Echoing-Labyrinth.md)  
