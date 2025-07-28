@@ -39,6 +39,7 @@
 [Larkin Ventnor - Where Life Meets the Riversweep](works/Larkin-Ventnor-Where-Life-Meets-the-Riversweep.md)  
 [Lias Toren - The Quantum Ruin](works/Lias-Toren-The-Quantum-Ruin.md)  
 [M.K. Threnody - The Flesh Archive](works/M.K.-Threnody-The-Flesh-Archive.md)  
+[Maeve Silversworn - The Tapestry of Returning](works/Maeve-Silversworn-The-Tapestry-of-Returning.md)  
 [Malachai Voss - The Abyss of Knowing](works/Malachai-Voss-The-Abyss-of-Knowing.md)  
 [Malachite Zero - The Default Network](works/Malachite-Zero-The-Default-Network.md)  
 [Mara Crenshaw - The Wet Gospel of Ruin](works/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md)  
