@@ -1,3 +1,4 @@
+[A. Deacon - The Geometry of Strangers](works/A.-Deacon-The-Geometry-of-Strangers.md)  
 [A.E. Velo - The Siege of Futures](works/AE-Velo-The-Siege-of-Futures.md)  
 [A.P. Erymdor - Echoes in the Dust of Thought](works/AP-Erymdor-Echoes-in-the-Dust-of-Thought.md)  
 [A.P. Mercier - The Shadow's Horizon](works/AP-Mercier-The-Shadows-Horizon.md)  
