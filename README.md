@@ -9,6 +9,7 @@
 [Kira Stoneweaver - The Dancing Patterns](works/Kira-Stoneweaver-The-Dancing-Patterns.md)  
 [Kwame Garrison - The Auction of Tomorrow](works/Kwame-Garrison-The-Auction-of-Tomorrow.md)  
 [Malachite Zero - The Default Network](works/Malachite-Zero-The-Default-Network.md)  
+[Mara Crenshaw - The Wet Gospel of Ruin](works/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md)  
 [Marcus Thornfeld - The Phantom at the Window](works/Marcus-Thornfeld-The-Phantom-at-the-Window.md)  
 [Marcus Thornfield - The Divided Animal](works/Marcus-Thornfield-The-Divided-Animal.md)  
 [Marina Kondo - The Maintenance of Living](works/Marina-Kondo-The-Maintenance-of-Living.md)  
