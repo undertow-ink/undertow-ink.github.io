@@ -26,6 +26,7 @@
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
 [D.S. Rousseau - The Fabric of Silence](works/DS-Rousseau-The-Fabric-of-Silence.md)  
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
+[E. F. Penrose - The Minds Without Borders](works/E.-F.-Penrose-The-Minds-Without-Borders.md)  
 [E. Neotia - The Echoing Labyrinth](works/E-Neotia-The-Echoing-Labyrinth.md)  
 [Edith Varga - The Halting Dance of Mirages](works/Edith-Varga-The-Halting-Dance-of-Mirages.md)  
 [Elara Thalassia - Divided Continuum](works/Elara-Thalassia-Divided-Continuum.md)  
