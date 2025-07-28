@@ -11,6 +11,7 @@
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
 [Ephemera Corvax - The Echoed Splinter](works/Ephemera-Corvax-The-Echoed-Splinter.md)  
 [Haruki Nakagawa - The Translator's Daughter](works/Haruki-Nakagawa-The-Translator's-Daughter.md)  
+[Ilya Varina - Echoes of Silent Seasons](works/Ilya-Varina-Echoes-of-Silent-Seasons.md)  
 [Iris Eland - "Rooted Anarchy: Threads of Mycelium and Freedom"](works/Iris-Eland-"Rooted-Anarchy:-Threads-of-Mycelium-and-Freedom".md)  
 [J.D. Whittaker - The Interstice of Selves](works/J.D.-Whittaker-The-Interstice-of-Selves.md)  
 [Jasper Orion - The Prismatic Displacement](works/Jasper-Orion-The-Prismatic-Displacement.md)  
