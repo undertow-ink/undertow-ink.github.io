@@ -9,6 +9,7 @@
 [Alexei Thorne - The Insurrection of Dead Time](works/Alexei-Thorne-The-Insurrection-of-Dead-Time.md)  
 [Alexis Meridian - The Affective Infrastructure](works/Alexis-Meridian-The-Affective-Infrastructure.md)  
 [Alexis Meridian - The Hormone of Civilization](works/Alexis-Meridian-The-Hormone-of-Civilization.md)  
+[Alfred Harmon - The Aquatic House](works/Alfred-Harmon-The-Aquatic-House.md)  
 [Alia Zarei - The Erosion of Boundaries](works/Alia-Zarei-The-Erosion-of-Boundaries.md)  
 [Alistair Leontine - The Kaleidoscope of Lost Parallels](works/Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels.md)  
 [Alma Ríos - Cartography of the Displaced](works/Alma-Ros-Cartography-of-the-Displaced.md)  
