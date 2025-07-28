@@ -51,7 +51,7 @@ first_line = content.splitlines()[0]
 new_link = f"[{first_line}]({filename})"
 
 with open('README.md') as f:
-    links = [line.strip() for line in f if line.strip()]
+    links = [line.strip() + "  " for line in f if line.strip()]
 links.append(new_link + "  ")  # two spaces at end of line forces newline in Github markdown
 links.sort(key=lambda x: x.split('[')[1].split('-')[0].strip())
 
