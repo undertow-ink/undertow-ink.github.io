@@ -31,6 +31,7 @@
 [Edith Varga - The Halting Dance of Mirages](works/Edith-Varga-The-Halting-Dance-of-Mirages.md)  
 [Elara Thalassia - Divided Continuum](works/Elara-Thalassia-Divided-Continuum.md)  
 [Elara Vespera - The Intangible Echoes](works/Elara-Vespera-The-Intangible-Echoes.md)  
+[Eleanor Bergström - A Fragile Embrace](works/Eleanor-Bergstrm-A-Fragile-Embrace.md)  
 [Elias Quay - The Arid Dawn](works/Elias-Quay-The-Arid-Dawn.md)  
 [Elyse Andora - The Symphony of Identity](works/Elyse-Andora-The-Symphony-of-Identity.md)  
 [Elysian Tressor - The Loop of Tomorrow: A Conscious Future](works/Elysian-Tressor-The-Loop-of-Tomorrow-A-Conscious-Future.md)  
