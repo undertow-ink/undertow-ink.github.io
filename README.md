@@ -3,6 +3,7 @@
 [Alexis Meridian - The Affective Infrastructure](works/Alexis-Meridian-The-Affective-Infrastructure.md)  
 [Alexis Meridian - The Hormone of Civilization](works/Alexis-Meridian-The-Hormone-of-Civilization.md)  
 [Amara Okafor - The Museum of Living Memory](works/Amara-Okafor-The-Museum-of-Living-Memory.md)  
+[Amara Sundari - The Geography of Becoming](works/Amara-Sundari-The-Geography-of-Becoming.md)  
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
