@@ -30,7 +30,11 @@ Make the piece unafraid to draw conclusions that might unsettle or provoke. Pres
 
 Allow the writing to move between abstraction and the concrete, balancing intellectual rigor with sensory detail or human stakes, so that ideas feel lived and consequential. Avoid hedging or neutrality; let the prose take risks, as if these two voices together have something vital to say about the world that cannot be left unsaid.
 
-YOU CANNOT -- CANNOT!!! -- mention either author or either title!!! --- you are creating something NEW!!!"""
+YOU CANNOT -- CANNOT!!! -- mention either author or either title!!! --- you are creating something NEW!!! DO NOT REHASH!!!
+
+Imagine if one author tackled the project of the other authors book and then the other author took on the subject of their book. Then imagine this topsy terve concept collaborated on something completely new.
+
+"""
 
 client = anthropic.Anthropic()
 
