@@ -95,6 +95,7 @@
 [Nishant Verma - The Chiaroscuro of Echoes](works/Nishant-Verma-The-Chiaroscuro-of-Echoes.md)  
 [Octavio Verdosa - Tattered Infinities](works/Octavio-Verdosa-Tattered-Infinities.md)  
 [Oskar Voss - The Resonant Chaos](works/Oskar-Voss-The-Resonant-Chaos.md)  
+[R. I. Asha - "The Veil of Consciousness and the Tapestry of Lives"](works/R.-I.-Asha-"The-Veil-of-Consciousness-and-the-Tapestry-of-Lives".md)  
 [R.K. Terminus - The Electric Meat](works/RK-Terminus-The-Electric-Meat.md)  
 [R.M. Bolivsen - The Shadows of Memory](works/RM-Bolivsen-The-Shadows-of-Memory.md)  
 [R.U. Duvall - The Inescapable Reflection](works/RU-Duvall-The-Inescapable-Reflection.md)  
