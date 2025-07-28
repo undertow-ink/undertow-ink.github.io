@@ -22,6 +22,8 @@ Do not mention any characters from their books. For non-fiction works, apply the
 
 Demonstrate a deep understanding of both works through your writing.
 
+Create a fake author name not associated with the actual authors, a pseudonym.
+
 Return only the creative work itself with '<pseudonym> - <title>' on the first line. No additional commentary."""
 
 client = anthropic.Anthropic()
@@ -32,7 +34,7 @@ response = client.messages.create(
 )
 
 content = response.content[0].text
-s = content[0]
+s = content.splitlines()[0]
 s = '-'.join([w for w in s.encode('ascii', errors='ignore').decode().split() if w not in string.punctuation])
 # timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 # filename = f"works/{timestamp}.md"
