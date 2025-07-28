@@ -1,3 +1,4 @@
+[<Aria Vasonthorpe - The Imprint of Thought on Flesh>](works/<Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh>.md)  
 [A. Deacon - The Geometry of Strangers](works/A-Deacon-The-Geometry-of-Strangers.md)  
 [A. Lumina - The Threads of Time and Spores](works/A.-Lumina-The-Threads-of-Time-and-Spores.md)  
 [A.E. Velo - The Siege of Futures](works/AE-Velo-The-Siege-of-Futures.md)  
