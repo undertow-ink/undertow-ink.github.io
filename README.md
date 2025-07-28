@@ -27,6 +27,7 @@
 [D.S. Rousseau - The Fabric of Silence](works/DS-Rousseau-The-Fabric-of-Silence.md)  
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
 [E. Neotia - The Echoing Labyrinth](works/E-Neotia-The-Echoing-Labyrinth.md)  
+[Edith Varga - The Halting Dance of Mirages](works/Edith-Varga-The-Halting-Dance-of-Mirages.md)  
 [Elara Thalassia - Divided Continuum](works/Elara-Thalassia-Divided-Continuum.md)  
 [Elara Vespera - The Intangible Echoes](works/Elara-Vespera-The-Intangible-Echoes.md)  
 [Elias Quay - The Arid Dawn](works/Elias-Quay-The-Arid-Dawn.md)  
