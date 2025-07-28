@@ -118,3 +118,4 @@
 [Veleda Marthorn - The Valley Between Shadows and Light](works/Veleda-Marthorn-The-Valley-Between-Shadows-and-Light.md)  
 [Vera Montaine - The Architecture of Dissolution](works/Vera-Montaine-The-Architecture-of-Dissolution.md)  
 [Xun Fang - The Quantum Mindscape](works/Xun-Fang-The-Quantum-Mindscape.md)  
+[Zahir A. Silman - The Horizon Beyond Belief](works/Zahir-A.-Silman-The-Horizon-Beyond-Belief.md)  
