@@ -22,6 +22,7 @@
 [K.M. Verlaine - The Weight of Copper Wire](works/K.M.-Verlaine-The-Weight-of-Copper-Wire.md)  
 [Kamilah Okonkwo - The Commons We Build](works/Kamilah-Okonkwo-The-Commons-We-Build.md)  
 [Kieran Holloway - The Vanishing Horizon](works/Kieran-Holloway-The-Vanishing-Horizon.md)  
+[Kilua Bani - The Shadow of Reason](works/Kilua-Bani-The-Shadow-of-Reason.md)  
 [Kira Stoneweaver - The Dancing Patterns](works/Kira-Stoneweaver-The-Dancing-Patterns.md)  
 [Kwame Garrison - The Auction of Tomorrow](works/Kwame-Garrison-The-Auction-of-Tomorrow.md)  
 [Lias Toren - The Quantum Ruin](works/Lias-Toren-The-Quantum-Ruin.md)  
