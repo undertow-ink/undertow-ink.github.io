@@ -50,6 +50,7 @@
 [Nevan Everdale - "Threads of Twilight"](works/Nevan-Everdale-"Threads-of-Twilight".md)  
 [Oskar Voss - "The Resonant Chaos"](works/Oskar-Voss-"The-Resonant-Chaos".md)  
 [R.K. Terminus - The Electric Meat](works/R.K.-Terminus-The-Electric-Meat.md)  
+[R.U. Duvall - The Inescapable Reflection](works/R.U.-Duvall-The-Inescapable-Reflection.md)  
 [Ruth B. Vercors - The Weight of Absence](works/Ruth-B.-Vercors-The-Weight-of-Absence.md)  
 [Simone Marquez - The Velocity of Tenderness](works/Simone-Marquez-The-Velocity-of-Tenderness.md)  
 [Solange Mercier - The Shape of What Breaks](works/Solange-Mercier-The-Shape-of-What-Breaks.md)  
