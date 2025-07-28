@@ -64,6 +64,7 @@
 [Nico Voran - The Alchemy of Identity and Truth](works/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md)  
 [Oskar Voss - "The Resonant Chaos"](works/Oskar-Voss-"The-Resonant-Chaos".md)  
 [R.K. Terminus - The Electric Meat](works/R.K.-Terminus-The-Electric-Meat.md)  
+[R.M. Bolivsen - The Shadows of Memory](works/R.M.-Bolivsen-The-Shadows-of-Memory.md)  
 [R.U. Duvall - The Inescapable Reflection](works/R.U.-Duvall-The-Inescapable-Reflection.md)  
 [Ruth B. Vercors - The Weight of Absence](works/Ruth-B.-Vercors-The-Weight-of-Absence.md)  
 [Seyla Ineiwera - The Whispering Spectrum](works/Seyla-Ineiwera-The-Whispering-Spectrum.md)  
