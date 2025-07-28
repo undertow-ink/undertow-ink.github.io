@@ -24,6 +24,7 @@
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
 [Columba Lark - Resonances of Existence](works/Columba-Lark-Resonances-of-Existence.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
+[D.S. Rousseau - The Fabric of Silence](works/D.S.-Rousseau-The-Fabric-of-Silence.md)  
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
 [E. Neotia - The Echoing Labyrinth](works/E.-Neotia-The-Echoing-Labyrinth.md)  
 [Elias Quay - The Arid Dawn](works/Elias-Quay-The-Arid-Dawn.md)  
