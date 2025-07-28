@@ -3,6 +3,7 @@
 [Amara Okafor - The Museum of Living Memory](works/Amara-Okafor-The-Museum-of-Living-Memory.md)  
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
+[Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
 [K.M. Verlaine - The Weight of Copper Wire](works/K.M.-Verlaine-The-Weight-of-Copper-Wire.md)  
 [Kamilah Okonkwo - The Commons We Build](works/Kamilah-Okonkwo-The-Commons-We-Build.md)  
 [Kieran Holloway - The Vanishing Horizon](works/Kieran-Holloway-The-Vanishing-Horizon.md)  

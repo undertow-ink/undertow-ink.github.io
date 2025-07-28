@@ -1,3 +1,5 @@
+print('no');import sys;sys.exit()
+
 import random
 import anthropic
 import subprocess
