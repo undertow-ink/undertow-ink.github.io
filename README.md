@@ -14,6 +14,7 @@
 [Amari Greysong - The Choir of Solitude](works/Amari-Greysong-The-Choir-of-Solitude.md)  
 [Amaro Inácio - The Submerged Continuum](works/Amaro-Incio-The-Submerged-Continuum.md)  
 [Amias Lumin - The Web of Emergence](works/Amias-Lumin-The-Web-of-Emergence.md)  
+[Anselm Varion - "The Gravitational Pull of Longing"](works/Anselm-Varion-"The-Gravitational-Pull-of-Longing".md)  
 [Arden Vexer - Entropies of Exchange](works/Arden-Vexer-Entropies-of-Exchange.md)  
 [Aria Ellsworth - Echoes of the Ancient Abyss](works/Aria-Ellsworth-Echoes-of-the-Ancient-Abyss.md)  
 [Astra Evander - Shattered Elegies](works/Astra-Evander-Shattered-Elegies.md)  
