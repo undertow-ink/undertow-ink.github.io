@@ -68,6 +68,7 @@
 [Sienna Calder - Edge of Kinship: A Tangled Weave](works/Sienna-Calder-Edge-of-Kinship:-A-Tangled-Weave.md)  
 [Simone Marquez - The Velocity of Tenderness](works/Simone-Marquez-The-Velocity-of-Tenderness.md)  
 [Solange Mercier - The Shape of What Breaks](works/Solange-Mercier-The-Shape-of-What-Breaks.md)  
+[Soren Harkness - From the Entangled Chorus](works/Soren-Harkness-From-the-Entangled-Chorus.md)  
 [Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
 [Theodore Forsyth - Resonant Grounds of Material and Spirit](works/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md)  
 [Uba Dutil - The Fractured Haven](works/Uba-Dutil-The-Fractured-Haven.md)  
