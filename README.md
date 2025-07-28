@@ -52,6 +52,7 @@
 [K.E. Acker - Embodied Horizons: Unraveling the Enmeshed Real  ](works/KE-Acker-Embodied-Horizons-Unraveling-the-Enmeshed-Real.md)  
 [K.M. Verlaine - The Weight of Copper Wire](works/KM-Verlaine-The-Weight-of-Copper-Wire.md)  
 [Kamilah Okonkwo - The Commons We Build](works/Kamilah-Okonkwo-The-Commons-We-Build.md)  
+[Kazuo Hiraide - The Machinery of Unnoticed Days](works/Kazuo-Hiraide-The-Machinery-of-Unnoticed-Days.md)  
 [Kieran Holloway - The Vanishing Horizon](works/Kieran-Holloway-The-Vanishing-Horizon.md)  
 [Kilua Bani - The Shadow of Reason](works/Kilua-Bani-The-Shadow-of-Reason.md)  
 [Kira Stoneweaver - The Dancing Patterns](works/Kira-Stoneweaver-The-Dancing-Patterns.md)  
