@@ -1,4 +1,5 @@
 [Alexis Meridian - The Affective Infrastructure](works/Alexis-Meridian-The-Affective-Infrastructure.md)  
+[Alexis Meridian - The Hormone of Civilization](works/Alexis-Meridian-The-Hormone-of-Civilization.md)  
 [Amara Okafor - The Museum of Living Memory](works/Amara-Okafor-The-Museum-of-Living-Memory.md)  
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
 [K.M. Verlaine - The Weight of Copper Wire](works/K.M.-Verlaine-The-Weight-of-Copper-Wire.md)  
