@@ -51,6 +51,7 @@
 [Marina Kondo - The Maintenance of Living](works/Marina-Kondo-The-Maintenance-of-Living.md)  
 [Marvela Thornwick - The Viscous Cathedral](works/Marvela-Thornwick-The-Viscous-Cathedral.md)  
 [Matthias Rosenkranz - The Threshold of the Possible](works/Matthias-Rosenkranz-The-Threshold-of-the-Possible.md)  
+[Maximilian Hawthorne - Within Eternity's Erosion](works/Maximilian-Hawthorne-Within-Eternity's-Erosion.md)  
 [Melora Graves - The Weight of Nothing](works/Melora-Graves-The-Weight-of-Nothing.md)  
 [Morgan Tidewater - The Breathing Commons](works/Morgan-Tidewater-The-Breathing-Commons.md)  
 [Mátyás Világhy - The Architecture of Waiting](works/Mtys-Vilghy-The-Architecture-of-Waiting.md)  
