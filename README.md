@@ -1,6 +1,7 @@
 [<Miriam Fields - The Illusion of Seeing Clearly>](works/<Miriam-Fields-The-Illusion-of-Seeing-Clearly>.md)  
 [<pseudonym> - <The Specter of Intangible Labor: A Haunting Synthesis>](works/<pseudonym>-<The-Specter-of-Intangible-Labor:-A-Haunting-Synthesis>.md)  
 [<pseudonym> - *Refractions of the Impossible Horizon*](works/<pseudonym>-*Refractions-of-the-Impossible-Horizon*.md)  
+[<pseudonym> - *The Vanishing Act of October Souls*](works/<pseudonym>-*The-Vanishing-Act-of-October-Souls*.md)  
 [A. E. Velo - The Siege of Futures](works/A.-E.-Velo-The-Siege-of-Futures.md)  
 [A.P. Erymdor - "Echoes in the Dust of Thought"](works/A.P.-Erymdor-"Echoes-in-the-Dust-of-Thought".md)  
 [A.P. Mercier - The Shadow's Horizon](works/A.P.-Mercier-The-Shadow's-Horizon.md)  
