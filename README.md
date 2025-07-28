@@ -1,5 +1,6 @@
 [**Arden Vexer - Entropies of Exchange**](works/**Arden-Vexer-Entropies-of-Exchange**.md)  
 [Adrienne Kohl - The Architecture of Encounter](works/Adrienne-Kohl-The-Architecture-of-Encounter.md)  
+[Alexei Thorne - The Insurrection of Dead Time](works/Alexei-Thorne-The-Insurrection-of-Dead-Time.md)  
 [Alexis Meridian - The Affective Infrastructure](works/Alexis-Meridian-The-Affective-Infrastructure.md)  
 [Alexis Meridian - The Hormone of Civilization](works/Alexis-Meridian-The-Hormone-of-Civilization.md)  
 [Amara Okafor - The Museum of Living Memory](works/Amara-Okafor-The-Museum-of-Living-Memory.md)  
