@@ -52,6 +52,7 @@
 [Melora Graves - The Weight of Nothing](works/Melora-Graves-The-Weight-of-Nothing.md)  
 [Morgan Tidewater - The Breathing Commons](works/Morgan-Tidewater-The-Breathing-Commons.md)  
 [Mátyás Világhy - The Architecture of Waiting](works/Mtys-Vilghy-The-Architecture-of-Waiting.md)  
+[N. I. Dactyl - "Patterns in the Chaos"](works/N.-I.-Dactyl-"Patterns-in-the-Chaos".md)  
 [Nadia Ahnlin - The Fracture of Embodied Divisions](works/Nadia-Ahnlin-The-Fracture-of-Embodied-Divisions.md)  
 [Nevan Everdale - "Threads of Twilight"](works/Nevan-Everdale-"Threads-of-Twilight".md)  
 [Nico Voran - The Alchemy of Identity and Truth](works/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md)  
