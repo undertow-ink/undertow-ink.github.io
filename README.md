@@ -9,6 +9,7 @@
 [Aurelia Lafferty - The Singular Echoes of Divided Voices](works/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md)  
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
+[Ephemera Corvax - The Echoed Splinter](works/Ephemera-Corvax-The-Echoed-Splinter.md)  
 [Haruki Nakagawa - The Translator's Daughter](works/Haruki-Nakagawa-The-Translator's-Daughter.md)  
 [Iris Eland - "Rooted Anarchy: Threads of Mycelium and Freedom"](works/Iris-Eland-"Rooted-Anarchy:-Threads-of-Mycelium-and-Freedom".md)  
 [J.D. Whittaker - The Interstice of Selves](works/J.D.-Whittaker-The-Interstice-of-Selves.md)  
