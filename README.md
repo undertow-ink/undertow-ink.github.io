@@ -9,4 +9,5 @@
 [Marcus Thornfeld - The Phantom at the Window](works/Marcus-Thornfeld-The-Phantom-at-the-Window.md)  
 [Marina Kondo - The Maintenance of Living](works/Marina-Kondo-The-Maintenance-of-Living.md)  
 [Matthias Rosenkranz - The Threshold of the Possible](works/Matthias-Rosenkranz-The-Threshold-of-the-Possible.md)  
+[Solange Mercier - The Shape of What Breaks](works/Solange-Mercier-The-Shape-of-What-Breaks.md)  
 [Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
