@@ -47,7 +47,19 @@ os.makedirs("works", exist_ok=True)
 with open(filename, 'w') as f:
     f.write(content)
 
-subprocess.run(["git", "add", filename])
+first_line = content.splitlines()[0]
+new_link = f"[{first_line}]({filename})"
+
+with open('README.md') as f:
+    links = [line.strip() for line in f if line.strip()]
+links.append(new_link)
+links.sort(key=lambda x: x.split('[')[1].split('-')[0].strip())
+
+with open('README.md', 'w') as f:
+    f.write('\n'.join(links))
+
+# subprocess.run(["git", "add", filename])
+subprocess.run(["git", "add", "-A"])
 subprocess.run(["git", "commit", "-m", f"Add collaboration: {author1} x {author2}"])
 print('pushing to github')
 subprocess.run(["git", "push"])
