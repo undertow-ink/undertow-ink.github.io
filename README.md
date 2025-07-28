@@ -5,4 +5,5 @@
 [Kira Stoneweaver - The Dancing Patterns](works/Kira-Stoneweaver-The-Dancing-Patterns.md)  
 [Kwame Garrison - The Auction of Tomorrow](works/Kwame-Garrison-The-Auction-of-Tomorrow.md)  
 [Marcus Thornfeld - The Phantom at the Window](works/Marcus-Thornfeld-The-Phantom-at-the-Window.md)  
+[Marina Kondo - The Maintenance of Living](works/Marina-Kondo-The-Maintenance-of-Living.md)  
 [Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
