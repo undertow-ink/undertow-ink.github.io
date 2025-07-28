@@ -7,6 +7,7 @@
 [Alexis Meridian - The Hormone of Civilization](works/Alexis-Meridian-The-Hormone-of-Civilization.md)  
 [Amara Okafor - The Museum of Living Memory](works/Amara-Okafor-The-Museum-of-Living-Memory.md)  
 [Amara Sundari - The Geography of Becoming](works/Amara-Sundari-The-Geography-of-Becoming.md)  
+[Amaro Inácio - The Submerged Continuum](works/Amaro-Incio-The-Submerged-Continuum.md)  
 [Arden Vexer - Entropies of Exchange](works/Arden-Vexer-Entropies-of-Exchange.md)  
 [Astra Evander - Shattered Elegies](works/Astra-Evander-Shattered-Elegies.md)  
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
