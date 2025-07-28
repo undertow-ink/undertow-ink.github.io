@@ -33,6 +33,7 @@
 [Oskar Voss - "The Resonant Chaos"](works/Oskar-Voss-"The-Resonant-Chaos".md)  
 [R.K. Terminus - The Electric Meat](works/R.K.-Terminus-The-Electric-Meat.md)  
 [Ruth B. Vercors - The Weight of Absence](works/Ruth-B.-Vercors-The-Weight-of-Absence.md)  
+[Simone Marquez - The Velocity of Tenderness](works/Simone-Marquez-The-Velocity-of-Tenderness.md)  
 [Solange Mercier - The Shape of What Breaks](works/Solange-Mercier-The-Shape-of-What-Breaks.md)  
 [Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
 [Vera Montaine - The Architecture of Dissolution](works/Vera-Montaine-The-Architecture-of-Dissolution.md)  
