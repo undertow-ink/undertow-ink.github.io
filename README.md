@@ -31,6 +31,7 @@
 [Kilua Bani - The Shadow of Reason](works/Kilua-Bani-The-Shadow-of-Reason.md)  
 [Kira Stoneweaver - The Dancing Patterns](works/Kira-Stoneweaver-The-Dancing-Patterns.md)  
 [Kwame Garrison - The Auction of Tomorrow](works/Kwame-Garrison-The-Auction-of-Tomorrow.md)  
+[L. C. Aetherion - "Veils of the Infinite: The Sensate Selves"](works/L.-C.-Aetherion-"Veils-of-the-Infinite:-The-Sensate-Selves".md)  
 [Lias Toren - The Quantum Ruin](works/Lias-Toren-The-Quantum-Ruin.md)  
 [M.K. Threnody - The Flesh Archive](works/M.K.-Threnody-The-Flesh-Archive.md)  
 [Malachai Voss - The Abyss of Knowing](works/Malachai-Voss-The-Abyss-of-Knowing.md)  
