@@ -86,5 +86,6 @@
 [Theodore Forsyth - Resonant Grounds of Material and Spirit](works/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md)  
 [Uba Dutil - The Fractured Haven](works/Uba-Dutil-The-Fractured-Haven.md)  
 [V.B. Ortega - "The Intersecting Bewilderment of Being"](works/V.B.-Ortega-"The-Intersecting-Bewilderment-of-Being".md)  
+[Veleda Marthorn - The Valley Between Shadows and Light](works/Veleda-Marthorn-The-Valley-Between-Shadows-and-Light.md)  
 [Vera Montaine - The Architecture of Dissolution](works/Vera-Montaine-The-Architecture-of-Dissolution.md)  
 [Xun Fang - The Quantum Mindscape](works/Xun-Fang-The-Quantum-Mindscape.md)  
