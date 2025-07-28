@@ -45,6 +45,7 @@
 [Harold Wainwright - The Echoes of Ephemeral Horizons](works/Harold-Wainwright-The-Echoes-of-Ephemeral-Horizons.md)  
 [Haruki Nakagawa - The Translator's Daughter](works/Haruki-Nakagawa-The-Translators-Daughter.md)  
 [Ilya Varina - Echoes of Silent Seasons](works/Ilya-Varina-Echoes-of-Silent-Seasons.md)  
+[Imogen Aldridge - Between Minds: The Self as Other](works/Imogen-Aldridge-Between-Minds:-The-Self-as-Other.md)  
 [Iram Ishtiaq - Threads of Dust and Light](works/Iram-Ishtiaq-Threads-of-Dust-and-Light.md)  
 [Iris Eland - Rooted Anarchy: Threads of Mycelium and Freedom](works/Iris-Eland-Rooted-Anarchy-Threads-of-Mycelium-and-Freedom.md)  
 [J.D. Whittaker - The Interstice of Selves](works/JD-Whittaker-The-Interstice-of-Selves.md)  
