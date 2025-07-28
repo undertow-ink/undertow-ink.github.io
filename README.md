@@ -14,6 +14,7 @@
 [Amaro Inácio - The Submerged Continuum](works/Amaro-Incio-The-Submerged-Continuum.md)  
 [Amias Lumin - The Web of Emergence](works/Amias-Lumin-The-Web-of-Emergence.md)  
 [Arden Vexer - Entropies of Exchange](works/Arden-Vexer-Entropies-of-Exchange.md)  
+[Aria Ellsworth - Echoes of the Ancient Abyss](works/Aria-Ellsworth-Echoes-of-the-Ancient-Abyss.md)  
 [Astra Evander - Shattered Elegies](works/Astra-Evander-Shattered-Elegies.md)  
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
 [Aurelia Lafferty - The Singular Echoes of Divided Voices](works/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md)  
