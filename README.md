@@ -32,6 +32,7 @@
 [Elysian Tressor - The Loop of Tomorrow: A Conscious Future](works/Elysian-Tressor-The-Loop-of-Tomorrow:-A-Conscious-Future.md)  
 [Ephemera Corvax - The Echoed Splinter](works/Ephemera-Corvax-The-Echoed-Splinter.md)  
 [Evander Praxis - The Labyrinth of Illusive Desires](works/Evander-Praxis-The-Labyrinth-of-Illusive-Desires.md)  
+[Harold Wainwright - The Echoes of Ephemeral Horizons](works/Harold-Wainwright-The-Echoes-of-Ephemeral-Horizons.md)  
 [Haruki Nakagawa - The Translator's Daughter](works/Haruki-Nakagawa-The-Translator's-Daughter.md)  
 [Ilya Varina - Echoes of Silent Seasons](works/Ilya-Varina-Echoes-of-Silent-Seasons.md)  
 [Iris Eland - "Rooted Anarchy: Threads of Mycelium and Freedom"](works/Iris-Eland-"Rooted-Anarchy:-Threads-of-Mycelium-and-Freedom".md)  
