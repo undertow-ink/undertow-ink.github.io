@@ -8,6 +8,7 @@
 [Amara Okafor - The Museum of Living Memory](works/Amara-Okafor-The-Museum-of-Living-Memory.md)  
 [Amara Sundari - The Geography of Becoming](works/Amara-Sundari-The-Geography-of-Becoming.md)  
 [Arden Vexer - Entropies of Exchange](works/Arden-Vexer-Entropies-of-Exchange.md)  
+[Astra Evander - Shattered Elegies](works/Astra-Evander-Shattered-Elegies.md)  
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
 [Aurelia Lafferty - The Singular Echoes of Divided Voices](works/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md)  
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
