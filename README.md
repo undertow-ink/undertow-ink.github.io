@@ -8,6 +8,7 @@
 [Alma Ríos - Cartography of the Displaced](works/Alma-Ros-Cartography-of-the-Displaced.md)  
 [Amara Okafor - The Museum of Living Memory](works/Amara-Okafor-The-Museum-of-Living-Memory.md)  
 [Amara Sundari - The Geography of Becoming](works/Amara-Sundari-The-Geography-of-Becoming.md)  
+[Amari Greysong - The Choir of Solitude](works/Amari-Greysong-The-Choir-of-Solitude.md)  
 [Amaro Inácio - The Submerged Continuum](works/Amaro-Incio-The-Submerged-Continuum.md)  
 [Amias Lumin - The Web of Emergence](works/Amias-Lumin-The-Web-of-Emergence.md)  
 [Arden Vexer - Entropies of Exchange](works/Arden-Vexer-Entropies-of-Exchange.md)  
