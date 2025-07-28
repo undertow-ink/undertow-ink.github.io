@@ -4,6 +4,7 @@
 [A.P. Mercier - The Shadow's Horizon](works/AP-Mercier-The-Shadows-Horizon.md)  
 [Adelaide Verrine - The Layered Self ](works/Adelaide-Verrine-The-Layered-Self.md)  
 [Adrienne Kohl - The Architecture of Encounter](works/Adrienne-Kohl-The-Architecture-of-Encounter.md)  
+[Aldwin G. Clairvoyant - The Intersection of Silence and Gesture](works/Aldwin-G.-Clairvoyant-The-Intersection-of-Silence-and-Gesture.md)  
 [Alexei Thorne - The Insurrection of Dead Time](works/Alexei-Thorne-The-Insurrection-of-Dead-Time.md)  
 [Alexis Meridian - The Affective Infrastructure](works/Alexis-Meridian-The-Affective-Infrastructure.md)  
 [Alexis Meridian - The Hormone of Civilization](works/Alexis-Meridian-The-Hormone-of-Civilization.md)  
