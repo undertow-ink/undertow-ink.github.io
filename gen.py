@@ -27,12 +27,15 @@ Create a fake author name not associated with the actual authors, a pseudonym.
 Return only the creative work itself with '<pseudonym> - <title>' on the first line. No additional commentary."""
 
 client = anthropic.Anthropic()
+
+print('sending API request to Claude')
 response = client.messages.create(
     model="claude-opus-4-20250514",
     max_tokens=4000,
     messages=[{"role": "user", "content": prompt}]
 )
 
+print('received response from Claude')
 content = response.content[0].text
 s = content.splitlines()[0]
 s = '-'.join([w for w in s.encode('ascii', errors='ignore').decode().split() if w not in string.punctuation])
@@ -46,4 +49,5 @@ with open(filename, 'w') as f:
 
 subprocess.run(["git", "add", filename])
 subprocess.run(["git", "commit", "-m", f"Add collaboration: {author1} x {author2}"])
+print('pushing to github')
 subprocess.run(["git", "push"])
