@@ -17,6 +17,7 @@
 [Kieran Holloway - The Vanishing Horizon](works/Kieran-Holloway-The-Vanishing-Horizon.md)  
 [Kira Stoneweaver - The Dancing Patterns](works/Kira-Stoneweaver-The-Dancing-Patterns.md)  
 [Kwame Garrison - The Auction of Tomorrow](works/Kwame-Garrison-The-Auction-of-Tomorrow.md)  
+[M.K. Threnody - The Flesh Archive](works/M.K.-Threnody-The-Flesh-Archive.md)  
 [Malachite Zero - The Default Network](works/Malachite-Zero-The-Default-Network.md)  
 [Mara Crenshaw - The Wet Gospel of Ruin](works/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md)  
 [Marcus Thornfeld - The Phantom at the Window](works/Marcus-Thornfeld-The-Phantom-at-the-Window.md)  
