@@ -50,6 +50,7 @@
 [Mátyás Világhy - The Architecture of Waiting](works/Mtys-Vilghy-The-Architecture-of-Waiting.md)  
 [Nadia Ahnlin - The Fracture of Embodied Divisions](works/Nadia-Ahnlin-The-Fracture-of-Embodied-Divisions.md)  
 [Nevan Everdale - "Threads of Twilight"](works/Nevan-Everdale-"Threads-of-Twilight".md)  
+[Nico Voran - The Alchemy of Identity and Truth](works/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md)  
 [Oskar Voss - "The Resonant Chaos"](works/Oskar-Voss-"The-Resonant-Chaos".md)  
 [R.K. Terminus - The Electric Meat](works/R.K.-Terminus-The-Electric-Meat.md)  
 [R.U. Duvall - The Inescapable Reflection](works/R.U.-Duvall-The-Inescapable-Reflection.md)  
