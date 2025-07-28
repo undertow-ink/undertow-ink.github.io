@@ -91,6 +91,7 @@
 [Nevan Everdale - Threads of Twilight](works/Nevan-Everdale-Threads-of-Twilight.md)  
 [Nico Voran - The Alchemy of Identity and Truth](works/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md)  
 [Nishant Verma - The Chiaroscuro of Echoes](works/Nishant-Verma-The-Chiaroscuro-of-Echoes.md)  
+[Octavio Verdosa - Tattered Infinities](works/Octavio-Verdosa-Tattered-Infinities.md)  
 [Oskar Voss - The Resonant Chaos](works/Oskar-Voss-The-Resonant-Chaos.md)  
 [R.K. Terminus - The Electric Meat](works/RK-Terminus-The-Electric-Meat.md)  
 [R.M. Bolivsen - The Shadows of Memory](works/RM-Bolivsen-The-Shadows-of-Memory.md)  
