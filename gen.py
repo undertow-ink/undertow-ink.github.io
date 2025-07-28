@@ -24,7 +24,11 @@ Demonstrate a deep understanding of both works through your writing.
 
 Create a fake author name not associated with the actual authors, a pseudonym.
 
-Return only the creative work itself with '<pseudonym> - <title>' on the first line. No additional commentary."""
+Return only the creative work itself with '<pseudonym> - <title>' on the first line. No additional commentary.
+
+Make the piece unafraid to draw conclusions that might unsettle or provoke. Present a clear thesis in the opening paragraph that asserts the deeper truth both authors are reaching for, as if the collaboration has distilled their shared philosophy into a single urgent statement. Let every subsequent section build on that claim with precision, weight, and emotional force, weaving analysis and aesthetic resonance so that form and content reinforce one another.
+
+Allow the writing to move between abstraction and the concrete, balancing intellectual rigor with sensory detail or human stakes, so that ideas feel lived and consequential. Avoid hedging or neutrality; let the prose take risks, as if these two voices together have something vital to say about the world that cannot be left unsaid."""
 
 client = anthropic.Anthropic()
 

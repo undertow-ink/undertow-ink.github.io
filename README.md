@@ -1,3 +1,4 @@
+[Alexis Meridian - The Affective Infrastructure](works/Alexis-Meridian-The-Affective-Infrastructure.md)  
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
 [K.M. Verlaine - The Weight of Copper Wire](works/K.M.-Verlaine-The-Weight-of-Copper-Wire.md)  
 [Kamilah Okonkwo - The Commons We Build](works/Kamilah-Okonkwo-The-Commons-We-Build.md)  
