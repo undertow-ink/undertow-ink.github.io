@@ -1,3 +1,4 @@
+[A.P. Mercier - The Shadow's Horizon](works/A.P.-Mercier-The-Shadow's-Horizon.md)  
 [Adrienne Kohl - The Architecture of Encounter](works/Adrienne-Kohl-The-Architecture-of-Encounter.md)  
 [Alexei Thorne - The Insurrection of Dead Time](works/Alexei-Thorne-The-Insurrection-of-Dead-Time.md)  
 [Alexis Meridian - The Affective Infrastructure](works/Alexis-Meridian-The-Affective-Infrastructure.md)  
