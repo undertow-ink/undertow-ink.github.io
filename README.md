@@ -13,6 +13,7 @@
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
 [Aurelia Lafferty - The Singular Echoes of Divided Voices](works/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md)  
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
+[Columba Lark - Resonances of Existence](works/Columba-Lark-Resonances-of-Existence.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
 [Elysian Tressor - The Loop of Tomorrow: A Conscious Future](works/Elysian-Tressor-The-Loop-of-Tomorrow:-A-Conscious-Future.md)  
