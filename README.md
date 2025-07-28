@@ -20,6 +20,7 @@
 [Columba Lark - Resonances of Existence](works/Columba-Lark-Resonances-of-Existence.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
+[E. Neotia - The Echoing Labyrinth](works/E.-Neotia-The-Echoing-Labyrinth.md)  
 [Elysian Tressor - The Loop of Tomorrow: A Conscious Future](works/Elysian-Tressor-The-Loop-of-Tomorrow:-A-Conscious-Future.md)  
 [Ephemera Corvax - The Echoed Splinter](works/Ephemera-Corvax-The-Echoed-Splinter.md)  
 [Evander Praxis - The Labyrinth of Illusive Desires](works/Evander-Praxis-The-Labyrinth-of-Illusive-Desires.md)  
