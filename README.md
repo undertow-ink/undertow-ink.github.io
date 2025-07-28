@@ -27,6 +27,7 @@
 [D.S. Rousseau - The Fabric of Silence](works/D.S.-Rousseau-The-Fabric-of-Silence.md)  
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
 [E. Neotia - The Echoing Labyrinth](works/E.-Neotia-The-Echoing-Labyrinth.md)  
+[Elara Thalassia - Divided Continuum](works/Elara-Thalassia-Divided-Continuum.md)  
 [Elias Quay - The Arid Dawn](works/Elias-Quay-The-Arid-Dawn.md)  
 [Elysian Tressor - The Loop of Tomorrow: A Conscious Future](works/Elysian-Tressor-The-Loop-of-Tomorrow:-A-Conscious-Future.md)  
 [Ephemera Corvax - The Echoed Splinter](works/Ephemera-Corvax-The-Echoed-Splinter.md)  
