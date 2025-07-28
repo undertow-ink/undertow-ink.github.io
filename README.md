@@ -108,6 +108,7 @@
 [Tarsu Alagbala - The Looming Clay](works/Tarsu-Alagbala-The-Looming-Clay.md)  
 [Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
 [Theodore Forsyth - Resonant Grounds of Material and Spirit](works/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md)  
+[Theren Sylvas - Echoes of the Inward Landscape](works/Theren-Sylvas-Echoes-of-the-Inward-Landscape.md)  
 [Uba Dutil - The Fractured Haven](works/Uba-Dutil-The-Fractured-Haven.md)  
 [V.B. Ortega - The Intersecting Bewilderment of Being](works/VB-Ortega-The-Intersecting-Bewilderment-of-Being.md)  
 [Veleda Marthorn - The Valley Between Shadows and Light](works/Veleda-Marthorn-The-Valley-Between-Shadows-and-Light.md)  
