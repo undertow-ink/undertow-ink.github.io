@@ -63,6 +63,7 @@
 [Nadia Ahnlin - The Fracture of Embodied Divisions](works/Nadia-Ahnlin-The-Fracture-of-Embodied-Divisions.md)  
 [Nevan Everdale - "Threads of Twilight"](works/Nevan-Everdale-"Threads-of-Twilight".md)  
 [Nico Voran - The Alchemy of Identity and Truth](works/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md)  
+[Nishant Verma - The Chiaroscuro of Echoes](works/Nishant-Verma-The-Chiaroscuro-of-Echoes.md)  
 [Oskar Voss - "The Resonant Chaos"](works/Oskar-Voss-"The-Resonant-Chaos".md)  
 [R.K. Terminus - The Electric Meat](works/R.K.-Terminus-The-Electric-Meat.md)  
 [R.M. Bolivsen - The Shadows of Memory](works/R.M.-Bolivsen-The-Shadows-of-Memory.md)  
