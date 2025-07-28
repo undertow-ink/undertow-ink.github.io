@@ -101,6 +101,7 @@
 [Solange Mercier - The Shape of What Breaks](works/Solange-Mercier-The-Shape-of-What-Breaks.md)  
 [Solaria Vignettes - "The Infinite Survey of Singularities"](works/Solaria-Vignettes-"The-Infinite-Survey-of-Singularities".md)  
 [Soren Harkness - From the Entangled Chorus](works/Soren-Harkness-From-the-Entangled-Chorus.md)  
+[Soren Whitfield - The Quantum Plains: Conversations on Tangible Intangibilities  ](works/Soren-Whitfield-The-Quantum-Plains:-Conversations-on-Tangible-Intangibilities.md)  
 [Tarsu Alagbala - The Looming Clay](works/Tarsu-Alagbala-The-Looming-Clay.md)  
 [Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
 [Theodore Forsyth - Resonant Grounds of Material and Spirit](works/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md)  
