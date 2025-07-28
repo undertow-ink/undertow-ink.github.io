@@ -12,6 +12,7 @@
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
+[Elysian Tressor - The Loop of Tomorrow: A Conscious Future](works/Elysian-Tressor-The-Loop-of-Tomorrow:-A-Conscious-Future.md)  
 [Ephemera Corvax - The Echoed Splinter](works/Ephemera-Corvax-The-Echoed-Splinter.md)  
 [Haruki Nakagawa - The Translator's Daughter](works/Haruki-Nakagawa-The-Translator's-Daughter.md)  
 [Ilya Varina - Echoes of Silent Seasons](works/Ilya-Varina-Echoes-of-Silent-Seasons.md)  
