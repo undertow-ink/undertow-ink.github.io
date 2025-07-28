@@ -1,7 +1,8 @@
-print('no');import sys;sys.exit()
+# print('no');import sys;sys.exit()
 
 import random
 import anthropic
+from openai import OpenAI
 import subprocess
 from datetime import datetime
 import os
@@ -10,6 +11,31 @@ import string
 from dotenv import load_dotenv
 
 load_dotenv()
+
+
+def do_the_thing(content):
+    s = content.splitlines()[0]
+    s = '-'.join([w for w in s.encode('ascii', errors='ignore').decode().split() if w not in string.punctuation])
+    # timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # filename = f"works/{timestamp}.md"
+    filename = f"works/{s}.md"
+
+    os.makedirs("works", exist_ok=True)
+    with open(filename, 'w') as f:
+        f.write(content)
+
+    first_line = content.splitlines()[0]
+    new_link = f"[{first_line}]({filename})"
+
+    with open('README.md') as f:
+        links = [line.strip() + "  " for line in f if line.strip()]
+    links.append(new_link + "  ")  # two spaces at end of line forces newline in Github markdown
+    links.sort(key=lambda x: x.split('[')[1].split('-')[0].strip())
+
+    with open('README.md', 'w') as f:
+        f.write('\n'.join(links))
+
+
 
 with open('authors.txt') as f:
     lines = [line.strip() for line in f]
@@ -39,39 +65,29 @@ Imagine if one author tackled the project of the other authors book and then the
 """
 
 client = anthropic.Anthropic()
-
 print('sending API request to Claude')
 response = client.messages.create(
     model="claude-opus-4-20250514",
     max_tokens=4000,
     messages=[{"role": "user", "content": prompt}]
 )
-
 print('received response from Claude')
-content = response.content[0].text
-s = content.splitlines()[0]
-s = '-'.join([w for w in s.encode('ascii', errors='ignore').decode().split() if w not in string.punctuation])
-# timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-# filename = f"works/{timestamp}.md"
-filename = f"works/{s}.md"
+claude_content = response.content[0].text
+do_the_thing(claude_content)
 
-os.makedirs("works", exist_ok=True)
-with open(filename, 'w') as f:
-    f.write(content)
-
-first_line = content.splitlines()[0]
-new_link = f"[{first_line}]({filename})"
-
-with open('README.md') as f:
-    links = [line.strip() + "  " for line in f if line.strip()]
-links.append(new_link + "  ")  # two spaces at end of line forces newline in Github markdown
-links.sort(key=lambda x: x.split('[')[1].split('-')[0].strip())
-
-with open('README.md', 'w') as f:
-    f.write('\n'.join(links))
+client = OpenAI()
+print('sending API request to ChatGPT')
+response = client.chat.completions.create(
+    model="gpt-4o",
+    max_tokens=4000,
+    messages=[{"role": "user", "content": prompt}]
+)
+print('received response from ChatGPT')
+chatgpt_content = response.choices[0].message.content
+do_the_thing(chatgpt_content)
 
 # subprocess.run(["git", "add", filename])
 subprocess.run(["git", "add", "-A"])
-subprocess.run(["git", "commit", "-m", f"Add collaboration: {author1} x {author2}"])
+subprocess.run(["git", "commit", "-m", f"{author1} / {author2}"])
 print('pushing to github')
 subprocess.run(["git", "push"])
