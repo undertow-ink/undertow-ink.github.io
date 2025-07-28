@@ -2,6 +2,7 @@
 [A.E. Velo - The Siege of Futures](works/AE-Velo-The-Siege-of-Futures.md)  
 [A.P. Erymdor - Echoes in the Dust of Thought](works/AP-Erymdor-Echoes-in-the-Dust-of-Thought.md)  
 [A.P. Mercier - The Shadow's Horizon](works/AP-Mercier-The-Shadows-Horizon.md)  
+[Adelaide Verrine - The Layered Self ](works/Adelaide-Verrine-The-Layered-Self.md)  
 [Adrienne Kohl - The Architecture of Encounter](works/Adrienne-Kohl-The-Architecture-of-Encounter.md)  
 [Alexei Thorne - The Insurrection of Dead Time](works/Alexei-Thorne-The-Insurrection-of-Dead-Time.md)  
 [Alexis Meridian - The Affective Infrastructure](works/Alexis-Meridian-The-Affective-Infrastructure.md)  
