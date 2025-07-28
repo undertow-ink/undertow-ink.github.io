@@ -60,6 +60,7 @@
 [L.C. Aetherion - Veils of the Infinite: The Sensate Selves](works/LC-Aetherion-Veils-of-the-Infinite-The-Sensate-Selves.md)  
 [Lamia Everhart - In the Embrace of Horizons](works/Lamia-Everhart-In-the-Embrace-of-Horizons.md)  
 [Larkin Ventnor - Where Life Meets the Riversweep](works/Larkin-Ventnor-Where-Life-Meets-the-Riversweep.md)  
+[Leila Ardan - Shadows in the Periphery](works/Leila-Ardan-Shadows-in-the-Periphery.md)  
 [Lias Toren - The Quantum Ruin](works/Lias-Toren-The-Quantum-Ruin.md)  
 [M.K. Threnody - The Flesh Archive](works/MK-Threnody-The-Flesh-Archive.md)  
 [Maeve Silversworn - The Tapestry of Returning](works/Maeve-Silversworn-The-Tapestry-of-Returning.md)  
