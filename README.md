@@ -32,6 +32,7 @@
 [Ilya Varina - Echoes of Silent Seasons](works/Ilya-Varina-Echoes-of-Silent-Seasons.md)  
 [Iris Eland - "Rooted Anarchy: Threads of Mycelium and Freedom"](works/Iris-Eland-"Rooted-Anarchy:-Threads-of-Mycelium-and-Freedom".md)  
 [J.D. Whittaker - The Interstice of Selves](works/J.D.-Whittaker-The-Interstice-of-Selves.md)  
+[Jasper E. Fallon - The Harmony of Evocative Disarray](works/Jasper-E.-Fallon-The-Harmony-of-Evocative-Disarray.md)  
 [Jasper Orion - The Prismatic Displacement](works/Jasper-Orion-The-Prismatic-Displacement.md)  
 [Jules Bernard - The Unyielding Tapestry: Civilization in the Unraveling World](works/Jules-Bernard-The-Unyielding-Tapestry:-Civilization-in-the-Unraveling-World.md)  
 [K.E. Acker - "Embodied Horizons: Unraveling the Enmeshed Real"  ](works/K.E.-Acker-"Embodied-Horizons:-Unraveling-the-Enmeshed-Real".md)  
