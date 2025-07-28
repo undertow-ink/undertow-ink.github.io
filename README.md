@@ -66,6 +66,7 @@
 [R.K. Terminus - The Electric Meat](works/R.K.-Terminus-The-Electric-Meat.md)  
 [R.U. Duvall - The Inescapable Reflection](works/R.U.-Duvall-The-Inescapable-Reflection.md)  
 [Ruth B. Vercors - The Weight of Absence](works/Ruth-B.-Vercors-The-Weight-of-Absence.md)  
+[Seyla Ineiwera - The Whispering Spectrum](works/Seyla-Ineiwera-The-Whispering-Spectrum.md)  
 [Sienna Calder - Edge of Kinship: A Tangled Weave](works/Sienna-Calder-Edge-of-Kinship:-A-Tangled-Weave.md)  
 [Simone Marquez - The Velocity of Tenderness](works/Simone-Marquez-The-Velocity-of-Tenderness.md)  
 [Solange Mercier - The Shape of What Breaks](works/Solange-Mercier-The-Shape-of-What-Breaks.md)  
