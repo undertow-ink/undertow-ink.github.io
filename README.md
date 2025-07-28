@@ -19,6 +19,7 @@
 [Iris Eland - "Rooted Anarchy: Threads of Mycelium and Freedom"](works/Iris-Eland-"Rooted-Anarchy:-Threads-of-Mycelium-and-Freedom".md)  
 [J.D. Whittaker - The Interstice of Selves](works/J.D.-Whittaker-The-Interstice-of-Selves.md)  
 [Jasper Orion - The Prismatic Displacement](works/Jasper-Orion-The-Prismatic-Displacement.md)  
+[Jules Bernard - The Unyielding Tapestry: Civilization in the Unraveling World](works/Jules-Bernard-The-Unyielding-Tapestry:-Civilization-in-the-Unraveling-World.md)  
 [K.M. Verlaine - The Weight of Copper Wire](works/K.M.-Verlaine-The-Weight-of-Copper-Wire.md)  
 [Kamilah Okonkwo - The Commons We Build](works/Kamilah-Okonkwo-The-Commons-We-Build.md)  
 [Kieran Holloway - The Vanishing Horizon](works/Kieran-Holloway-The-Vanishing-Horizon.md)  
