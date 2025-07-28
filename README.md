@@ -27,6 +27,7 @@
 [Derek Thorpe - The Unknown Divide](works/Derek-Thorpe-The-Unknown-Divide.md)  
 [E. Neotia - The Echoing Labyrinth](works/E-Neotia-The-Echoing-Labyrinth.md)  
 [Elara Thalassia - Divided Continuum](works/Elara-Thalassia-Divided-Continuum.md)  
+[Elara Vespera - The Intangible Echoes](works/Elara-Vespera-The-Intangible-Echoes.md)  
 [Elias Quay - The Arid Dawn](works/Elias-Quay-The-Arid-Dawn.md)  
 [Elyse Andora - The Symphony of Identity](works/Elyse-Andora-The-Symphony-of-Identity.md)  
 [Elysian Tressor - The Loop of Tomorrow: A Conscious Future](works/Elysian-Tressor-The-Loop-of-Tomorrow-A-Conscious-Future.md)  

@@ -1,4 +1,4 @@
-# print('no');import sys;sys.exit()
+print('no');import sys;sys.exit()
 
 import random
 import anthropic
