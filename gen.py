@@ -70,21 +70,21 @@ def gen_prompt():
 
 
 
-prompt, author1, author2 = gen_prompt()
-client = anthropic.Anthropic()
-print('sending API request to Claude')
-response = client.messages.create(
-    model="claude-opus-4-20250514",
-    max_tokens=4000,
-    messages=[{"role": "user", "content": prompt}]
-)
-print('received response from Claude')
-claude_content = response.content[0].text
-do_the_thing(claude_content)
-subprocess.run(["git", "add", "-A"])
-subprocess.run(["git", "commit", "-m", f"{author1.split(' - ')[0]} / {author2.split(' - ')[0]} (Claude)"])
-print('pushing to github')
-subprocess.run(["git", "push"])
+# prompt, author1, author2 = gen_prompt()
+# client = anthropic.Anthropic()
+# print('sending API request to Claude')
+# response = client.messages.create(
+#     model="claude-opus-4-20250514",
+#     max_tokens=4000,
+#     messages=[{"role": "user", "content": prompt}]
+# )
+# print('received response from Claude')
+# claude_content = response.content[0].text
+# do_the_thing(claude_content)
+# subprocess.run(["git", "add", "-A"])
+# subprocess.run(["git", "commit", "-m", f"{author1.split(' - ')[0]} / {author2.split(' - ')[0]} (Claude)"])
+# print('pushing to github')
+# subprocess.run(["git", "push"])
 
 prompt, author1, author2 = gen_prompt()
 client = OpenAI()
