@@ -27,6 +27,7 @@
 [Aurelia Blackwood - The Weight of Seeing](works/Aurelia-Blackwood-The-Weight-of-Seeing.md)  
 [Aurelia Lafferty - The Singular Echoes of Divided Voices](works/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md)  
 [Aurora Márquez - The Unseen Mirage](works/Aurora-Mrquez-The-Unseen-Mirage.md)  
+[Baziel Ames - The Luminal Street](works/Baziel-Ames-The-Luminal-Street.md)  
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
 [Columba Lark - Resonances of Existence](works/Columba-Lark-Resonances-of-Existence.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
