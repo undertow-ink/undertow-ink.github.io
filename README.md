@@ -63,6 +63,7 @@
 [Larkin Ventnor - Where Life Meets the Riversweep](works/Larkin-Ventnor-Where-Life-Meets-the-Riversweep.md)  
 [Leila Ardan - Shadows in the Periphery](works/Leila-Ardan-Shadows-in-the-Periphery.md)  
 [Lias Toren - The Quantum Ruin](works/Lias-Toren-The-Quantum-Ruin.md)  
+[Lysander Revenant - The Constellation's Ruin](works/Lysander-Revenant-The-Constellation's-Ruin.md)  
 [M.K. Threnody - The Flesh Archive](works/MK-Threnody-The-Flesh-Archive.md)  
 [Maeve Silversworn - The Tapestry of Returning](works/Maeve-Silversworn-The-Tapestry-of-Returning.md)  
 [Malachai Voss - The Abyss of Knowing](works/Malachai-Voss-The-Abyss-of-Knowing.md)  
