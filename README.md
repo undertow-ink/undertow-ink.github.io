@@ -8,6 +8,7 @@
 [Cassandra Windham - The Violence of Empty Horizons](works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md)  
 [Cyrus Thorne - The Abandonment Economy](works/Cyrus-Thorne-The-Abandonment-Economy.md)  
 [Haruki Nakagawa - The Translator's Daughter](works/Haruki-Nakagawa-The-Translator's-Daughter.md)  
+[J.D. Whittaker - The Interstice of Selves](works/J.D.-Whittaker-The-Interstice-of-Selves.md)  
 [K.M. Verlaine - The Weight of Copper Wire](works/K.M.-Verlaine-The-Weight-of-Copper-Wire.md)  
 [Kamilah Okonkwo - The Commons We Build](works/Kamilah-Okonkwo-The-Commons-We-Build.md)  
 [Kieran Holloway - The Vanishing Horizon](works/Kieran-Holloway-The-Vanishing-Horizon.md)  
