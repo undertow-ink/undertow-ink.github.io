@@ -50,3 +50,4 @@
 [Solange Mercier - The Shape of What Breaks](works/Solange-Mercier-The-Shape-of-What-Breaks.md)  
 [Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
 [Vera Montaine - The Architecture of Dissolution](works/Vera-Montaine-The-Architecture-of-Dissolution.md)  
+[Xun Fang - The Quantum Mindscape](works/Xun-Fang-The-Quantum-Mindscape.md)  
