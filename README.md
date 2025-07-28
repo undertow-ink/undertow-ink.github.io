@@ -27,6 +27,7 @@
 [Kwame Garrison - The Auction of Tomorrow](works/Kwame-Garrison-The-Auction-of-Tomorrow.md)  
 [Lias Toren - The Quantum Ruin](works/Lias-Toren-The-Quantum-Ruin.md)  
 [M.K. Threnody - The Flesh Archive](works/M.K.-Threnody-The-Flesh-Archive.md)  
+[Malachai Voss - The Abyss of Knowing](works/Malachai-Voss-The-Abyss-of-Knowing.md)  
 [Malachite Zero - The Default Network](works/Malachite-Zero-The-Default-Network.md)  
 [Mara Crenshaw - The Wet Gospel of Ruin](works/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md)  
 [Marcus Thornfeld - The Phantom at the Window](works/Marcus-Thornfeld-The-Phantom-at-the-Window.md)  
