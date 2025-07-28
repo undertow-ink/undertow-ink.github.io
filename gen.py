@@ -28,7 +28,9 @@ Return only the creative work itself with '<pseudonym> - <title>' on the first l
 
 Make the piece unafraid to draw conclusions that might unsettle or provoke. Present a clear thesis in the opening paragraph that asserts the deeper truth both authors are reaching for, as if the collaboration has distilled their shared philosophy into a single urgent statement. Let every subsequent section build on that claim with precision, weight, and emotional force, weaving analysis and aesthetic resonance so that form and content reinforce one another.
 
-Allow the writing to move between abstraction and the concrete, balancing intellectual rigor with sensory detail or human stakes, so that ideas feel lived and consequential. Avoid hedging or neutrality; let the prose take risks, as if these two voices together have something vital to say about the world that cannot be left unsaid."""
+Allow the writing to move between abstraction and the concrete, balancing intellectual rigor with sensory detail or human stakes, so that ideas feel lived and consequential. Avoid hedging or neutrality; let the prose take risks, as if these two voices together have something vital to say about the world that cannot be left unsaid.
+
+YOU CANNOT -- CANNOT!!! -- mention either author or either title!!! --- you are creating something NEW!!!"""
 
 client = anthropic.Anthropic()
 

@@ -7,6 +7,7 @@
 [Kwame Garrison - The Auction of Tomorrow](works/Kwame-Garrison-The-Auction-of-Tomorrow.md)  
 [Malachite Zero - The Default Network](works/Malachite-Zero-The-Default-Network.md)  
 [Marcus Thornfeld - The Phantom at the Window](works/Marcus-Thornfeld-The-Phantom-at-the-Window.md)  
+[Marcus Thornfield - The Divided Animal](works/Marcus-Thornfield-The-Divided-Animal.md)  
 [Marina Kondo - The Maintenance of Living](works/Marina-Kondo-The-Maintenance-of-Living.md)  
 [Matthias Rosenkranz - The Threshold of the Possible](works/Matthias-Rosenkranz-The-Threshold-of-the-Possible.md)  
 [R.K. Terminus - The Electric Meat](works/R.K.-Terminus-The-Electric-Meat.md)  
