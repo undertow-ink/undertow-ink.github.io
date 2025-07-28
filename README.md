@@ -63,6 +63,7 @@
 [Simone Marquez - The Velocity of Tenderness](works/Simone-Marquez-The-Velocity-of-Tenderness.md)  
 [Solange Mercier - The Shape of What Breaks](works/Solange-Mercier-The-Shape-of-What-Breaks.md)  
 [Thandiwe Okonkwo - The Hunger Circle](works/Thandiwe-Okonkwo-The-Hunger-Circle.md)  
+[Theodore Forsyth - Resonant Grounds of Material and Spirit](works/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md)  
 [Uba Dutil - The Fractured Haven](works/Uba-Dutil-The-Fractured-Haven.md)  
 [Vera Montaine - The Architecture of Dissolution](works/Vera-Montaine-The-Architecture-of-Dissolution.md)  
 [Xun Fang - The Quantum Mindscape](works/Xun-Fang-The-Quantum-Mindscape.md)  
