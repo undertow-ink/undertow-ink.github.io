@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Writings
+title: All writings
 ---
 [Claire Donovan - The Essence of Willowbrook](/works/Claire-Donovan-The-Essence-of-Willowbrook.html)  
 [Daniel Wells - The Water That Left Us](works/Daniel-Wells-The-Water-That-Left-Us.md)  
