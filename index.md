@@ -10,5 +10,6 @@ title: Writings
 [Maya Cortez - The Keeper's Inheritance](/works/Maya-Cortez-The-Keeper's-Inheritance.html)  
 [Michael Hartley - The Whispering Garden](/works/Michael-Hartley-The-Whispering-Garden.html)  
 [Rachel Pierce - The Secrets of Alderwood Hall](/works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.html)  
+[Rachel Pierce - The Weight of Water Music](/works/Rachel-Pierce-The-Weight-of-Water-Music.html)  
 [Ruth Sterling - The Institutional Nights](works/Ruth-Sterling-The-Institutional-Nights.md)  
 [Sarah Coleman - Harrow's Bend](/works/Sarah-Coleman-Harrows-Bend.md)  
