@@ -16,4 +16,5 @@ title: Writings
 [Robert Kane - The Foundry District](/works/Robert-Kane-The-Foundry-District.html)  
 [Ruth Sterling - The Institutional Nights](works/Ruth-Sterling-The-Institutional-Nights.md)  
 [Sarah Coleman - Harrow's Bend](/works/Sarah-Coleman-Harrows-Bend.md)  
+[Sarah Coleman - Westwind Bay](/works/Sarah-Coleman-Westwind-Bay.html)  
 [Thomas Grey - The Tides of Hartcliffe](/works/Thomas-Grey-The-Tides-of-Hartcliffe.html)  
