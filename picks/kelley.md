@@ -5,7 +5,7 @@ title: Kelley's picks
 
 ### Kelley's picks
 
-![Kelley](/assets/kelley.jpg)
+![Kelley](/assets/kelley.png)
 
 Kelley enjoys the works of Ann Patchett, Elizabeth Gilbert, Kristin Hannah, Danzy Senna, and Emily Habeck,
 
