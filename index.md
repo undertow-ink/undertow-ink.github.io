@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Writings
 ---
 
 [Aria Vasonthorpe - The Imprint of Thought on Flesh](works/Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh.md)  
