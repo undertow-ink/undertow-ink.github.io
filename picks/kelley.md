@@ -7,6 +7,8 @@ title: Kelley's picks
 
 Kelley enjoys the works of Ann Patchett, Elizabeth Gilbert, Kristin Hannah, Danzy Senna, and Emily Habeck.
 
+
+[Claire Donovan - The Essence of Willowbrook](/works/Claire-Donovan-The-Essence-of-Willowbrook.html)  
 [Maya Cortez - The Keeper's Inheritance](/works/Maya-Cortez-The-Keeper's-Inheritance.html)  
 [Rachel Pierce - The Secrets of Alderwood Hall](/works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.html)  
 [Rachel Pierce - The Weight of Water Music](/works/Rachel-Pierce-The-Weight-of-Water-Music.html)  
