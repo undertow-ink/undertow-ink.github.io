@@ -75,6 +75,7 @@
 [Malachai Voss - The Abyss of Knowing](works/Malachai-Voss-The-Abyss-of-Knowing.md)  
 [Malachite Zero - The Default Network](works/Malachite-Zero-The-Default-Network.md)  
 [Mara Crenshaw - The Wet Gospel of Ruin](works/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md)  
+[Mara Ellingsen - The Weight of Water](works/Mara-Ellingsen-The-Weight-of-Water.md)  
 [Marcus Thornfeld - The Phantom at the Window](works/Marcus-Thornfeld-The-Phantom-at-the-Window.md)  
 [Marcus Thornfield - The Divided Animal](works/Marcus-Thornfield-The-Divided-Animal.md)  
 [Marina Castellar - The Dissolution of Paradise](works/Marina-Castellar-The-Dissolution-of-Paradise.md)  
