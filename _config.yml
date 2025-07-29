@@ -2,5 +2,6 @@ theme: minima
 title: undertow.ink
 description: Undertow Ink
 
-header_pages:
-  - index.md
+navigation:
+  - title: Home
+    url: /
