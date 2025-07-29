@@ -7,5 +7,7 @@ title: Brian's picks
 
 Brian enjoys the works of Karl Ove Knausgaard, Ted Chiang, Leonora Carrington, Anne Carson, and J. M. Coetzee.
 
+
+[David Chen - What Remains, What Returns](/works/David-Chen-What-Remains,-What-Returns.html)  
 [Erik Lindqvist - The Weight of Stones](/works/Erik-Lindqvist-The-Weight-of-Stones.html)  
 [Ruth Sterling - The Institutional Nights](/works/Ruth-Sterling-The-Institutional-Nights.html)  

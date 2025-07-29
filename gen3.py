@@ -1,5 +1,5 @@
-print('paused');import sys;sys.exit()
-import time; time.sleep(5)
+# print('paused');import sys;sys.exit()
+# import time; time.sleep(5)
 
 import random
 import anthropic
