@@ -12,6 +12,7 @@ title: All writings
 [Helena Cross - Larkspur's Awakening](/works/Helena-Cross-Larkspur's-Awakening.html)  
 [Helena Cross - The Weight of Translation](/works/Helena-Cross-The-Weight-of-Translation.html)  
 [Maya Cortez - The Keeper's Inheritance](/works/Maya-Cortez-The-Keeper's-Inheritance.html)  
+[Maya Cortez - Ardor Bay](/works/Maya-Cortez-Ardor-Bay.html)  
 [Michael Hartley - The Whispering Garden](/works/Michael-Hartley-The-Whispering-Garden.html)  
 [Michael Hartley - The Weight of Morning](/works/Michael-Hartley-The-Weight-of-Morning.html)  
 [Rachel Pierce - The Secrets of Alderwood Hall](/works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.html)  
