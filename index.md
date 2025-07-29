@@ -1,6 +1,6 @@
 ---
 layout: home
-title: All writings
+title: Writings
 ---
 [Daniel Wells - The Water That Left Us](works/Daniel-Wells-The-Water-That-Left-Us.md)  
 [Daniel Wells - The Herrera Letters](/works/Daniel-Wells-The-Herrera-Letters.html)  
@@ -8,6 +8,7 @@ title: All writings
 [Erik Lindqvist - The Weight of Stones](works/Erik-Lindqvist-The-Weight-of-Stones.md)  
 [Helena Cross - Larkspur's Awakening](/works/Helena-Cross-Larkspur's-Awakening.html)  
 [Maya Cortez - The Keeper's Inheritance](/works/Maya-Cortez-The-Keeper's-Inheritance.html)  
+[Michael Hartley - The Whispering Garden](/works/Michael-Hartley-The-Whispering-Garden.html)  
 [Rachel Pierce - The Secrets of Alderwood Hall](/works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.html)  
 [Ruth Sterling - The Institutional Nights](works/Ruth-Sterling-The-Institutional-Nights.md)  
 [Sarah Coleman - Harrow's Bend](/works/Sarah-Coleman-Harrows-Bend.md)  
