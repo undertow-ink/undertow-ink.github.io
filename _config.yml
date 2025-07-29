@@ -5,3 +5,5 @@ description: Undertow Ink
 navigation:
   - title: Writings
     url: /
+  - title: Kelley's picks
+    url: /picks/kelley.md
