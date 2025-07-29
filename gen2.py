@@ -1,12 +1,32 @@
 import random
 
-authors = [
-    ('Ann Patchett', 'Sarah Coleman'),
-    ('Elizabeth Gilbert', 'Mara Ellingsen'),
-    ('Kristin Hannah', 'Rachel Pierce'),
-    ('Danzy Senna', 'Maya Cortez'),
-    ('Emily Habeck', 'Claire Donovan'),
-]
+picker = 'Brian'
+
+authors_by_picker = {
+    'Kelley': [
+        ('Ann Patchett', 'Sarah Coleman'),
+        ('Elizabeth Gilbert', 'Mara Ellingsen'),
+        ('Kristin Hannah', 'Rachel Pierce'),
+        ('Danzy Senna', 'Maya Cortez'),
+        ('Emily Habeck', 'Claire Donovan'),
+    ],
+    'Brian': [
+        ('Karl Ove Knausgaard', 'Erik Lindqvist'),
+        ('Ted Chiang', 'David Chen'),
+        ('Leonora Carrington', 'Helena Cross'),
+        ('Anne Carson', 'Ruth Sterling'),
+        ('J. M. Coetzee', 'Michael Hartley'),
+    ],
+    'Phyllis': [
+        ('George R. R. Martin', 'Thomas Grey'),
+        ('Nick Bantock', 'Alex Rivers'),
+        ('Barry Hannah', 'Jake Morrison'),
+        ('James M. Cain', 'Robert Kane'),
+        ('Bernard Cornwell', 'Daniel Wells'),
+    ],
+}
+
+authors = authors_by_picker[picker]
 
 random.shuffle(authors)  # in-place
 
