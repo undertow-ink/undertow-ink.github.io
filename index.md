@@ -9,6 +9,7 @@ title: Writings
 [David Chen - The Tides of Silence](/works/David-Chen-The-Tides-of-Silence.html)  
 [Erik Lindqvist - The Weight of Stones](works/Erik-Lindqvist-The-Weight-of-Stones.md)  
 [Helena Cross - Larkspur's Awakening](/works/Helena-Cross-Larkspur's-Awakening.html)  
+[Helena Cross - The Weight of Translation](/works/Helena-Cross-The-Weight-of-Translation.html)  
 [Maya Cortez - The Keeper's Inheritance](/works/Maya-Cortez-The-Keeper's-Inheritance.html)  
 [Michael Hartley - The Whispering Garden](/works/Michael-Hartley-The-Whispering-Garden.html)  
 [Rachel Pierce - The Secrets of Alderwood Hall](/works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.html)  

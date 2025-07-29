@@ -1,5 +1,5 @@
-# print('paused');import sys;sys.exit()
-# import time; time.sleep(5)
+print('paused');import sys;sys.exit()
+import time; time.sleep(5)
 
 import random
 import anthropic
@@ -29,7 +29,7 @@ def do_the_thing(content):
         lines = [line.strip() + "  " for line in f if line.strip() and not line.startswith('---') and line != 'layout: home' and line != 'title: All writings']
     
     # preserve header
-    header = "---\nlayout: home\ntitle: Writings\n---\n"
+    header = "---\nlayout: home\ntitle: All writings\n---\n"
     
     links = [line for line in lines if line.startswith('[')]
     links.append(new_link + "  ")  # two spaces at end of line forces newline in Github markdown
