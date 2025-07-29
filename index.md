@@ -13,6 +13,7 @@ title: All writings
 [Helena Cross - The Weight of Translation](/works/Helena-Cross-The-Weight-of-Translation.html)  
 [Maya Cortez - The Keeper's Inheritance](/works/Maya-Cortez-The-Keeper's-Inheritance.html)  
 [Michael Hartley - The Whispering Garden](/works/Michael-Hartley-The-Whispering-Garden.html)  
+[Michael Hartley - The Weight of Morning](/works/Michael-Hartley-The-Weight-of-Morning.html)  
 [Rachel Pierce - The Secrets of Alderwood Hall](/works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.html)  
 [Rachel Pierce - The Weight of Water Music](/works/Rachel-Pierce-The-Weight-of-Water-Music.html)  
 [Robert Kane - The Foundry District](/works/Robert-Kane-The-Foundry-District.html)  
