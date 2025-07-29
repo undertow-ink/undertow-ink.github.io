@@ -26,7 +26,7 @@ def do_the_thing(content):
     new_link = f"[{first_line}](/{filename.split('.')[0]}.html)"
 
     with open('index.md') as f:
-        lines = [line.strip() + "  " for line in f if line.strip() and not line.startswith('---') and line != 'layout: home' and line != 'title: Writings']
+        lines = [line.strip() + "  " for line in f if line.strip() and not line.startswith('---') and line != 'layout: home' and line != 'title: All writings']
     
     # preserve header
     header = "---\nlayout: home\ntitle: Writings\n---\n"
