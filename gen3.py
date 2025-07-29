@@ -1,4 +1,5 @@
-# print('paused');import sys;sys.exit()
+print('paused');import sys;sys.exit()
+import time; time.sleep(5)
 
 import random
 import anthropic
@@ -22,7 +23,7 @@ def do_the_thing(content):
         f.write(content)
 
     first_line = content.splitlines()[0]
-    new_link = f"[{first_line}]({filename})"
+    new_link = f"[{first_line}](/{filename.split('.')[0]}.html)"
 
     with open('index.md') as f:
         lines = [line.strip() + "  " for line in f if line.strip() and not line.startswith('---') and line != 'layout: home' and line != 'title: Writings']
@@ -252,5 +253,5 @@ new_link = do_the_thing(story_content)
 update_picker_file(picker, new_link)
 subprocess.run(["git", "add", "-A"])
 subprocess.run(["git", "commit", "-m", f"{authors[0][0]} + {authors[1][0]} plan, {authors[4][0]} writes (ChatGPT)"])
-print('pushing to github')
-subprocess.run(["git", "push"])
+# print('pushing to github')
+# subprocess.run(["git", "push"])
