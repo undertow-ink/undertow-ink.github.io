@@ -11,6 +11,7 @@ title: Writings
 [Michael Hartley - The Whispering Garden](/works/Michael-Hartley-The-Whispering-Garden.html)  
 [Rachel Pierce - The Secrets of Alderwood Hall](/works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.html)  
 [Rachel Pierce - The Weight of Water Music](/works/Rachel-Pierce-The-Weight-of-Water-Music.html)  
+[Robert Kane - The Foundry District](/works/Robert-Kane-The-Foundry-District.html)  
 [Ruth Sterling - The Institutional Nights](works/Ruth-Sterling-The-Institutional-Nights.md)  
 [Sarah Coleman - Harrow's Bend](/works/Sarah-Coleman-Harrows-Bend.md)  
 [Thomas Grey - The Tides of Hartcliffe](/works/Thomas-Grey-The-Tides-of-Hartcliffe.html)  
