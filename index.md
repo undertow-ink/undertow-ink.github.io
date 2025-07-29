@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Writings
+title: All writings
 ---
 [Daniel Wells - The Water That Left Us](works/Daniel-Wells-The-Water-That-Left-Us.md)  
 [Daniel Wells - The Herrera Letters](/works/Daniel-Wells-The-Herrera-Letters.html)  
