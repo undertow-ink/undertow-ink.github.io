@@ -1,4 +1,4 @@
-K.E. Acker - "Embodied Horizons: Unraveling the Enmeshed Real"  
+K.E. Acker - Embodied Horizons: Unraveling the Enmeshed Real
 
 In the dim glow of a world that insists on its fragmentation, we embark on a journey towards a truth that dares to counter the dissonance: Real agency lies hidden in the ensemble, buried within the undercurrents of the collective dance—a dynamic coherence brought forth through lived entanglements and embodied imaginings. This dance, this entanglement of minds and matter, desires and hauntings, becomes the stage upon which the unseen is rendered visible, where potentiality spills into the torrents of the everyday, refusing to be merely a deference to the harsh cut of reality.
 

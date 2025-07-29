@@ -1,4 +1,4 @@
-N. I. Dactyl - "Patterns in the Chaos"
+N. I. Dactyl - Patterns in the Chaos
 
 In a world perpetually on the brink of unraveling, it's not merely the entropic disintegration that beckons us, but the configurations that emerge from it, the patterns that defy the very chaos they inhabit. This collaborative journey begins with a conviction: that only through acknowledging the intricate dance between disorder and order, between destruction and creation, can we hope to grasp the paradoxical nature of existence itself. It is here, entwined in the baroque tapestry of technology, organism, and myth, that we uncover the unexpected resilience of connection and the eerie symphony of machinery.
 

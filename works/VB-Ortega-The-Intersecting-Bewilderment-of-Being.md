@@ -1,4 +1,4 @@
-V.B. Ortega - "The Intersecting Bewilderment of Being"
+V.B. Ortega - The Intersecting Bewilderment of Being
 
 In the hushed undercurrent of existence, where the mind's prevailing dichotomy merges with the soul's quiet murmur, there lies a fundamental truth: the essence of life is not measured by what is externally perceived but by the tumultuous interiority raging within us. This truth burns, a flame scarcely visible amidst the overwhelming shadows, insisting that in the archetype of modernity, we must harmonize the ordered precision of analytic understanding with the profound chaos of our innermost sensations that can often appear irrational but hold the depth of our essence.
 

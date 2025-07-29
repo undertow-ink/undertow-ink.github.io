@@ -1,5 +1,4 @@
-The Weight of Water  
-by Mara Ellingsen
+Mara Ellingsen - The Weight of Water
 
 She arrived on the early bus, the kind that stopped for no one, not even the ghosts that lined the highway in the faint light of dawn. The windows rattled as it crossed the bridge into town, that bridge she had sworn never to see again. From her seat she could already smell it, the river with its mix of silt and rot, the faint tang of sawdust that somehow lingered decades after the mill had gone quiet. She pressed her forehead to the glass and told herself it was temporary, that she would do what needed to be done and then leave again, fast, like a thief sneaking out a back door.
 

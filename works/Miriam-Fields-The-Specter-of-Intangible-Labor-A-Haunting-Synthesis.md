@@ -1,4 +1,4 @@
-<pseudonym> - <The Specter of Intangible Labor: A Haunting Synthesis>
+Miriam Fields - The Specter of Intangible Labor: A Haunting Synthesis
 
 In this era of disenchantment, a specter haunts the substrata of existence—a specter that breathes past the diaphanous veil of history, intertwining the corporeal sufferings of capital's crucible with the ineffable horror of a world that defies human comprehension. This specter, at once tangible and elusive, beckons us to confront a disquieting truth: that the interplay between flesh and thought, earth and ether, is both the poison and the cure that defines our shared destiny. In illuminating this spectral landscape, we discern a duality that has long been shrouded in obscurity, a duality that defines not just the world as it is but also the worlds as they could, or perhaps must, be imagined.
 

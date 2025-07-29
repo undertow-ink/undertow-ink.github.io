@@ -1,4 +1,4 @@
-Nevan Everdale - "Threads of Twilight"
+Nevan Everdale - Threads of Twilight
 
 In the loom of human history, woven from strands both light and dark, there exists an immutable truth: the fabric of society is not a passive tapestry, but a living organism, breathing and pulsating with the agony and ecstasy of human endeavor. It is a tale of creation and destruction, where every choice echoes in the yawning chasm of the cosmos, reverberating with the clamor of voices long silenced and dreams left to decay in the wake of advancing time. This narrative, though marked by complexity and contradiction, is no less ours to embody, and embodies us in turn, a reciprocal dance between self and the society that contains us.
 

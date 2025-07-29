@@ -1,4 +1,4 @@
-E. F. Penrose - The Minds Without Borders
+E.F. Penrose - The Minds Without Borders
 
 Amidst the ever-flowing surge of existence, we find ourselves ensnared in the delicate confluence of perception and identity, a dance both ephemeral and eternal. In this intricate symphony of mind and matter, lies the unsettling yet profoundly liberating stance: We are each both artist and audience in the endless theater of consciousness, creators of our narratives and yet captive to the absurd unpredictability of life. To glimpse this dual nature is to engage in a radical act of introspection — a journey through the landscapes of thought that defy conventional mappings.
 

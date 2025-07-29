@@ -1,4 +1,4 @@
-<pseudonym> - *The Vanishing Act of October Souls*
+Miriam Fields - The Vanishing Act of October Souls
 
 In the twilight of shared myth and autonomous experience, we grapple with the haunting assertion: that to be human is to be both present and absent, to weave stories as intricate as the labyrinth and as fleeting as the October fog. This paradox is not merely academic; it is the raw, palpable truth that shapes our inner and outer worlds. It demands attention, insists on contemplation, and defies comfortable resolution.
 

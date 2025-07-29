@@ -1,4 +1,4 @@
-Oskar Voss - "The Resonant Chaos"
+Oskar Voss - The Resonant Chaos
 
 In every moment of being, we find the eerie echo of our own demise; yet, it is not mortality itself that haunts us, but the cacophony of fears layered intricately within the bright façade of our daily lives. This collision of dread and routine compels us to confront the spectacle of survival in a world that refuses to acknowledge its own dark underbelly. A latent noise beneath the white hum of everyday existence, it is the presence of an unacknowledged despair that thrums through the veins of our digital arteries and whispers secrets through the static of our televisions. This is the delicate burden we bear: living as ghosts among shadows, caught within a cultural machinery that denies us our full spectrum of truth.
 

@@ -1,4 +1,4 @@
-Anselm Varion - "The Gravitational Pull of Longing"
+Anselm Varion - The Gravitational Pull of Longing
 
 In the heart of every soul resides a wilderness of longing—a turbulent, unchartable terrain where boundless desire collides with the weight of destiny. It is this paradox that we inhabit, leading us to question whether the yearning we feel is an otherworldly nostalgia or simply a signal that we are perpetually out of sync with our own present. This aching dichotomy of existence, wrapped in a veil of despair and fleeting moments of transcendent beauty, serves as the immutable seed from which all human endeavor sprouts.
 

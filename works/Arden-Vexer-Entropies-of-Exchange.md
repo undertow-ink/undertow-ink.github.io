@@ -1,4 +1,4 @@
-**Arden Vexer - Entropies of Exchange**
+Arden Vexer - Entropies of Exchange
 
 In the intertwined tapestry of human society and technology, where information pulsates with the flicker of digital particles and marketplaces vie for the authenticity of our souls, there lies the shivering heart of our connection: the spectrum of exchange and the cloud of meaning, forever redefined by externalities most only glimpsed in altered states of conscience or commerce. It is in this tether, frail yet unbreakably dynamic, that we confront the frightening thesis: true liberation thrives not in the closure of boundaries and the solace of ownership but in a radical openness to the chaos inherent in shared destinies.
 
