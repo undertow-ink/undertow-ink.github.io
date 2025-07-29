@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Alistair Leontine - The Kaleidoscope of Lost Parallels
 
 When we strip back the layers of life's veneer to its marrow, we encounter an irresistible, if daunting, invitation to confront the incongruity of our existence. It is within this stark confrontation that lies the paramount truth: the lives we do not lead possess a haunting vitality, a phantom life that shadows our every choice, holding a mirror to the paths left untraveled. Together, we plunge into the tumultuous confluence of our lived decisions and the spectral resonance of alternate destinies, a macabre dance between the quotidian and the existential abyss.

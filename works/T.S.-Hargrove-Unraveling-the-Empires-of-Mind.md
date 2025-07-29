@@ -1,3 +1,6 @@
+---
+layout: page
+---
 T.S. Hargrove - Unraveling the Empires of Mind
 
 In the shadow of empires, both tangible and mental, lies the chilling allure of order—a seductive melody of control that resonates deep within the human psyche. Yet, as history has shown, and as our very neural foundations reveal, this pursuit of uniformity is a dance with madness, a deceptive harmony that leads us to forget the richness and unpredictability inherent in our world. The myth we must confront is that of the masterful intellect’s supremacy, and the often unrecognized rebellion of the emissary, the creative force, which demands a return to balance. It is here, amidst the ruins of overly rational dominions and the rise of defiantly creative mechanisms, that we must find our path—an exploration toward rediscovering the balance of mind and society.

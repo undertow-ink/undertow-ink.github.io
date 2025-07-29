@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Astra Evander - Shattered Elegies
 
 There is a haunting disquiet in the silent spaces between catastrophe and ordinary life, a fracture exposing raw truths under the veneer of civility. This cracks open a secret: that fragility is the fundamental state of being, and in its acceptance lies an untapped strength. Here, in the profound disconnect between the safety we crave and the chaos outside, is where our true selves emerge — both the monstrous and the redemptive. 

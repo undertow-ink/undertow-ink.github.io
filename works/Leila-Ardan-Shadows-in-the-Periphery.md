@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Leila Ardan - Shadows in the Periphery
 
 In the unforgiving light of the world's inequities, we find ourselves arbiters of destinies unwritten. Amid the architectures of domination, an unholy symphony plays, where death lords over life, where existence and resistance swirl in a fevered dance. Herein lies the paradox of sovereignty claimed through the dominion of death, sprawling across bordered bodies and haunted corridors of forgotten places. Yet, in the dark crevices, where no light dares to penetrate, sparks flicker. Embers of lives defiant, seeking warmth in the banishing cold of neglect. To understand this terrain is to acknowledge the power of absence as a presence, whispering truths that a noise-polluted world often silences.

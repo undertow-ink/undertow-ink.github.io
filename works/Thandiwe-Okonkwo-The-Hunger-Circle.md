@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Thandiwe Okonkwo - The Hunger Circle
 
 The doughnut sits on the table like a zero, like nothing, like everything. Sweet glaze catching fluorescent light in this township café where the coffee tastes of burnt earth and disappointment. I trace its circular edge with my finger, this Western confection that somehow contains all of economics, all of ecology, all of our gnawing hunger.

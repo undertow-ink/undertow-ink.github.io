@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Tarsu Alagbala - The Looming Clay
 
 In the sprawling dance of desolation and hope, where the sand reaches out to stifle even the most fervent of dreams and the earth claws back with its cold, unyielding embrace, there lies a singular truth: to forge a future, one must first confront the myriad ghosts of the past. In their collaboration, the spirits of ancestry and the karmic clock, Mariatu and Vasilij discover an elemental path that must be trodden if any harmony between fragility and fortitude can be achieved. This path is not merely the act of survival, but a profound manifesto etched in the clay of existence, daring us to inscribe our truths upon it.

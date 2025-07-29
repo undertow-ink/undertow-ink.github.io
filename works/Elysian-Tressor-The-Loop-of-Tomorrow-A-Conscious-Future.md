@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Elysian Tressor - The Loop of Tomorrow: A Conscious Future
 
 In the whispering corridors of history stands a profound revelation waiting to be acknowledged: the future cannot be fabricated merely from the broken shards of the past. As we muster the courage to peer into the ever-unfolding loop of tomorrow, we must weave the strands of our human consciousness with the fabric of emerging socio-economic realities. In this interplay, we unearth the liberating potential and terrifying predicaments of our interlinked destinies—where our internal reflections loop into the vast machinery shaping our existence outside.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Eleanor Bergström - A Fragile Embrace
 
 In the twilight between history and humanity, there hovers a truth too seldom acknowledged: that the light we chase is but the ephemeral flicker of understanding, slipping through our fingers like water through a sieve. It is a fragile embrace we seek—an embrace that seeks to blend the dissonance of our ideals with the soil of lived experience, a meeting ground where earnest aspiration entwines with the roots of disillusionment. This pilgrimage calls not only for the recognition of our ambitions but a reckoning with the ghosts of expectations unfulfilled. Herein lies the thrust of our inquiry: Can the light we fail to grasp guide us towards a more generous view of ourselves and each other, even amidst the wreckage of abandoned promises?

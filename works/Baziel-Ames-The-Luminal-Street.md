@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Baziel Ames - The Luminal Street
 
 In a world constantly stretching toward an elusive horizon, where moments slip into memories before their essence can be grasped, we witness the undulating dance of humanity and alienation, the communal and the spectral. Life here, in its ever-bent yearning, asks a question as startling as it is profound: what holds us together as we unravel?

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Cyrus Thorne - The Abandonment Economy
 
 The great lie of our age is that we need what they sell us. Every morning ten million souls rise to service machines that do not love them, to earn credits for things that will not save them, while somewhere in the margins the abandoned discover they can live. Not just survive—live. The proof walks among us in torn shoes and mended hearts, building worlds from what the winners threw away.

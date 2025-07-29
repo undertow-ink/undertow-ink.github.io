@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Kamilah Okonkwo - The Commons We Build
 
 The problem isn't that we lack solutions. The problem is that every solution we create gets swallowed by the same machinery that created the problem in the first place.

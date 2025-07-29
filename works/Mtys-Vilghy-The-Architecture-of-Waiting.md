@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Mátyás Világhy - The Architecture of Waiting
 
 The waiting room contains the entire universe—not metaphorically, but in the precise mathematical sense that each particle of dust suspended in its stale air maps to a distant star, each crack in the linoleum corresponds to a fissure in reality itself, and the woman sitting across from you, clutching her numbered ticket, is simultaneously here and dispersed across infinite planes of existence, though she believes she is merely waiting for her name to be called. This is the first truth: that waiting is not the absence of action but the only action that encompasses all others, the mother-gesture from which every human movement emerges like a stunted child crawling from the womb of time itself.

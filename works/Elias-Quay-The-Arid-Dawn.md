@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Elias Quay - The Arid Dawn
 
 In the brittle landscape trembling on the cusp of transformation, the souls of humanity must grapple with an unsettling truth: Capital is no longer a living god but a lingering specter, while chaos roams unhindered, seeking to birth new forms in the shell of the old. It is here, in the interstitial space where systems decay and new paradigms thirst to break through, that we must confront our stark realities and imagine futures that transcend mere survival.

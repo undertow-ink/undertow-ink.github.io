@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Adelaide Verrine - The Layered Self 
 
 In the vast theater of human experience, the curtain rises and falls on stages constructed not from tangible wood and nails, but from vibrant networks, dynamic, fluid, and ceaselessly evolving. It is here, in this ethereal anonymity, that we dare to uncover the layered self—a being fashioned from the perception of emotions and the tapestry of memory, language, and narrative. In this palimpsest of existence, our identities waver, resist simplification, and extend far beyond rigid binaries.

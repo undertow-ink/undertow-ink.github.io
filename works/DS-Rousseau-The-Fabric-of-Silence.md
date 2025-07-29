@@ -1,3 +1,6 @@
+---
+layout: page
+---
 D.S. Rousseau - The Fabric of Silence
 
 In the cold interstitial space between the thought that flickers unwelcome into consciousness and the decision to embrace or repudiate it, lies the undisturbed truth of our existence: that we are each bound by an invisible, self-woven web of narratives, and yet, all of life urges toward liberation—toward breaking that web. We live perpetually in the epoch of silence, where every unvoiced thought is a thread in the larger garment of our muted fears and unfulfilled yearnings. To unravel this garment, to wear our interior lives as vivid as dreams, is a task at once daunting and necessary. This is the crux of our dilemma, the core of the human experience we are continuously stitching and unstitching.

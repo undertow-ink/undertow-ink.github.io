@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Amaro Inácio - The Submerged Continuum
 
 In the soft shudder of an afternoon, between the cadence of a heartbeat and the collapse of silence, lives the rupture—impenetrable yet always whispering its relentless prophecy. It is here, in this precipice of potentiality, that a more profound truth shivers: the human condition, stripped bare, reveals a core untethered, glossed over by society's fabric, yearning for its own annihilation, yet inexplicably bound to its echoes.

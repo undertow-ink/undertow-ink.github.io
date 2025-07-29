@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Harold Wainwright - The Echoes of Ephemeral Horizons
 
 In the burgeoning digital twilight of the world, where the spectral glow of screens draws us like moths to an electronic flame, the remnants of once-tangible realities flicker in and out of view, offering specters of a past both too recent and too alien. We stand at the crossroads of existential longing and technological immersion, suspended within the dialogue between what has been lost and what is being constructed, or perhaps, more hauntingly, deconstructed. It is neither nostalgia nor futurism that lights our path but an unsettling synthesis of both: the mythology of progress shadowed by phantoms of unresolved absence.

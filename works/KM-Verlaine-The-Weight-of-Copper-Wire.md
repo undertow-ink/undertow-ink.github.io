@@ -1,3 +1,6 @@
+---
+layout: page
+---
 K.M. Verlaine - The Weight of Copper Wire
 
 The earth remembers everything, even the things we pretend it doesn't. Especially those things.

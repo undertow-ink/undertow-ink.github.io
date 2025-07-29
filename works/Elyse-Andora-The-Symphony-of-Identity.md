@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Elyse Andora - The Symphony of Identity
 
 We stand at a threshold, where the contours of identity and consciousness, malleable as molten earth, beckon us to shape them deliberately. In this symphony of becoming, where each note resonates with the next, the synapses of our brain hum with a potential that demands an attentive fostering. This is not merely an introspective journey but rather a call to action, an insistence on the recognition of our capacity to transform, both personally and collectively, without fear or reservation.

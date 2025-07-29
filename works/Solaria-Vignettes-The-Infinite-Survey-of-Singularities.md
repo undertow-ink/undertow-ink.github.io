@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Solaria Vignettes - The Infinite Survey of Singularities
 
 In the luminescent barrage of contemporary existence, we encounter the paradox of the individual who, submerged in the relentless flood of mediated appearances, silently yearns for the embrace of an undefined yet powerful connection. Here lies our premise: in a society pulsating with isolation masked as hyper-connectivity, the unique potentiality of the individual is both the locus of salvation and despair. Across this vast terrain, the social fragments are woven through narratives of surveillances and exhibitions, promises of becoming, and nostalgic recollections of a world that never was—a world where the promise of being counted amongst others remains perpetually deferred.

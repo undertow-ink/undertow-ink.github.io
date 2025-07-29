@@ -1,3 +1,6 @@
+---
+layout: page
+---
 E. Neotia - The Echoing Labyrinth
 
 In the tangled thickets of human consciousness, we spiral – not in mere chaos, but in a vibrant, self-revising labyrinth that echoes with the laughter of creation and the whispers of understanding. At our core lies the fundamental dance between identity and absence, where our reflections upon reflection craft identities as liquid and ungraspable as light upon water. This entanglement stakes its claim: We are the architects of our own strange habitats, and within these twisting corridors, the sacred seed of creativity blossoms into a furious insistence upon life, unfurling with ferocity and grace.

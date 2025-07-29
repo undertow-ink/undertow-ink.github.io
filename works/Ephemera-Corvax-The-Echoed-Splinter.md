@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Ephemera Corvax - The Echoed Splinter
 
 In the half-light of a world unmoored from its illusions, an essential truth unravels itself: freedom is a stage misremembered, always retreating into crumbled alleys and burned-out soundscapes where the forgotten symphonies of human existence play on in secret concerts. It is within these liminal zones, defying permanence, that the soul finds its rallying ground, where marginalized voices crash together in cacophonic harmony against the sanctioned cadence of power.

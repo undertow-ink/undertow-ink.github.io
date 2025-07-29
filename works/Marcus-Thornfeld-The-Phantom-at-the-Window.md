@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Marcus Thornfeld - The Phantom at the Window
 
 The human animal stands before a mirror and sees what no other creature has ever seen: itself as a self. This elaborate hallucination, this tunnel of consciousness we mistake for reality, is perhaps evolution's cruelest joke. We are the only species condemned to believe in our own existence.

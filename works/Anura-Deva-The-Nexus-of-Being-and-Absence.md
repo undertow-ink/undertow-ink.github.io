@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Anura Deva - The Nexus of Being and Absence
 
 The fractured terrain of our inner landscapes oscillates between chaos and harmony, like the shimmering mirage of a world that is both present and absent. In this interstice, where one must grapple with the concept that existence itself is both a solitary journey and a collective experience, we find the heart of our inquiry: the tension between emergence and dissolution. Just as the left hemisphere seeks to control and categorize, its emissary coiled tightly against the encroaching uncertainty, yet it is the master’s deft touch that perceives the entirety of being — a synthesis woven through the muscle memory of a body unknowingly preparing for the dance of its own demise.

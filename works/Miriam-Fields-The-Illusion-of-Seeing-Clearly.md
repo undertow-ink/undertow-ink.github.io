@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Miriam Fields - The Illusion of Seeing Clearly
 
 In the murky interplay of reality and perception, we find ourselves standing on thin ice, glancing downward into the frosted reflection of our own existence. Here is where our quest begins—a search for the tenuous threads linking trust and betrayal, identity and alienation. Each thread is woven into a fabric bearing the weight of stories untold, secrets kept, and the hushed whispers echoing between what is and what appears to be. Clarity is a mirage, both proximate and distant, inviting yet elusive. Together we contend with this stark paradox, recognizing that to truly see is as much a voluntary act of unseeing.

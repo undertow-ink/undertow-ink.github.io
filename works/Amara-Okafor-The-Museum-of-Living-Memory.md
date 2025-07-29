@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Amara Okafor - The Museum of Living Memory
 
 The dead do not disappear; they are curated. This is the first lesson of sovereignty—that power manifests not merely in the capacity to kill, but in the meticulous arrangement of who remains visible in death and who dissolves into the substrate of forgetting. Every nation builds its museums on this principle, though few acknowledge the breathing bodies that serve as their most essential exhibitions.

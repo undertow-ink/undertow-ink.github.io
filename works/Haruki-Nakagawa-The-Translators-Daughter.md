@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Haruki Nakagawa - The Translator's Daughter
 
 In the end, we are all translators of our own humiliation, rendering the untranslatable fact of our existence into languages that will never suffice. This is the burden that modernity has placed upon us: to live between tongues that cannot speak our truths, in bodies that betray our deepest comprehensions, reaching always for a home that recedes with each word we utter.

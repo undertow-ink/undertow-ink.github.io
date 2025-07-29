@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Elara Thalassia - Divided Continuum
 
 ---

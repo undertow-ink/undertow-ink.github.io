@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Octavio Verdosa - Tattered Infinities
 
 The horizon, with its endless stretch, blank yet vibrantly alive, speaks to an unsettling revelation: the yawning void between reality and perception. This void is where the dance of human folly and divine machination unfolds—a tattered tango on the cusp of infinity. Here lies the essence of our condition, a deceitful promise of coherence in a universe too indifferent to care.

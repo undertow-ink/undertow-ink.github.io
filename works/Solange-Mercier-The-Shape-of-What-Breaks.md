@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Solange Mercier - The Shape of What Breaks
 
 We are always building our lives inside other people's ruins. This is not metaphor but fact: every community that has ever existed has risen from the wreckage of what came before, and every person who has ever loved has done so knowing that love itself is a structure built on future grief. The question is not whether we will inherit destruction or create it—we will do both—but whether we can learn to see the beauty in this endless cycle of assembly and collapse, whether we can find God not in permanence but in the very fact of breaking.

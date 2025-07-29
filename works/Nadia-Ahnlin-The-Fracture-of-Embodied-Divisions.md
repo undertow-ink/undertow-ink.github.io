@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Nadia Ahnlin - The Fracture of Embodied Divisions
 
 In the dense and turbulent milieu of existence, an abyss stands between the physical self and the society it inhabits, an indelible fracture that seeps into consciousness like ink into worn parchment. Here lies the unspoken cosmos, wherein the body becomes not merely a vessel but an active battleground bearing the weight of unmet desires and sterile connections. It is amidst this collision of flesh and void that our truth must reckon: we are but remnants of an unfinished body, pulsating with longing and discontent in search of a wholeness forever deferred. 

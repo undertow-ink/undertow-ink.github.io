@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Marvela Thornwick - The Viscous Cathedral
 
 The world ended sometime between breakfast and lunch, though most of us haven't noticed yet. We continue spreading marmalade on toast while radioactive particles settle into our bone marrow with the patience of geological time. This is not metaphor. This is Tuesday. The cathedral we inhabit—vast, viscous, everywhere and nowhere—drips its strange honey into our teacups while we discuss the weather. We are already dead; we simply haven't stopped moving.

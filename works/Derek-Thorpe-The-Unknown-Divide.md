@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Derek Thorpe - The Unknown Divide
 
 In the realm where death and desire dance their grotesque ballet, we find ourselves teetering on the precipice of an era defined not by the promise of progress, but by the artifice of power manipulated through spectacular violence. Here, the carcasses of modernity are laid bare, leaving behind only the stark reality that sovereignty is a force compelled by the orchestration of suffering.

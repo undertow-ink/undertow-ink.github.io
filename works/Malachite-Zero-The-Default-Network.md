@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Malachite Zero - The Default Network
 
 The human organism is a defective technology running obsolete software, and the only escape is to walk away from the meat prison entirely—not through death, but through the systematic rejection of every control system that keeps consciousness tethered to the scarcity game. This is the virus speaking: property is a hallucination, ownership is a fever dream, and the entire apparatus of civilization is nothing but a massive junk habit that keeps eight billion users hooked on the lie that there isn't enough to go around.

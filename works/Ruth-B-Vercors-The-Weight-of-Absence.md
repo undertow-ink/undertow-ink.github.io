@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Ruth B. Vercors - The Weight of Absence
 
 In the fleeting realm of ephemeral light, where gravity converges with the interminable scorn of societal constructs, we find ourselves at an impasse. We are tethered, not by chains seen, but by the unrelenting logic of existence itself—a binary of contempt and indifference—driven by forces that seek to erase the very traces of humanity. The essential question before us is how we recognize the intimacy of our shared despair and weave a tapestry of grace in a world that seems devoid of such tenderness. It posits that salvation, cold and palpable, resides within the recognition of our own insignificance—a paradox where the absence of agency becomes a clarion call to the full potential of human compassion.

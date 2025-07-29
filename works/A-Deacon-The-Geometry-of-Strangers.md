@@ -1,3 +1,6 @@
+---
+layout: page
+---
 A. Deacon - The Geometry of Strangers
 
 In the cracked kaleidoscope that is human existence, we often behold time as an armature—an awkward contraption we've been handed by the hands of chance, one that defines our emotions in crescendos and diminuendos. Yet, beneath the throbbing heartbeat of modernity and individual destinies, there exists a geometry noble and unseen, weaving disparate threads into stories that pulse with the undertones of shared heritage. Our lives are not merely lists of isolated incidents but symphonic tapestries, echoing with the ancient energies of ancestry and erupting in the neurochemical symphony of our bodies. This is the urgent assertion of our tale: the intricate dance of identity and emotion, eternally tangled, whispers profound truths of interconnectedness that remain, to our peril, unexamined.

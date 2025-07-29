@@ -1,3 +1,6 @@
+---
+layout: page
+---
 L. C. Aetherion - Veils of the Infinite: The Sensate Selves
 
 In that trembling space between the angels above and the serpents below, borrowed masks shift in the grace of an eternal parade. Here lies the quintessential truth: that we are, each of us, wandering foyers of consciousness, momentarily settled amidst the ever-expanding architecture of our self-made sanctuaries and prisons. This construct of self—our elusive ego tunnel—is as much artifice as it is alchemy, existing as a delicate amalgam of tales whispered in the deep, half-sung hymns of the infinite. It is where the fan-maker reveals the intricacies of the universe in the luminous shadow of his creations.

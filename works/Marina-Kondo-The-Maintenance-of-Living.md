@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Marina Kondo - The Maintenance of Living
 
 The factory where I sort invoices sits beside a motorway. Every morning, I watch the cars stream past like metal fish, each one carrying someone to their particular version of nowhere. I have been working here for three months, though it feels both longer and shorter than that. Time moves differently when you spend eight hours a day matching purchase orders to delivery notes, checking that what was promised was what arrived.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Theodore Forsyth - Resonant Grounds of Material and Spirit
 
 In the depths of our shared corporeality and the whispers of the worldly song, there lies a profound truth—a symphony of material that hushes to the touch of transcendence. Each step we take upon this earth, every breath drawn from the tapestry of air, binds us inextricably to the sensuous presence of our surroundings. Yet, it is this very bond that perpetually challenges the demarcation between the supposedly inert and the undeniably alive.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Lysander Revenant - The Constellation's Ruin
 
 At the heart of every story is a rupture, a glorious tearing at the seams that reveals the dazzling chaos within. This is where we find our resonance, where life is woven into fabric and unmade, where order implodes into revelation. It is in the quiet catastrophe of becoming that we come nearest to the truth of being—a truth which is untidy, radiant, and unfathomable.

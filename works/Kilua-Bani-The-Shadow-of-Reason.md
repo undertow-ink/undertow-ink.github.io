@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Kilua Bani - The Shadow of Reason
 
 In a world tangled in the tendrils of its own making, we find ourselves continually haunted by the specters of history. The land sings with the echoes of past aspirations, dreams, and devastations, and it is upon this land that humanity plants the seeds of reason—a fragile fruit born from centuries of toil and terror. We are children of extraction, moulders of woods and waters, yet profound in our folly to forget the soil wherein lies the curse and the power: one cannot wring prosperity from the earth without entangling oneself in its whispers and its wraths. This is the thesis we must confront with unflinching clarity: the quest for power, cloaked in the guise of progress, perpetually estranges humanity from the very world that sustains it, entwining us in a cycle of exploitation bathed in both reason and irrationality.

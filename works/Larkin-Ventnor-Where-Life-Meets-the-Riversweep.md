@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Larkin Ventnor - Where Life Meets the Riversweep
 
 In the dim spaces where light crouches behind unseen corners, life emerges not as an isolated entity but as a bound continuum, a seamless fabric of sentience interwoven with the world. Let us propose that consciousness, like a river coursing through a landscape, is an embodiment of the earth's own breathing, a narrative unfolding not just in the span of one human's life but across the manifold tapestry of existence. Here, amidst the concrete simplicities and ungraspable abstractions, lies the truth: that the boundaries we perceive between self and world are mere shadows cast by the brilliant light of this interconnected dance.

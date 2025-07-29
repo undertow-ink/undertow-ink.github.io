@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Alexei Thorne - The Insurrection of Dead Time
 
 The shopping mall security camera captures everything and nothing: a child's tantrum dissolving into the white noise of muzak, an elderly woman checking her phone for the fifteenth time in ten minutes, the precise choreography of avoidance as strangers navigate around each other without acknowledgment. This is how revolution dies—not in spectacular defeat but in the infinite loop of the eternal present, where even our dreams of transformation arrive pre-packaged, bar-coded, and marked down for quick sale. We have built a machine that metabolizes the future itself, digesting tomorrow before it can arrive, excreting it as nostalgia for a past that never existed.

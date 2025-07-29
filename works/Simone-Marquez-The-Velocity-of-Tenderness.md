@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Simone Marquez - The Velocity of Tenderness
 
 The most violent act in contemporary life is the refusal to be consumed. In supermarkets, in love, in the theater of identity, we are meant to dissolve—to become product, to offer ourselves as aesthetic material for others' hunger. But what happens to the body that insists on its own bitter seeds, its own seasons of ripening and rot? This is not a question of resistance but of a more fundamental disorder: the scandal of remaining oneself while the world demands you become digestible.

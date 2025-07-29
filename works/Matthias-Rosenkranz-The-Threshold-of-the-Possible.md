@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Matthias Rosenkranz - The Threshold of the Possible
 
 The community that emerges from the ruins of development is not a return to what was, but the revelation of what has always been possible—a form-of-life that exists in the suspension between the singular and the common, where the erosion of traditional bonds becomes the very condition for genuine belonging. This is the paradox that haunts our age: only in witnessing the destruction of ancient patterns of reciprocity can we glimpse the whatever being that was always latent within them, the pure potentiality that industrial modernity both reveals and forecloses in the same gesture.

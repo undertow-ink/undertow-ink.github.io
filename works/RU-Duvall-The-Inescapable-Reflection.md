@@ -1,3 +1,6 @@
+---
+layout: page
+---
 R.U. Duvall - The Inescapable Reflection
 
 The world is not merely a series of disconnected events, but rather a cacophony of interactions where what is hidden beneath the superficial façade gnaws at the fabric of our presumed reality. In its most profound depths, this world reveals an unnerving truth: that our investiture in societal roles and treasured illusions of autonomy is a simulacrum masterfully crafted by the few who wield the reins of influence and power. This is a tale of dualities – of those enshrined in the halls of privilege, and of those relegated to inhabit the margins.

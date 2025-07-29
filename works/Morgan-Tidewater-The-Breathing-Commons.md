@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Morgan Tidewater - The Breathing Commons
 
 The nuclear family is a sensory deprivation chamber. This is not metaphor but diagnosis: within its walls, we have severed the neural pathways that once connected human bodies to the breathing world, replacing the polyphony of earthly kinship with the monotone of blood relation. To abolish this suffocating structure is not merely a political project but an ecological necessity—a return to the animate earth that capitalism's domestic laboratories have trained us to forget.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Aria Vasonthorpe - The Imprint of Thought on Flesh
 
 Consciousness, in all its intangible brilliance, is fundamentally an act of creation—a dynamic dance between perception and the material world. It does not exist in a vacuum or emerge solely from the labyrinthine networks of the brain but manifests at the boundary where the self meets the vast, complex tapestry of existence. This synthesis, where thought touches the flesh of reality, is where we truly become who we are. There is an undeniable interplay between the ideas we cultivate and the corporeal world we inhabit, a joint weaving of what is known and what is tangibly felt. In these interactions lies a profound truth: our consciousness is not merely a byproduct of the brain's electric symphony but a narrative that binds and thrives on our interactions with the universe.

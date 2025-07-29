@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Elara Vespera - The Intangible Echoes
 
 In the silence that follows the unyielding clamor of survival, we find a secret language spoken not with words, but with the fibrous connective tissue of being. It murmurs of resilience birthed from ruin and the curious, aching synthesis of the human and the untamed. This language is an articulation of the primal bound inextricably with the cultivated pain of living, a dance where every step echoes of what Robert Frost called "the need of being versed in country things," yet it also meditates on the consuming nature of the flesh and its eventual rebellion. Here lies the thesis we must embrace: that life, in all its feral abandon and technological conquest, is a continual act of undying, a simultaneous act of surrender and rebellion in the face of the indefinable echoes of desire and demise. 

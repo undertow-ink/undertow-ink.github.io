@@ -1,3 +1,6 @@
+---
+layout: page
+---
 R. I. Asha - "The Veil of Consciousness and the Tapestry of Lives"
 
 In the silent corridors of the mind, where shadows dance and light flickers, we find the essence of our being tangled with the lives of others. Our consciousness, often thought of as the singular cement of our identities, is nothing more than a beautifully ornate veil, an illusion draped over the raw tapestry of interconnected stories that forms the human experience. In the ever-changing realm of perceptions, where each thread is a reflection of someone else, we begin to unravel the collective truth: our selfhood is but an intricate pattern of shared narratives and ephemeral dreams.

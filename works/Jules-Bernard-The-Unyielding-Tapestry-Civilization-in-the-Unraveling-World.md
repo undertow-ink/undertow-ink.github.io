@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Jules Bernard - The Unyielding Tapestry: Civilization in the Unraveling World
 
 In the confluence of history's relentless tide and the stubborn resistance of human ambition lies a deep truth: civilizations, like the sprawling forests of antiquity, are both gardens of progress and jungles lurking with the inevitable return of chaos. Our modern story is not merely one of triumph and innovation, but of perpetual tension between what we strive to build and the forces that seek to dismantle. Today, more than ever, we must confront the awakening realization that the intricate weave of our global civilization is as fragile as it is formidable, as turbulent as it is tethered to the past.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Veleda Marthorn - The Valley Between Shadows and Light
 
 In the space between existence and dreams, there is a valley inhabited by souls searching for home. Here, the world breathes in dichotomy, weaving together moments of ethereal beauty and stark reality, where each horizon holds the potential for both redemption and despair. It is in this space that the essence of life unfolds, a delicate dance between wanting and being, where the heart learns the language of silence and sound. This narrative seeks to show that true understanding is born in the interplay of these opposing forces, in which our most profound truths emerge, echoing in the chambers of our hearts.

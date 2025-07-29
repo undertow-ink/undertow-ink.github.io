@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Zahir A. Silman - The Horizon Beyond Belief
 
 In the space where despair meets silence, there lies a precarious precipice upon which modern existence teeters—a point of tension where our holiest of certainties unravel, thread by thread. As the world groans under the weight of both indifferent cosmic forces and the palpable heat of humanity’s feverish deeds, we must confront a truth fearsome in its clarity: the specters of our deepest fears and our most profound ignorances are one and the same. Here, at the juncture of nature's indifference and human folly, we encounter not just a bleak determinism but a chance for awakening, an awakening drowned in the dust of our own creation and the narratives we fail to remember. 

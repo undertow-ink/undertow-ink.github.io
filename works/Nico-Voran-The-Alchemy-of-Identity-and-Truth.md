@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Nico Voran - The Alchemy of Identity and Truth
 
 In the alchemical crucible of modern life, identity and truth become molten, ever shifting, and ultimately indivisible. Our project is to distill something potent from these unstable compounds: a new consciousness that acknowledges the performance of identity while wrestling with the ferocity of truth. This synthesis recognizes that our bodies, much like our narratives, are palimpsests of experiences, reinventions, and betrayals. In the collective theater of existence, each of us is both journalist and subject, adorned in a constellation of symbols that reflect and refract the societal gaze.

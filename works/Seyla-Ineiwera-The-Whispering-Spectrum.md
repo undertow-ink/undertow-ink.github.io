@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Seyla Ineiwera - The Whispering Spectrum
 
 ---

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Sarah Coleman - Harrow's Bend
 
 Mara arrived on a night that seemed to bend the world in half. The rain had stopped, but the air still carried the weight of it, thick and humid, the kind of air that clings to your skin and drags you down. Elias was waiting by his truck, the engine idling, his face like the flat line of a fishing dock at dawn. "You sure you want to do this?" he asked, his voice soft, almost too soft for someone who had just pulled his boat back from the docks, fingers stiff from the cold, damp air.

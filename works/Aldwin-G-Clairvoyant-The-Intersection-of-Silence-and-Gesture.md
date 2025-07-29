@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Aldwin G. Clairvoyant - The Intersection of Silence and Gesture
 
 In the liminal spaces defined by the stillness of thought and the noise of action, there rests an unspoken truth about human existence. We, as creatures of both intellect and desire, are tethered to a world wherein these forces collide—a synesthetic symphony of silent intellect and brash corporeal movement, a dance choreographed by the dictates of an existence both framed and freed by culture, economy, and the shadowed pathways of our own elaborate histories.

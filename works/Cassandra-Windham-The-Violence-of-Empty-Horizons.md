@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Cassandra Windham - The Violence of Empty Horizons
 
 The truest acts of violence occur not in crowded cities but in the spaces between things—in the vast silences where human meaning dissolves like salt in an endless sea. We have mistaken brutality for what happens when bodies collide, when flesh meets flesh in anger, but the most profound violations happen in emptiness itself: in the terrible democracy of distance that makes all human arrangements seem like the desperate scratchings of insects before winter.

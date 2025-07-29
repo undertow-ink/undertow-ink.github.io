@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Kira Stoneweaver - The Dancing Patterns
 
 The old woman sat at the edge of the plaza, watching the children learn the spiral dance. Their small bodies moved in patterns older than memory, each step a replication of countless steps before, each turn carrying forward what had been turned before. She thought about how the dance lived—not in any single dancer, but in the space between them, in the moment of transmission from teacher to student, body to body, generation to generation.

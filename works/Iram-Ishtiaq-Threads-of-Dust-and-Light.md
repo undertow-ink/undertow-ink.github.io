@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Iram Ishtiaq - Threads of Dust and Light
 
 To see a world in a grain of sand and revolution in a particle of dust is both the promise and the peril of our shared dream. The world, a binary of abyss and salvation, spins camouflaged in the rich tapestry of life where shadows sew themselves into the seams of light, provoking, consuming, birthing. In this abundant entanglement, we unravel narratives of dismantled histories and resistances—echoes resonating within the hollows of forgotten landscapes and voices tangled in the fragile latticework of human connections. 

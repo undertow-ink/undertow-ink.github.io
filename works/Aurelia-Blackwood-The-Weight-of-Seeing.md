@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Aurelia Blackwood - The Weight of Seeing
 
 The morning arrives like a question mark, hooking itself into the space between what I know and what I pretend to know. Outside, the dogwood bleeds white petals onto grass that remembers yesterday's rain, each blade bent with the weight of drops that have already evaporated into meaning. Or meaninglessness. The distinction matters less than the looking itself.

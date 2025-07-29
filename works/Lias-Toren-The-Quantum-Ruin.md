@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Lias Toren - The Quantum Ruin
 
 In the end, we find ourselves at the center of a vast, intricate lattice of narratives—woven together through time by the fabric of myth and logic, tangled in the shimmer of quantum uncertainties and the monumental ruins of civilizations. To exist within this lattice is to dance on the edge of chaos, where meaning fractures and multiplies, and to grapple with the dichotomy of human endeavor and unseen cosmic order. Our most audacious folly lies in the belief that we can capture the essence of this vast dance through the shattered lens of language—a myth of its own creation.

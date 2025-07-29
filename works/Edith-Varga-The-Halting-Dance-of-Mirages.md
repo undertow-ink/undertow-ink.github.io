@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Edith Varga - The Halting Dance of Mirages
 
 There is a persistent, unknowable gravity that lingers beneath the veneer of existence, pulling at the threads of our reality with the quiet determination of an omniscient force. It whispers in the spaces between the continual ballet of human endeavor and the torpor of inaction, a voiceless resonance that blurs the lines between fate and folly. Within this amorphous realm, our desires and despairs play out like shadows on the walls of a dilapidated theater, a pantomime to which every human is inextricably drawn but which few dare to truly comprehend. Our lives, it seems, are caught in an eternal oscillation between order and chaos, between the forecast of tomorrow’s disturbances and the tangibility of today's harrowing introspections.

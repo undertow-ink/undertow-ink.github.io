@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Aurelia Lafferty - The Singular Echoes of Divided Voices
 
 In the introspective theater of the self, where silence is both the ultimate solitude and the cacophony of the human assembly, we uncover the mystery of the intimate and the vast. Here, the singular voice confronts the multitudinous reaches of power; not the power that exerts itself with overt brutality, but the insidious influence that shapes the contours of identity from within and without. It is a secret too vibrant to remain untold, a dance on the fringes of understanding where the corporeal and the intangible converge.

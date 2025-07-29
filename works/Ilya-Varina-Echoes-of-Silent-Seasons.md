@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Ilya Varina - Echoes of Silent Seasons
 
 At the core of the human experience lies a relentless struggle: the desire to retain one's fleeting sense of self amidst the inexorable passage of time. This is not a simple lament for the inevitable erosion of memory; rather it is a confrontation with both the brutality and beauty inherent in living through epochs of transformation. As we journey through the corridors of history and the intimate chambers of our personal narratives, the past reverberates in the present. It is here, at this intersection of memory and identity, that we seek to uncover the veiled truths that both sustain and torment us.

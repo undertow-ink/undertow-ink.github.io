@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Alfred Harmon - The Aquatic House
 
 In the silent ripples at the edge of perception, an unspoken truth stirs: boundaries are illusions woven by the hands of the fearful. This shared understanding manifests, emerging from the intersection of two worlds—a modest suburban home and an enigmatic ocean deep, where the fabric of existence stretches and tugs at its seams. Here, in this liminal space, we come to see that freedom and entanglement are but two sides of the same elusive coin.

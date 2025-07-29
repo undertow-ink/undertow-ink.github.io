@@ -1,3 +1,6 @@
+---
+layout: page
+---
 R.M. Bolivsen - The Shadows of Memory
 
 In the spaces between light and shadow, where memory distorts the truth of our lives and what might have been, lies a deeper understanding of existence: we are perpetually tethered to moments both real and imagined, struggling to reconcile what we yearn to remember with that which we seek to forget. The past is an elusive partner, a spectre that dances at the edge of our conscious thought, influencing every step of our journey without ever fully revealing its purpose or intent. What we hold within us, however transformed by time, reshapes the fabric of our present and the dreams of our future.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 A.P. Erymdor - "Echoes in the Dust of Thought"
 
 In the interstice between the cacophony of human cognition and the silent infinity of the cosmos lies a forgotten truth: our minds, once the architects of meaning and wonder, are but dust scattered by the winds of an indifferent universe. In the dissonance that permeates the arteries of existence, a narrative unfolds, one that dares to unravel the delicate tapestry of perception and the existential residue of human thought.

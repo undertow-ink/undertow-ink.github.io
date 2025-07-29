@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Alma Ríos - Cartography of the Displaced
 
 The landscape of memory, both fragile and enduring, lies in the unspeakable overlap between individual stories and collective histories. This odyssey, this relentless journey through inner and outer terrains, forces us to reckon with the footprints we leave behind and the narratives we carry in the cavernous heart of silence. In the shifting sands of our temporal world, we see that each life is but an echo of distant marches, choruses of an untamed longing that transcends the borders drawn not only by nations but by our own faltering imaginations.

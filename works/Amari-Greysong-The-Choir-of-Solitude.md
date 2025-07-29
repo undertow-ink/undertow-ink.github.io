@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Amari Greysong - The Choir of Solitude
 
 In a world teetering on collapse, where the vast landscapes of the human heart mirror the equally vast landscapes of once-vibrant prairies now scarred by neglect and hubris, it becomes clear that self-reliance and community must coexist in a delicate dance if humanity is to reimagine a future worth living. As society frays at its edges, burdened by the interminable weight of greed and myopia, the answer lies in the paradoxical synergy between cultivating resilience for oneself and embracing the restorative power of communal ties that the wild itself has graciously modeled.

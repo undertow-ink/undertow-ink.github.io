@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Althea Novalis - The Veil Between Worlds
 
 In the quiet hum of the ordinary, beneath the incessant pull of gravity that anchors us to the familiar, there lies an iridescent veil. This veil, woven from the threads of our most profound experiences of wakefulness and dreaming, is the threshold to our deepest grace. Here, at this crossing, being is not merely the acceptance of existence but the profound realization of its interconnected tapestry. To perceive this veil is to understand that life is simultaneously the weight of the tangible and the lightness of the spiritual—a dynamic interplay between the seen and the unseen that shapes our true essence.

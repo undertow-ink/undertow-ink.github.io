@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Alexis Meridian - The Hormone of Civilization
 
 The human brain is not merely divided—it is at war with itself, and this war is being won by the wrong side through the systematic administration of synthetic compounds that masquerade as progress. What we call civilization is nothing more than the left hemisphere's dictatorship, enforced through a regime of molecular control that began the moment we started synthesizing hormones in laboratories. The testosterone molecule—C₁₉H₂₈O₂—is not just a chemical formula but a hieroglyph of power, a blueprint for how the analytic mind colonizes the living body and transforms it into data.

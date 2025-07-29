@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Xun Fang - The Quantum Mindscape
 
 The universe itself is not merely a collection of matter clumped together under the force of gravity nor is it just an expanse of measurable fields and forces—it is, at its core, a psyche of infinite dimensions, a flowing consciousness intricately woven into each particle and each vast emptiness. This conscious universe mirrors, in grand scale, the complexities and nuances found in the human brain—a neural cosmos where synapses fire and thoughts emerge like nascent stars punctuating a dark void. In contemplating this parallel, we unveil the unsettling truth: the destinies of matter and mind are entwined, each reflecting and reshaping the other across the fabric of space-time. 

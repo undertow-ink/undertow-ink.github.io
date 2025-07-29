@@ -1,3 +1,6 @@
+---
+layout: page
+---
 A. Lumina - The Threads of Time and Spores
 
 In the dense underbrush of time, where tangled roots intermingle with the gradual decay of grand historical trees, lies the fertile ground for narratives long overlooked. Here, in the shadowy interplay of man and nature, destiny and accident, we encounter the intertwined filaments of two truths: that life blooms from the most unexpected places, and that the stories we weave are never free from the soil in which they sprout.

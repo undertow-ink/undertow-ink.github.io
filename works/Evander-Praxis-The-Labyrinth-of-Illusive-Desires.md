@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Evander Praxis - The Labyrinth of Illusive Desires
 
 In the vast corridors of human aspiration, where the pulse of future promises beats with a seductive rhythm, a deeper truth emerges: the very desires we clutch tightly may be the scaffolds of our entrapment. The notion that what propels us forward—dreams of fulfillment and the architectures of hope—may simultaneously ensnare us, creating a tension between our visions of happiness and the reality they manifest. This tension is not merely a personal malaise but a societal construct, echoing through the halls of economy, culture, and cognition, challenging us to rethink the paradigms of progress and intelligence. In embracing this contradiction, we encounter the labyrinthine nature of our existence, where each turn of the mind and heart is fraught with the specter of illusions and truths, ever entangled.

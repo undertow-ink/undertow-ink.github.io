@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Kieran Holloway - The Vanishing Horizon
 
 The plains stretched before me, not as mere geography but as a temporal condition—a hauntology of space where the future we had been promised dissolves into an endless present. I had come here seeking something I could not name, drawn by reports of a phenomenon the locals called "the shimmer," though when pressed for details they would look away, their eyes tracking something invisible on the horizon.

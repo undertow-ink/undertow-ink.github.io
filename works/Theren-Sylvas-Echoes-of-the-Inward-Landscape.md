@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Theren Sylvas - Echoes of the Inward Landscape
 
 In the quiet of the human mind and the ceaseless hum of the world’s machinery lies a shared clairvoyance—a secret conversation between the realms of depth and surface. This dialogue is shaped both by the solitude of the contemplative and the choreography of industry’s relentless pace. Here, it is the pulse beneath the world’s skin and the secret lives of things that yearn to be heard. This symphony between what lies beneath and what floats above reveals truths about human existence, both liberating and suffocating, unsettling us with their intimate familiarity.

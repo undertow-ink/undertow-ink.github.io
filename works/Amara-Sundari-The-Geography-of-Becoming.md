@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Amara Sundari - The Geography of Becoming
 
 The body that survives genocide carries its own weather system—a microclimate of memory that transforms the air around it, makes rain fall upward, turns sunlight into a language only the wounded can read. This is not metaphor but meteorology: trauma rewrites the laws of physics in the space between skin and sky, between the girl who was meant to die and the woman who insists on living. We are all migrants from our own deaths, crossing borders drawn in scar tissue and starlight.

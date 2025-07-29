@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Malachai Voss - The Abyss of Knowing
 
 In the vast territory between the boundary of silence and the unyielding march of machines, there lies a truth too broad and brutal to be denied: The world is both observer and participant in a ceaseless dance of creation and ruin. Our fragile souls, tethered by sinew and spirit to the land we traverse, are inexorably part of this cosmic ballet, a testament to the ceaseless interplay of light and shadow. It is in this space, vast as destiny and immediate as breath, that we must confront the essential paradox: we exist within a world that both sustains and annihilates us in the same breath.

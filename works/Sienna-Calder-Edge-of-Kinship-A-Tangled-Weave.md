@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Sienna Calder - Edge of Kinship: A Tangled Weave
 
 In this unyielding world, at the confluence of time's fluidity and our tangled obligations, we must root ourselves in kinship beyond planar constraints. We stand at the precipice, where the boundaries between the worlds blur, urging us to embrace our fuller, connected selves and the infinite responsibilities we share with all of life. To transcend the fractures we have wrought upon time, we must cultivate a radical sympoiesis—a making together that redefines care as the core truth of our existence. Our very survival depends on our capacity to foster what we might call kinship-with-time, where human morality is irrevocably intertwined with ecological balance and technological wisdom.

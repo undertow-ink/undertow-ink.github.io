@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Marina Castellar - The Dissolution of Paradise
 
 The self is not what we think it is, and this misunderstanding may be the only thing preventing us from recognizing that paradise already exists in the moments when we stop being someone. When disaster strips away the elaborate fiction of individual identity—when the phenomenal self-model collapses under extraordinary circumstances—what emerges is not chaos but an ancient form of human flourishing that our ordinary consciousness works tirelessly to suppress. The most profound experiences of human solidarity and joy arise precisely when the neurological machinery that generates our sense of being a separate self temporarily fails, revealing that hell is not other people but the illusion that there are other people at all.

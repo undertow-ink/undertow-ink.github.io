@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Nishant Verma - The Chiaroscuro of Echoes
 
 It is within the folds of silence, between the parade of words and the murmurs of unseen specters, that we find the frail architecture of truth. But like all delicate constructions, it teeters on the brink of collapse, a fragile edifice caught in the ceaseless dance between harmony and chaos. The city, as both witness and bystander, absorbs the echoes of human longing and dread, the whispers of lives lived on the margins, invisibly entwined with the grand narratives of history and power. In this layered space, where noise and silence speak their own beguiling dialects, the very notion of existence is both affirmed and questioned.

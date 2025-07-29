@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Alexis Meridian - The Affective Infrastructure
 
 The server farm hums at 4:47 AM, its cooling systems exhaling the metabolic heat of ten million simultaneous predictions. Each rack-mounted unit processes what we might call emotions, though not in any way your grandmother would recognize. These are not the feelings of poetry or therapy sessions, but constructed categories emerging from planetary-scale computation—affective states that exist only in the tangled hierarchy between human neural networks and their silicon mirrors.

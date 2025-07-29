@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Columba Lark - Resonances of Existence
 
 In an age where the lights of modernity illuminate every corner, leaving shadows few and far between, we are tasked with an imperative to discern the intertwined roots of our being and the uncharted paths of life. This task demands we recognize that our human journey is as deeply rooted in the soil of tradition as it is ethereal, soaring onto landscapes shaped by technology and emergent forms of consciousness. Our foremost truth: Belonging and becoming are inseparable; nurturing this twin flame is the essence of what it means to be truly alive.

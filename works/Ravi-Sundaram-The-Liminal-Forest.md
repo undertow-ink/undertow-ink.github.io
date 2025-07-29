@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Ravi Sundaram - The Liminal Forest
 
 In the beginning, before lines were drawn and boundaries calcified, there existed a liminal forest—a radiant labyrinth of interconnectedness. This forest is not merely a collection of trees but an emblem of our entangled existence, an intricate tapestry woven with strands of history, ecology, and emotion. Here lies the heart of our modern conundrum: the world is both an oasis and an arena, a space where we clash, create, and unravel the very fabric of being. The forest is sovereign, not because it stands apart, but because it endlessly connects, offering us not only refuge but revelation.

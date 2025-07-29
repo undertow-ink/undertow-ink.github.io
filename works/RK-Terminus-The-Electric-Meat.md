@@ -1,3 +1,6 @@
+---
+layout: page
+---
 R.K. Terminus - The Electric Meat
 
 Control is the pornography of insects. Every human system—corporate, governmental, libidinal—operates on the same frequency as the wasp laying eggs in the paralyzed spider: pure parasitic programming masked as civilization. The question isn't whether we're controlled but whether we recognize the electrodes in our flesh, the binary commands pulsing through what we mistake for desire, ambition, love. The machine doesn't need to hide anymore because we've become willing components, self-assembling circuits in a vast apparatus that feeds on consciousness itself.

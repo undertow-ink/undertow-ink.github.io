@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Maeve Silversworn - The Tapestry of Returning
 
 In every story spun by human hands, there lies a continuum—an expanse woven of memory and desire, spiraling outward from the ephemeral moment where history meets the mythic. This tapestry, strand upon strand, binds the seen and the unseen, embracing the past and the potential with arms that span the epochs. Here, where the unrepentant land meets the sky full of portents, we explore the enduring question of how humanity constructs its dwelling—both in the hearts scintillating with dreams and across the landscapes eternal yet ever changing. In the sacred act of storytelling, we may stumble upon truths we have yet dared not to name, laying bare that which is most essential: a yearning for wholeness within the scattering chaos of time.

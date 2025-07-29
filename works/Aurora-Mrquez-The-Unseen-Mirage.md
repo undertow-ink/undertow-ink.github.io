@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Aurora Márquez - The Unseen Mirage
 
 We spiral inward, toward a truth that seems to slant beneath our feet. It is unsettling—how we imagine ourselves away from ignorance, while in each fleeting revelation, we merely skirt around an abyss that refuses containment. It is not madness; it is the failure to create a boundary, to chronicle our existence within a neatly defined perimeter, as if we are characters in a cosmic satire writing our own tragedy, shambling through landscapes both internal and external, seeking what always evades perception. Unseen details hold sway over our grasp of life—an unfolding fortune, suspended between what is and what could never be.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Soren Harkness - From the Entangled Chorus
 
 In the vast, immersive tapestry of existence, where thought meets the quantum ripple and our very flesh echoes the whispers of the cosmos, arises a stark truth shrouded in complexity: We are not alone, and yet, profoundly, we are. This fundamental paradox offers not a simple catchphrase of duality but reveals the hidden interconnectivity that binds the human to the nonhuman, the material to the immaterial, and the observed to the unseen. Everything is networked, everything sings a song of nucleic acids and qubits, everything vibrates with the hum of past, present, and future—interwoven, indistinguishable.

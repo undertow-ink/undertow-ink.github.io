@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Adrienne Kohl - The Architecture of Encounter
 
 The most dangerous lie we tell ourselves is that innovation happens in isolation—in sterile laboratories, corporate boardrooms, and policy institutes scrubbed clean of human contact. The truth is messier: every breakthrough that has ever mattered emerged from spaces where bodies collide, where conversations spill into one another, where the boundaries between public and private dissolve into something electric and unpredictable. The state that understands this—that builds for collision rather than separation—is the only state capable of shaping a future worth inhabiting.

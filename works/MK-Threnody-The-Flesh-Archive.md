@@ -1,3 +1,6 @@
+---
+layout: page
+---
 M.K. Threnody - The Flesh Archive
 
 The body is a document written in the grammar of control—each scar, each breath, each regulated heartbeat a sentence in the vast penal colony of being. We are born into syntax that precedes us, a language of capture that makes corpses of the living and commodities of the dead. This is the wake: not aftermath but ongoing submersion, where drowning becomes a way of life and the surface tension of history holds us suspended between annihilation and the terrible persistence of having to continue.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Alia Zarei - The Erosion of Boundaries
 
 The war we wage is against the contours of certainty, those rigid borders of thought that isolate and fragment. Our struggle now is to unmoor the self from its calcified contours, to navigate the viscous flow of interdependence. This era demands that we dismantle the partitions within our psyche and between one another, to recognize that isolation is a faltering scaffold upon which neither truth nor compassion can fully alight. What we fight for now is the recognition that human existence itself is enmeshed in a web of juxtapositions and juxtapositions eerily familiar, yet oblique. To dislodge meaning from predefined patterns, we must engage with the dense materiality of being—and its intrinsic dissolution.

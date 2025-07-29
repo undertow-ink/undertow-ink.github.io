@@ -1,3 +1,6 @@
+---
+layout: page
+---
 A.P. Mercier - The Shadow's Horizon
 
 In the vast expanse where history whispers through the grains of sand and where twilight lingers as a perpetual testament to man's restless ambition, there exists a mutable boundary between the human will to transcend and the long shadows of morality. Here, in this hazy corridor between acts of creation and destruction, we find that the nature of power—like winds sculpting the landscape—is both eternally transformative and destructively futile. Our hands, trembling with longing and regret, extend over the canvas of existence, eager to imprint significance, while our visions—grandiose and ephemeral—crumble against the precipice of consequence.

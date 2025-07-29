@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Daniel Leith - The Shattered Veil
 
 In the quiet darkness of our collective subconscious lies an insatiable yearning: to glimpse the core of existence, to experience reality not as a reflection but as the undistorted, unvarnished truth. This desire, raw as imprinted instincts and as fragile as glass, propels us beyond the veneer of the known, towards the tumultuous terrain where chaos kisses consciousness. Here, in this borderless expanse, we confront the full force of the primordial—a conflux where life is stripped bare, not a series of moments but a violent collage of screams and silences, of awe and void.

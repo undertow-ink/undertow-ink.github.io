@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Kwame Garrison - The Auction of Tomorrow
 
 The future arrives not through grand proclamations but through the mundane machinery of allocation—who gets what, who decides, and who benefits. In a small district outside Lagos, an experiment unfolds that challenges both our conventional wisdom about property and our comfortable assumptions about progress. Here, local residents don't merely own their homes; they continuously bid for the right to remain, their property taxes determined not by distant assessors but by their neighbors' willingness to pay. It is a system that sounds dystopian to Western ears, yet it has produced something unexpected: the most equitable distribution of land in the region.

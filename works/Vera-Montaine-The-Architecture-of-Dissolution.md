@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Vera Montaine - The Architecture of Dissolution
 
 The truest intimacy is the moment of watching another person discover they are not who they believed themselves to be. In that instant of dissolution, when the elaborate construction of self collapses like wet cardboard, we witness the only genuine human act: the involuntary surrender to what we actually are beneath the performance. This is not tragedy. This is the beginning of love—not romantic love with its tedious negotiations and territorial markings, but the terrible love that comes from seeing another consciousness naked in its confusion, and recognizing our own bewilderment reflected there.

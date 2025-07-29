@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Marcus Thornfield - The Divided Animal
 
 We have become strangers to ourselves, and in this estrangement lies both our shame and our possibility. The human mind, split between its ancient wisdom and its modern cleverness, has chosen the path of the servant over the master, and in doing so has created a world where meaning dissolves into utility, where the living whole is sacrificed for the dissected part. This is not merely an intellectual error but a moral catastrophe, one that plays out in every human exchange, every glance avoided, every hand withdrawn, every silence where words of connection might have been.

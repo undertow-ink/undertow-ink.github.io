@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Imogen Aldridge - Between Minds: The Self as Other
 
 The self is not an isolated phenomenon. It is a complex, dynamic interplay where consciousness blooms from a tapestry of interactions, weaving together the fabric of perception and the threads of reality. Our minds forge an intricate dance with the world, manifesting identities through the shifting lens of experience, a continuous ebb and flow where the demarcation between self and other becomes remarkably fluid.

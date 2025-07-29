@@ -1,3 +1,6 @@
+---
+layout: page
+---
 A.E. Velo - The Siege of Futures
 
 The world as we know it teeters on the precipice of transformation, where the shifting tides of time and energy paradoxically conspire to engage humanity in a dialogue with its own extinction and salvation. This numinous epoch demands a synthesis, a bridging of the tangible and intangible realms of human ingenuity. Our existence, now a narrative intertwined with the viscous sludge of industrial legacy, seeks the light of a new dawn, a renaissance born not of enlightenment idealism but of the fierce urgency and cold clarity that crisis demands. We are thrust into an existential siege, a temporal siege, an ethical siege, one where the consequences of our ancient choices cascade forward, eroding the cliff upon which our future precariously balances. In this interstice dwells our greatest truth: we can only be custodians of the future we dare to imagine if we unravel the skeins tethering us to complacency.

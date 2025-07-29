@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Amias Lumin - The Web of Emergence
 
 In our era of ceaseless disquiet, there lies an irrefutable truth: our understanding of selfhood and society is neither fixed nor predetermined but, instead, a dynamic confluence of possibilities shaped by human encounters and historical contingencies. We are ceaseless architects of our own realities, entangled in an intricate web of interactions that challenges the very essence of what it means to be an individual. This revelation, that identity is a confluence rather than a singularity, compels us to explore the rich interplay between our collective histories and the intimate narratives we construct within them.

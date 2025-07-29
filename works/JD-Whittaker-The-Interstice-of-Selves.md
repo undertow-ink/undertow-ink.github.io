@@ -1,3 +1,6 @@
+---
+layout: page
+---
 J.D. Whittaker - The Interstice of Selves
 
 There exists an ardent yearning, a shared resonance, that the true essence of our individual selves is only discernible through the profound echo of the other. This yearning is not mere curiosity or idle speculation, but an existential imperative, a call to embrace the unpredictable dance of identities that shapes the fabric of human experience. It is within this interstice, this vulnerable gap between self and other, that the most illuminating facets of our being unveil themselves, compelling exploration beyond solitude into the vibrant expanse of collective consciousness.

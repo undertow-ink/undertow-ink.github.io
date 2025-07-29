@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Jasper E. Fallon - The Harmony of Evocative Disarray
 
 In the clash of civilizations and the quiet solemnity of solitary introspection lies a universal truth: the chaos we strive to escape is the very fabric of life we seek to understand. We, as humans, are spiraling into an era where the boundaries of technology and nature blur at the edges, yet they remain distinctly jagged. In this eclectic dance, we discover the harmony that is not absence of conflict but the pulsating rhythm found within it. For all our collective reveries of utopia or return to Eden, there is an unspoken marvel in the wild and untamed.

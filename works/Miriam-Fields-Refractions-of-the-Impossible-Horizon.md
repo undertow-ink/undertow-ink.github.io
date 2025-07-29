@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Miriam Fields - Refractions of the Impossible Horizon
 
 In the flux of existence where language and architecture connect and collide, there emerges a startling truth: what we consider reality is a liquidation of the impossible, a fevered geography of minds frayed by their own magnificent limits. It is within this startling discontinuity that the splintered arcs of our perceptions render us both architects and denizens of the inexplicable—a terrain mapping itself from the ruins of recall and invention.

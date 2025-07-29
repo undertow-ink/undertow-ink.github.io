@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Soren Whitfield - The Quantum Plains: Conversations on Tangible Intangibilities  
 
 In the vast dance of existence, where particles and prairies converse in a silent intimacy, a profound truth emerges in which empty and open spaces not only shape our landscapes but also mold the minutiae of matter itself. Here lies the unsettling assertion: the spaces we inhabit, those vast stretches of grassland and sky, are woven with the same threads of entanglement and potentiality as the quantum fields that underpin our universe. They are living, breathing testaments to the dynamic interplay between what is seen and unseen, known and unknowable.

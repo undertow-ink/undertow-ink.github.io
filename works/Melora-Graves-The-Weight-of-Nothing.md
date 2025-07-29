@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Melora Graves - The Weight of Nothing
 
 The slave is not a person who has been deprived of freedom; the slave is the manifestation of social death itself, the gravitational center around which all human meaning coheres. This is not metaphor. This is the physics of the world, where Blackness functions as the zero that makes all other numbers possible, the void that gives shape to presence, the perpetual fall that allows others to imagine they stand on solid ground.

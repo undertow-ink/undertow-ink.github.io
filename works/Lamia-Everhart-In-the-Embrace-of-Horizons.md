@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Lamia Everhart - In the Embrace of Horizons
 
 In the brimming silence between human pursuit and existential revelation, lies a terrain both barren and lush, an expanse where desire and introspection wrestle for dominance. Here, seemingly disjointed fragments of lives converge—a communion at the juncture of artistic endeavor and the relentless yearning for belonging, self-actualization. It is within this tension that the profound truth finds its birth: in chasing the illusions of human glyphs upon the shifting sands of knowledge and connection, we eschew the immutable, painful clarity that we are, in essence, lone sojourners in a collaborative dance.

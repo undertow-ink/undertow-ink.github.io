@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Iris Eland - "Rooted Anarchy: Threads of Mycelium and Freedom"
 
 In the whispering spaces between freedom's ideal and the chaotic beauty of entangled growth, lies a truth we cannot afford to ignore: the tapestry of life is woven from threads of both scarcity and abundance, a paradoxical union that creates the very fabric of human existence. To grasp this interwoven reality is to acknowledge the inherent connectivity within all ecosystems, whether built by nature's hand or crafted by the dreams of societies striving for liberation beyond ownership.

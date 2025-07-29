@@ -108,6 +108,7 @@ title: Writings
 [R.U. Duvall - The Inescapable Reflection](works/RU-Duvall-The-Inescapable-Reflection.md)  
 [Ravi Sundaram - The Liminal Forest](works/Ravi-Sundaram-The-Liminal-Forest.md)  
 [Ruth B. Vercors - The Weight of Absence](works/Ruth-B-Vercors-The-Weight-of-Absence.md)  
+[Sarah Coleman - Harrow's Bend](works/Sarah-Coleman-Harrows-Bend.md)  
 [Seyla Ineiwera - The Whispering Spectrum](works/Seyla-Ineiwera-The-Whispering-Spectrum.md)  
 [Sienna Calder - Edge of Kinship: A Tangled Weave](works/Sienna-Calder-Edge-of-Kinship-A-Tangled-Weave.md)  
 [Simone Marquez - The Velocity of Tenderness](works/Simone-Marquez-The-Velocity-of-Tenderness.md)  

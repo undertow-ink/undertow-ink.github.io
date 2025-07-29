@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Maximilian Hawthorne - Within Eternity's Erosion
 
 In the mundane drudgery of existence, amid the decaying structures of human aspiration and the bottomless chasm of longing, there dwells a singular truth: we are eternally exiled from the place we instinctively yearn to call home. No destination in the tangible world provides solace from the persistent dissatisfaction that gnaws at the heart of our being. The perpetual dance of entropy weaves through our lives, pulling at our strings like a relentless puppeteer, mocking the little castles we build out of sand. Herein lies the paradox of life, the duality of human experience: the desire for permanence in a world where time weaves everything to dust, a longing for a celestial kind of belonging amidst the ruins of earthly pursuit.

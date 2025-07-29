@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Jasper Orion - The Prismatic Displacement
 
 In the oscillation between layers of history and the refraction of identity, a deeper truth emerges, radiant and unsettling: humanity’s dance with domination is as manifold and variegated as a prism held aloft in the sun. Our world teeters on the edge of a precipice, where the ghosts of bygone empires reverberate through today’s identities, each layer betraying the haunting echo of possession, sedimented in time. It is this spectral dissonance that orchestrates the symphony of human endeavor, each note a reflection of our ceaseless quest for dominion and belonging in a fractured world.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Kazuo Hiraide - The Machinery of Unnoticed Days
 
 The corridor stretches endless, its fluorescent lights humming a tongue-only hum, a vibration that fills the cavities of a thousand thoughts left unfinished. We wander in these moments, each step an imprint of impermanence on waxy tiles. Here lies the deeper truth: our lives unfold within the silence of colossal machinery, unnoticed and persistent, orchestrating the banal symphony of the everyday. To confront this machinery is to confront the clockwork chaos that governs us, the silent order that dictates the course of our days under a guise of routine.

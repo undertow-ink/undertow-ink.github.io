@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Uba Dutil - The Fractured Haven
 
 In a world teetering on the precipice of both collapse and rebirth, our greatest salvation and threat lie not just in the structures we've built but in the hearts we nurture. This bifurcated reality, where hope dances precariously with despair, beckons us to reexamine the essence of community, of societal ties woven not by tradition but by the urgent necessity of resilience and innovation. The deeper truth we grasp for not only interrogates the foundation of our future existence but also insists that the line dividing utopia from dystopia is thinner than we dare admit, determined wholly by our actions today.

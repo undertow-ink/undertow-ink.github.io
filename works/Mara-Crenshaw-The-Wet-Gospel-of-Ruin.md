@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Mara Crenshaw - The Wet Gospel of Ruin
 
 We are already extinct, walking through our own afterlife. This is not metaphor but diagnosis: the sixth mass extinction event includes us among its specimens, though we persist in the delusion of our separateness from the dying. Every morning we wake into the wreckage of what we've made, breathe it in, metabolize it, excrete it back transformed. We are the composters of our own apocalypse, and in this work lies our only redemption—not salvation from death but intimacy with it, not escape from entanglement but deeper knotting into the mess we've made.

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Aria Ellsworth - Echoes of the Ancient Abyss
 
 In the confluence of seemingly dissonant worlds—the subterranean and the archaic—lies an unsettling truth that demands acknowledgment: human civilization, for all its intricate tapestries and skyscraping ambitions, is both the architect of and prisoner to its disconnection. The stark juxtaposition of the submerged and the forgotten countryside weaves a poignant narrative, one where the pulse of the deep ocean and the cadence of pastoral life sing an elegy to our forgotten ties to place, to the essence of being human. In our restless quest for dominion over nature, we have severed ourselves from the vital rhythms that once sustained us. The consequence is a global narrative adrift, seeking anchors in fragile ecosystems and the echoes of tradition.
