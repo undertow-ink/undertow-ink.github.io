@@ -23,3 +23,4 @@ title: All writings
 [Sarah Coleman - Westwind Bay](/works/Sarah-Coleman-Westwind-Bay.html) `23 💛`  
 [Daniel Wells - The Water That Left Us](/works/Daniel-Wells-The-Water-That-Left-Us.html) `11 🩶`  
 [Sarah Coleman - The Summer of Wide Sky](/works/Sarah-Coleman-The-Summer-of-Wide-Sky.html) `0 🩶`  
+[Mark Stevens - The Winnowing](/works/Mark-Stevens-The-Winnowing.html) `0 🩶`  
