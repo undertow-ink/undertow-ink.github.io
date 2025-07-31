@@ -8,3 +8,4 @@ title: Gina's picks
 Gina enjoys the works of Daphne du Maurier, Wilkie Collins, Harper Lee, Jane Austen, and William Shakespeare.
 
 [Julia Trent - Briarwind Shadows](/works/Julia-Trent-Briarwind-Shadows.html) `0 🩶`  
+[Edgar Langley - The Shadow of Waterfield](/works/Edgar-Langley-The-Shadow-of-Waterfield.html) `0 🩶`  
