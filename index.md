@@ -38,3 +38,4 @@ title: All writings
 [Claire Donovan - The Weight of Inheriting](/works/Claire-Donovan-The-Weight-of-Inheriting.html) `0 🩶`  
 [Anne Parker - Echoes of Peloria](/works/Anne-Parker-Echoes-of-Peloria.html) `0 🩶`  
 [Erik Lindqvist - The Filing Cabinet](/works/Erik-Lindqvist-The-Filing-Cabinet.html) `0 🩶`  
+[Sarah Bennett - Torhaven's Light  ](/works/Sarah-Bennett-Torhaven's-Light.html) `0 🩶`  
