@@ -40,3 +40,4 @@ title: All writings
 [Erik Lindqvist - The Filing Cabinet](/works/Erik-Lindqvist-The-Filing-Cabinet.html) `0 🩶`  
 [Sarah Bennett - Torhaven's Light  ](/works/Sarah-Bennett-Torhaven's-Light.html) `0 🩶`  
 [Nora Caldwell - The Weight of Paper](/works/Nora-Caldwell-The-Weight-of-Paper.html) `0 🩶`  
+[Jake Morrison - Schattenburg](/works/Jake-Morrison-Schattenburg.html) `0 🩶`  

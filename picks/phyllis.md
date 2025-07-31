@@ -13,3 +13,4 @@ Phyllis enjoys the works of George R. R. Martin, Nick Bantock, Barry Hannah, Jam
 [Daniel Wells - The Mill Letters](/works/Daniel-Wells-The-Mill-Letters.html) `53 🧡`  
 [Jake Morrison - The Cartographer's D…](/works/Jake-Morrison-The-Cartographer's-Descent.html) `0 🩶`  
 [Alex Rivers - The Churning Waters](/works/Alex-Rivers-The-Churning-Waters.html) `0 🩶`  
+[Jake Morrison - Schattenburg](/works/Jake-Morrison-Schattenburg.html) `0 🩶`  
