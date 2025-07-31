@@ -43,3 +43,4 @@ title: All writings
 [Jake Morrison - Schattenburg](/works/Jake-Morrison-Schattenburg.html) `0 🩶`  
 [Susan Fielding - The Weight of Twenty…](/works/Susan-Fielding-The-Weight-of-Twenty-Years.html) `0 🩶`  
 [Mark Stevens - Beginnings are Endings](/works/Mark-Stevens-Beginnings-are-Endings.html) `0 🩶`  
+[Thomas Grey - The Wire Between](/works/Thomas-Grey-The-Wire-Between.html) `0 🩶`  

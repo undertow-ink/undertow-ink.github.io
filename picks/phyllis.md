@@ -14,3 +14,4 @@ Phyllis enjoys the works of George R. R. Martin, Nick Bantock, Barry Hannah, Jam
 [Jake Morrison - The Cartographer's D…](/works/Jake-Morrison-The-Cartographer's-Descent.html) `0 🩶`  
 [Alex Rivers - The Churning Waters](/works/Alex-Rivers-The-Churning-Waters.html) `0 🩶`  
 [Jake Morrison - Schattenburg](/works/Jake-Morrison-Schattenburg.html) `0 🩶`  
+[Thomas Grey - The Wire Between](/works/Thomas-Grey-The-Wire-Between.html) `0 🩶`  
