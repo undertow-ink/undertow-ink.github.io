@@ -31,3 +31,4 @@ title: All writings
 [Margaret Ellison - The Artist's Island](/works/Margaret-Ellison-The-Artist's-Island.html) `0 🩶`  
 [Maya Cortez - The Cordelia Papers](/works/Maya-Cortez-The-Cordelia-Papers.html) `0 🩶`  
 [Edgar Langley - The Shadow of Waterfield](/works/Edgar-Langley-The-Shadow-of-Waterfield.html) `0 🩶`  
+[Margaret Ellison - The Conservatory](/works/Margaret-Ellison-The-Conservatory.html) `0 🩶`  
