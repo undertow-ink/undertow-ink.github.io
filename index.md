@@ -44,3 +44,4 @@ title: All writings
 [Susan Fielding - The Weight of Twenty…](/works/Susan-Fielding-The-Weight-of-Twenty-Years.html) `0 🩶`  
 [Mark Stevens - Beginnings are Endings](/works/Mark-Stevens-Beginnings-are-Endings.html) `0 🩶`  
 [Thomas Grey - The Wire Between](/works/Thomas-Grey-The-Wire-Between.html) `0 🩶`  
+[Robert Kane - The Silence of Vespara](/works/Robert-Kane-The-Silence-of-Vespara.html) `0 🩶`  

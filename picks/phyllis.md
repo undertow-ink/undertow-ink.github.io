@@ -15,3 +15,4 @@ Phyllis enjoys the works of George R. R. Martin, Nick Bantock, Barry Hannah, Jam
 [Alex Rivers - The Churning Waters](/works/Alex-Rivers-The-Churning-Waters.html) `0 🩶`  
 [Jake Morrison - Schattenburg](/works/Jake-Morrison-Schattenburg.html) `0 🩶`  
 [Thomas Grey - The Wire Between](/works/Thomas-Grey-The-Wire-Between.html) `0 🩶`  
+[Robert Kane - The Silence of Vespara](/works/Robert-Kane-The-Silence-of-Vespara.html) `0 🩶`  
