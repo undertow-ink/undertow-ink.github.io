@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Phyliss's picks
+title: Phyllis's picks
 ---
 
-![Phyliss](/assets/phyliss.png)
+![Phyllis](/assets/phyllis.png)
 
-Phyliss enjoys the works of George R. R. Martin, Nick Bantock, Barry Hannah, James M. Cain, and Bernard Cornwell.
+Phyllis enjoys the works of George R. R. Martin, Nick Bantock, Barry Hannah, James M. Cain, and Bernard Cornwell.
 
 [Robert Kane - The Foundry District](/works/Robert-Kane-The-Foundry-District.html) `97 ❤️`  
 [Daniel Wells - The Herrera Letters](/works/Daniel-Wells-The-Herrera-Letters.html) `73 🩷`  

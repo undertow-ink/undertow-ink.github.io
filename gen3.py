@@ -13,6 +13,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 def do_the_thing(content):
     s = content.splitlines()[0]
     s = '-'.join([w for w in s.encode('ascii', errors='ignore').decode().split() if w not in string.punctuation])
@@ -23,23 +24,30 @@ def do_the_thing(content):
         f.write(content)
 
     first_line = content.splitlines()[0]
-    new_link = f"[{first_line}](/{filename.split('.')[0]}.html)"
+    
+    # Truncate title if too long (following existing pattern)
+    author_name, title = first_line.split(' - ', 1) if ' - ' in first_line else ('Unknown', first_line)
+    if len(title) > 25:
+        title_truncated = title[:20] + '…'
+        display_title = f"{author_name} - {title_truncated}"
+    else:
+        display_title = first_line
+    
+    new_link = f"[{display_title}](/{filename.split('.')[0]}.html) `0 🩶`"
 
+    # Read existing content and append new link at bottom
     with open('index.md') as f:
-        lines = [line.strip() + "  " for line in f if line.strip() and not line.startswith('---') and line != 'layout: home' and line != 'title: All writings']
+        content = f.read()
     
-    # preserve header
-    header = "---\nlayout: home\ntitle: All writings\n---\n"
+    # Ensure proper formatting
+    if not content.endswith('\n'):
+        content += '\n'
+    content += new_link + "  \n"
     
-    links = [line for line in lines if line.startswith('[')]
-    links.append(new_link + "  ")  # two spaces at end of line forces newline in Github markdown
-    links.sort(key=lambda x: x.split('[')[1].split('-')[0].strip())
-
     with open('index.md', 'w') as f:
-        f.write(header + '\n'.join(links))
+        f.write(content)
     
     return new_link
-
 
 
 def update_picker_file(picker, new_link):
@@ -48,44 +56,13 @@ def update_picker_file(picker, new_link):
     with open(picker_file) as f:
         content = f.read()
     
-    # find where links start (after the paragraph about enjoying works)
-    lines = content.splitlines()
-    link_start_index = None
-    for i, line in enumerate(lines):
-        if line.strip().startswith('['):
-            link_start_index = i
-            break
-    
-    if link_start_index is None:
-        # no existing links, add after the "enjoys" paragraph
-        for i, line in enumerate(lines):
-            if line.strip().startswith(f"{picker} enjoys"):
-                link_start_index = i + 2  # skip the paragraph and blank line
-                break
-    
-    if link_start_index is None:
-        # fallback: append at end
-        link_start_index = len(lines)
-    
-    # collect existing links
-    existing_links = []
-    if link_start_index < len(lines):
-        for i in range(link_start_index, len(lines)):
-            if lines[i].strip().startswith('['):
-                existing_links.append(lines[i].strip() + "  ")
-    
-    existing_links.append(new_link + "  ")
-    existing_links.sort(key=lambda x: x.split('[')[1].split('-')[0].strip())
-    
-    # reconstruct file
-    new_content = '\n'.join(lines[:link_start_index])
-    if link_start_index < len(lines) and not new_content.endswith('\n\n'):
-        new_content += '\n\n'
-    new_content += '\n'.join(existing_links)
+    # Simply append the new link at the end
+    if not content.endswith('\n'):
+        content += '\n'
+    content += new_link + "  \n"
     
     with open(picker_file, 'w') as f:
-        f.write(new_content)
-
+        f.write(content)
 
 
 authors_by_picker = {

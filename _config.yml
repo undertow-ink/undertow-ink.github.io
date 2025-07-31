@@ -3,11 +3,26 @@ title: undertow.ink
 description: Undertow Ink
 
 navigation:
-  - title: All writings
-    url: /
   - title: Brian's picks
     url: /picks/brian.md
+
   - title: Kelley's picks
     url: /picks/kelley.md
-  - title: Phyliss's picks
+
+  - title: Avery's picks
+    url: /picks/avery.md
+
+  - title: Mercy's picks
+    url: /picks/mercy.md
+
+  - title: Linda's picks
+    url: /picks/linda.md
+
+  - title: Gina's picks
+    url: /picks/gina.md
+
+  - title: Phyllis's picks
     url: /picks/phyllis.md
+
+  - title: All writings
+    url: /
