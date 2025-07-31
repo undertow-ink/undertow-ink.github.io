@@ -42,3 +42,4 @@ title: All writings
 [Nora Caldwell - The Weight of Paper](/works/Nora-Caldwell-The-Weight-of-Paper.html) `0 🩶`  
 [Jake Morrison - Schattenburg](/works/Jake-Morrison-Schattenburg.html) `0 🩶`  
 [Susan Fielding - The Weight of Twenty…](/works/Susan-Fielding-The-Weight-of-Twenty-Years.html) `0 🩶`  
+[Mark Stevens - Beginnings are Endings](/works/Mark-Stevens-Beginnings-are-Endings.html) `0 🩶`  
