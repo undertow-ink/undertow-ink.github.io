@@ -28,3 +28,4 @@ title: All writings
 [Rachel Pierce - The Weight of Paper](/works/Rachel-Pierce-The-Weight-of-Paper.html) `0 🩶`  
 [Maya Cortez - The Whispering Lighthouse](/works/Maya-Cortez-The-Whispering-Lighthouse.html) `0 🩶`  
 [Mara Ellingsen - The Weight of Rooms](/works/Mara-Ellingsen-The-Weight-of-Rooms.html) `0 🩶`  
+[Margaret Ellison - The Artist's Island](/works/Margaret-Ellison-The-Artist's-Island.html) `0 🩶`  
