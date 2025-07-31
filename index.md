@@ -26,3 +26,4 @@ title: All writings
 [Mark Stevens - The Winnowing](/works/Mark-Stevens-The-Winnowing.html) `0 🩶`  
 [Julia Trent - Briarwind Shadows](/works/Julia-Trent-Briarwind-Shadows.html) `0 🩶`  
 [Rachel Pierce - The Weight of Paper](/works/Rachel-Pierce-The-Weight-of-Paper.html) `0 🩶`  
+[Maya Cortez - The Whispering Lighthouse](/works/Maya-Cortez-The-Whispering-Lighthouse.html) `0 🩶`  

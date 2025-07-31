@@ -16,3 +16,4 @@ Kelley enjoys the works of Ann Patchett, Elizabeth Gilbert, Kristin Hannah, Danz
 [Sarah Coleman - Westwind Bay](/works/Sarah-Coleman-Westwind-Bay.html) `23 💛`  
 [Sarah Coleman - The Summer of Wide Sky](/works/Sarah-Coleman-The-Summer-of-Wide-Sky.html) `0 🩶`  
 [Rachel Pierce - The Weight of Paper](/works/Rachel-Pierce-The-Weight-of-Paper.html) `0 🩶`  
+[Maya Cortez - The Whispering Lighthouse](/works/Maya-Cortez-The-Whispering-Lighthouse.html) `0 🩶`  
