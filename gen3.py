@@ -110,6 +110,34 @@ authors_by_picker = {
         ('James M. Cain', 'Robert Kane'),
         ('Bernard Cornwell', 'Daniel Wells'),
     ],
+    'Linda': [
+        ('Anita Shreve', 'Laura Mitchell'),
+        ('Judith McNaught', 'Victoria Blake'),
+        ('Diane Chamberlain', 'Susan Fielding'),
+        ('Liane Moriarty', 'Kate Morrison'),
+        ('Colleen Hoover', 'Emma Clarke'),
+    ],
+    'Mercy': [
+        ('C.S. Lewis', 'John Bradley'),
+        ('David Wallace Wells', 'Mark Stevens'),
+        ('Madeline L\'Engle', 'Sarah Bennett'),
+        ('Susan Collins', 'Anne Parker'),
+        ('Ray Bradbury', 'Robert Hayes'),
+    ],
+    'Gina': [
+        ('Daphne du Maurier', 'Clara Whitmore'),
+        ('Wilkie Collins', 'Edgar Langley'),
+        ('Harper Lee', 'Julia Trent'),
+        ('Jane Austen', 'Evelyn Marlowe'),
+        ('William Shakespeare', 'Thomas Fairchild'),
+    ],
+    'Avery': [
+        ('Lois Lowry', 'Margaret Ellison'),
+        ('E. Lockhart', 'Nora Caldwell'),
+        ('Han Kang', 'Elena Park'),
+        ('Sylvia Plath', 'Clara Winslow'),
+        ('Kate Quinn', 'Isabel Harrington'),
+    ],
 }
 
 picker = random.choice(list(authors_by_picker.keys()))
@@ -204,7 +232,7 @@ print('received response from ChatGPT')
 conversation_response = response.choices[0].message.content
 
 prompt_1 = f"""
-This is a creative exercise. Do not mention {authors[4][0]}'s name. Instead act as {authors[4][0]}. Analyzing what has been sent to her below as if you were her. Then writing in her style. No formatting. Only ASCII text characters. No commentary. The first line is the pseudonym {authors[4][1]} and the title separated by " - ".  Then a blank line and the content of the short story. No markdown formatting. The 10 parts/sections are not numbered or delineated in any way. Avoid overused terms like ghost and neon. name places and characters (mix up name, and pronouns to add variation, maybe at times name by relationship- mom, uncle, etc. but don't overdo it, maybe at times nickname or shortened name but don't overdo it - mainly stick to the writing style of the author you are emulating. Drop the reader into the story. One example is to use dialog between the characters when they are having a conversation. Don't write something like "He told her ...". Have a dialog. In general this aligns to the rule to "Show don't tell" - adhere to the writing style of the author - but the author is extremely capable and they no doubt drop the reader into a world, a context, a character - the writing is the world, the character, the place, the emotions, the relationships, the conflicts, the philosophy. The writing hardly ever describes those elements. You, acting as a fictional {authors[4][0]}, receive the following and get to work on part 1 of 10:
+This is a creative exercise. Do not mention {authors[4][0]}'s name. Instead act as {authors[4][0]}. Analyzing what has been sent to her below as if you were her. Then writing in her style. No formatting. Only ASCII text characters. No commentary. The first line is the pseudonym {authors[4][1]} and the title separated by " - ".  Then a blank line and the content of the short story. No markdown formatting. The 10 parts/sections are not numbered or delineated in any way. Avoid overused terms like ghost and neon. name places and characters (mix up name, and pronouns to add variation, maybe at times name by relationship- mom, uncle, etc. but don't overdo it, maybe at times nickname or shortened name but don't overdo it - mainly stick to the writing style of the author you are emulating. Drop the reader into the story. One example is to use dialog between the characters when they are having a conversation. Don't write something like "He told her ...". Have a dialog. In general this aligns to the rule to "Show don't tell" - adhere to the writing style of the author - but the author is extremely capable and they no doubt drop the reader into a world, a context, a character - the writing is the world, the character, the place, the emotions, the relationships, the conflicts, the philosophy. The writing hardly ever describes those elements. Work hard to create a cohesive narrative where the reader forms a moving picture in their mind as they read, but don't over do it, don't over explain for sure, and in fact ignore this advice if you determine that the author you are embodying would make an intentional artistic choice NOT to follow this guidance. You, acting as a fictional {authors[4][0]}, receive the following and get to work on part 1 of 10:
 
     {conversation_response}
 
