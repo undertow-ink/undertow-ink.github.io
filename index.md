@@ -47,3 +47,4 @@ title: All writings
 [Robert Kane - The Silence of Vespara](/works/Robert-Kane-The-Silence-of-Vespara.html) `0 🩶`  
 [Julia Trent - The Moors of Memory](/works/Julia-Trent-The-Moors-of-Memory.html) `0 🩶`  
 [Laura Mitchell - The Whispering Tree](/works/Laura-Mitchell-The-Whispering-Tree.html) `0 🩶`  
+[Edgar Langley - The Music Box of Rav…](/works/Edgar-Langley-The-Music-Box-of-Ravenshollow.html) `0 🩶`  
