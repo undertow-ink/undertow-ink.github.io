@@ -18,3 +18,4 @@ Kelley enjoys the works of Ann Patchett, Elizabeth Gilbert, Kristin Hannah, Danz
 [Rachel Pierce - The Weight of Paper](/works/Rachel-Pierce-The-Weight-of-Paper.html) `0 🩶`  
 [Maya Cortez - The Whispering Lighthouse](/works/Maya-Cortez-The-Whispering-Lighthouse.html) `0 🩶`  
 [Mara Ellingsen - The Weight of Rooms](/works/Mara-Ellingsen-The-Weight-of-Rooms.html) `0 🩶`  
+[Maya Cortez - The Cordelia Papers](/works/Maya-Cortez-The-Cordelia-Papers.html) `0 🩶`  

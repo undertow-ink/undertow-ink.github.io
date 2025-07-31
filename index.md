@@ -29,3 +29,4 @@ title: All writings
 [Maya Cortez - The Whispering Lighthouse](/works/Maya-Cortez-The-Whispering-Lighthouse.html) `0 🩶`  
 [Mara Ellingsen - The Weight of Rooms](/works/Mara-Ellingsen-The-Weight-of-Rooms.html) `0 🩶`  
 [Margaret Ellison - The Artist's Island](/works/Margaret-Ellison-The-Artist's-Island.html) `0 🩶`  
+[Maya Cortez - The Cordelia Papers](/works/Maya-Cortez-The-Cordelia-Papers.html) `0 🩶`  
