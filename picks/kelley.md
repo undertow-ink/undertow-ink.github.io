@@ -20,3 +20,4 @@ Kelley enjoys the works of Ann Patchett, Elizabeth Gilbert, Kristin Hannah, Danz
 [Mara Ellingsen - The Weight of Rooms](/works/Mara-Ellingsen-The-Weight-of-Rooms.html) `0 🩶`  
 [Maya Cortez - The Cordelia Papers](/works/Maya-Cortez-The-Cordelia-Papers.html) `0 🩶`  
 [Sarah Coleman - Where the Sea Meets …](/works/Sarah-Coleman-Where-the-Sea-Meets-the-Story.html) `0 🩶`  
+[Claire Donovan - The Weight of Inheriting](/works/Claire-Donovan-The-Weight-of-Inheriting.html) `0 🩶`  
