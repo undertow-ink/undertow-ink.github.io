@@ -46,3 +46,4 @@ title: All writings
 [Thomas Grey - The Wire Between](/works/Thomas-Grey-The-Wire-Between.html) `0 🩶`  
 [Robert Kane - The Silence of Vespara](/works/Robert-Kane-The-Silence-of-Vespara.html) `0 🩶`  
 [Julia Trent - The Moors of Memory](/works/Julia-Trent-The-Moors-of-Memory.html) `0 🩶`  
+[Laura Mitchell - The Whispering Tree](/works/Laura-Mitchell-The-Whispering-Tree.html) `0 🩶`  
