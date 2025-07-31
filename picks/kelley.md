@@ -14,3 +14,4 @@ Kelley enjoys the works of Ann Patchett, Elizabeth Gilbert, Kristin Hannah, Danz
 [Rachel Pierce - The Secrets of Alde…](/works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.html) `41 🧡`  
 [Sarah Coleman - Harrow's Bend](/works/Sarah-Coleman-Harrows-Bend.html) `34 💛`  
 [Sarah Coleman - Westwind Bay](/works/Sarah-Coleman-Westwind-Bay.html) `23 💛`  
+[Sarah Coleman - The Summer of Wide Sky](/works/Sarah-Coleman-The-Summer-of-Wide-Sky.html) `0 🩶`  

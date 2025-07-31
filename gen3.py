@@ -1,5 +1,5 @@
-print('paused');import sys;sys.exit()
-import time; time.sleep(5)
+# print('paused');import sys;sys.exit()
+# import time; time.sleep(5)
 
 import random
 import anthropic
@@ -183,8 +183,12 @@ new_link = do_the_thing(story_content)
 update_picker_file(picker, new_link)
 subprocess.run(["git", "add", "-A"])
 subprocess.run(["git", "commit", "-m", f"{authors[0][0]} + {authors[1][0]} plan, {authors[4][0]} writes (Claude)"])
-# print('pushing to github')
-# subprocess.run(["git", "push"])
+
+
+print('pushing to github')
+subprocess.run(["git", "push"])
+import sys;sys.exit()
+
 
 # ChatGPT version
 picker = random.choice(list(authors_by_picker.keys()))

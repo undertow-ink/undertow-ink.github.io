@@ -22,3 +22,4 @@ title: All writings
 [Helena Cross - The Weight of Trans…](/works/Helena-Cross-The-Weight-of-Translation.html) `29 💛`  
 [Sarah Coleman - Westwind Bay](/works/Sarah-Coleman-Westwind-Bay.html) `23 💛`  
 [Daniel Wells - The Water That Left Us](/works/Daniel-Wells-The-Water-That-Left-Us.html) `11 🩶`  
+[Sarah Coleman - The Summer of Wide Sky](/works/Sarah-Coleman-The-Summer-of-Wide-Sky.html) `0 🩶`  
