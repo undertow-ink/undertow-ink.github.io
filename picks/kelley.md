@@ -19,3 +19,4 @@ Kelley enjoys the works of Ann Patchett, Elizabeth Gilbert, Kristin Hannah, Danz
 [Maya Cortez - The Whispering Lighthouse](/works/Maya-Cortez-The-Whispering-Lighthouse.html) `0 🩶`  
 [Mara Ellingsen - The Weight of Rooms](/works/Mara-Ellingsen-The-Weight-of-Rooms.html) `0 🩶`  
 [Maya Cortez - The Cordelia Papers](/works/Maya-Cortez-The-Cordelia-Papers.html) `0 🩶`  
+[Sarah Coleman - Where the Sea Meets …](/works/Sarah-Coleman-Where-the-Sea-Meets-the-Story.html) `0 🩶`  
