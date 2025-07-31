@@ -11,3 +11,4 @@ Phyllis enjoys the works of George R. R. Martin, Nick Bantock, Barry Hannah, Jam
 [Daniel Wells - The Herrera Letters](/works/Daniel-Wells-The-Herrera-Letters.html) `73 🩷`  
 [Thomas Grey - The Tides of Hartcliffe](/works/Thomas-Grey-The-Tides-of-Hartcliffe.html) `59 🧡`  
 [Daniel Wells - The Mill Letters](/works/Daniel-Wells-The-Mill-Letters.html) `53 🧡`  
+[Jake Morrison - The Cartographer's D…](/works/Jake-Morrison-The-Cartographer's-Descent.html) `0 🩶`  
