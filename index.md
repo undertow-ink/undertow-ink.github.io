@@ -48,3 +48,4 @@ title: All writings
 [Julia Trent - The Moors of Memory](/works/Julia-Trent-The-Moors-of-Memory.html) `0 🩶`  
 [Laura Mitchell - The Whispering Tree](/works/Laura-Mitchell-The-Whispering-Tree.html) `0 🩶`  
 [Edgar Langley - The Music Box of Rav…](/works/Edgar-Langley-The-Music-Box-of-Ravenshollow.html) `0 🩶`  
+[Clara Winslow - The Echoes of Sunbreak](/works/Clara-Winslow-The-Echoes-of-Sunbreak.html) `0 🩶`  
