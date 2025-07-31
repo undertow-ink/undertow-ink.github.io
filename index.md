@@ -45,3 +45,4 @@ title: All writings
 [Mark Stevens - Beginnings are Endings](/works/Mark-Stevens-Beginnings-are-Endings.html) `0 🩶`  
 [Thomas Grey - The Wire Between](/works/Thomas-Grey-The-Wire-Between.html) `0 🩶`  
 [Robert Kane - The Silence of Vespara](/works/Robert-Kane-The-Silence-of-Vespara.html) `0 🩶`  
+[Julia Trent - The Moors of Memory](/works/Julia-Trent-The-Moors-of-Memory.html) `0 🩶`  
