@@ -36,3 +36,4 @@ title: All writings
 [Jake Morrison - The Cartographer's D…](/works/Jake-Morrison-The-Cartographer's-Descent.html) `0 🩶`  
 [Alex Rivers - The Churning Waters](/works/Alex-Rivers-The-Churning-Waters.html) `0 🩶`  
 [Claire Donovan - The Weight of Inheriting](/works/Claire-Donovan-The-Weight-of-Inheriting.html) `0 🩶`  
+[Anne Parker - Echoes of Peloria](/works/Anne-Parker-Echoes-of-Peloria.html) `0 🩶`  
