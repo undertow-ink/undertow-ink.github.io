@@ -15,3 +15,4 @@ Gina enjoys the works of Daphne du Maurier, Wilkie Collins, Harper Lee, Jane Aus
 [Julia Trent - The Weight of Thornwick](/works/Julia-Trent-The-Weight-of-Thornwick.html) `0 🩶`  
 [Edgar Langley - The Whispering Woods…](/works/Edgar-Langley-The-Whispering-Woods-of-Eldermere.html) `0 🩶`  
 [Evelyn Marlowe - The Hartwell Inheritance](/works/Evelyn-Marlowe-The-Hartwell-Inheritance.html) `0 🩶`  
+[Evelyn Marlowe - The Secrets of Montclair](/works/Evelyn-Marlowe-The-Secrets-of-Montclair.html) `0 🩶`  

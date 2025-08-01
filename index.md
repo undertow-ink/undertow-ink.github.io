@@ -64,3 +64,4 @@ title: All writings
 [Daniel Wells - The Purple Correspondence](/works/Daniel-Wells-The-Purple-Correspondence.html) `0 🩶`  
 [Mark Stevens - Beyond the Veil](/works/Mark-Stevens-Beyond-the-Veil.html) `0 🩶`  
 [John Bradley - The Deepening Current](/works/John-Bradley-The-Deepening-Current.html) `0 🩶`  
+[Evelyn Marlowe - The Secrets of Montclair](/works/Evelyn-Marlowe-The-Secrets-of-Montclair.html) `0 🩶`  
