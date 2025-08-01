@@ -16,3 +16,4 @@ Mercy enjoys the works of C.S. Lewis, David Wallace Wells, Madeline L'Engle, Sus
 [Mark Stevens - Beyond the Veil](/works/Mark-Stevens-Beyond-the-Veil.html) `0 🩶`  
 [John Bradley - The Deepening Current](/works/John-Bradley-The-Deepening-Current.html) `0 🩶`  
 [Mark Stevens - The Resonance Chamber](/works/Mark-Stevens-The-Resonance-Chamber.html) `0 🩶`  
+[Mark Stevens - Whispers of the Dual…](/works/Mark-Stevens-Whispers-of-the-Dual-Veil.html) `0 🩶`  

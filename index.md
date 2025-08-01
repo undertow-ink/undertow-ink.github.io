@@ -70,3 +70,4 @@ title: All writings
 [Mark Stevens - The Resonance Chamber](/works/Mark-Stevens-The-Resonance-Chamber.html) `0 🩶`  
 [Helena Cross - The Whispers at Arfon Bay](/works/Helena-Cross-The-Whispers-at-Arfon-Bay.html) `0 🩶`  
 [Nora Caldwell - The Weight of Flour](/works/Nora-Caldwell-The-Weight-of-Flour.html) `0 🩶`  
+[Mark Stevens - Whispers of the Dual…](/works/Mark-Stevens-Whispers-of-the-Dual-Veil.html) `0 🩶`  
