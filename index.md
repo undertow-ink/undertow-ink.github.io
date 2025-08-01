@@ -67,3 +67,4 @@ title: All writings
 [Evelyn Marlowe - The Secrets of Montclair](/works/Evelyn-Marlowe-The-Secrets-of-Montclair.html) `0 🩶`  
 [David Chen - The Temporal Cartographer](/works/David-Chen-The-Temporal-Cartographer.html) `0 🩶`  
 [Evelyn Marlowe - The Silent Heir](/works/Evelyn-Marlowe-The-Silent-Heir.html) `0 🩶`  
+[Mark Stevens - The Resonance Chamber](/works/Mark-Stevens-The-Resonance-Chamber.html) `0 🩶`  
