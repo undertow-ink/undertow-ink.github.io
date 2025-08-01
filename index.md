@@ -50,3 +50,4 @@ title: All writings
 [Edgar Langley - The Music Box of Rav…](/works/Edgar-Langley-The-Music-Box-of-Ravenshollow.html) `0 🩶`  
 [Clara Winslow - The Echoes of Sunb…](/works/Clara-Winslow-The-Echoes-of-Sunbreak.html) `0 🩶`  
 [Erik Lindqvist - The Algorithm of Endings](/works/Erik-Lindqvist-The-Algorithm-of-Endings.html) `0 🩶`  
+[Emma Clarke - Beneath Whispering Tides](/works/Emma-Clarke-Beneath-Whispering-Tides.html) `0 🩶`  
