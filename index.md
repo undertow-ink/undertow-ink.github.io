@@ -77,3 +77,4 @@ title: All writings
 [Jake Morrison - The Weight of the Letters](/works/Jake-Morrison-The-Weight-of-the-Letters.html) `0 🩶`  
 [Emma Clarke - The Salt and the Shore](/works/Emma-Clarke-The-Salt-and-the-Shore.html) `0 🩶`  
 [Emma Clarke - Where We Begin](/works/Emma-Clarke-Where-We-Begin.html) `0 🩶`  
+[Margaret Ellison - The Weight of Cotton](/works/Margaret-Ellison-The-Weight-of-Cotton.html) `0 🩶`  
