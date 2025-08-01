@@ -49,3 +49,4 @@ title: All writings
 [Laura Mitchell - The Whispering Tree](/works/Laura-Mitchell-The-Whispering-Tree.html) `0 🩶`  
 [Edgar Langley - The Music Box of Rav…](/works/Edgar-Langley-The-Music-Box-of-Ravenshollow.html) `0 🩶`  
 [Clara Winslow - The Echoes of Sunb…](/works/Clara-Winslow-The-Echoes-of-Sunbreak.html) `0 🩶`  
+[Erik Lindqvist - The Algorithm of Endings](/works/Erik-Lindqvist-The-Algorithm-of-Endings.html) `0 🩶`  
