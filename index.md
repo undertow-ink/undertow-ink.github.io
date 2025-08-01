@@ -53,3 +53,4 @@ title: All writings
 [Emma Clarke - Beneath Whispering Tides](/works/Emma-Clarke-Beneath-Whispering-Tides.html) `0 🩶`  
 [Mara Ellingsen - The Millbrook Sessions](/works/Mara-Ellingsen-The-Millbrook-Sessions.html) `0 🩶`  
 [Clara Whitmore - The Tapestry of Langford](/works/Clara-Whitmore-The-Tapestry-of-Langford.html) `0 🩶`  
+[Julia Trent - The Weight of Thornwick](/works/Julia-Trent-The-Weight-of-Thornwick.html) `0 🩶`  
