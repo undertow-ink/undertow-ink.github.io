@@ -51,3 +51,4 @@ title: All writings
 [Clara Winslow - The Echoes of Sunb…](/works/Clara-Winslow-The-Echoes-of-Sunbreak.html) `0 🩶`  
 [Erik Lindqvist - The Algorithm of Endings](/works/Erik-Lindqvist-The-Algorithm-of-Endings.html) `0 🩶`  
 [Emma Clarke - Beneath Whispering Tides](/works/Emma-Clarke-Beneath-Whispering-Tides.html) `0 🩶`  
+[Mara Ellingsen - The Millbrook Sessions](/works/Mara-Ellingsen-The-Millbrook-Sessions.html) `0 🩶`  

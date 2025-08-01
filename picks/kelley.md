@@ -22,3 +22,4 @@ Kelley enjoys the works of Ann Patchett, Elizabeth Gilbert, Kristin Hannah, Danz
 [Sarah Coleman - Where the Sea M…](/works/Sarah-Coleman-Where-the-Sea-Meets-the-Story.html) `26 💛`  
 [Sarah Coleman - Westwind Bay](/works/Sarah-Coleman-Westwind-Bay.html) `23 💛`  
 [Maya Cortez - The Whispering Ligh…](/works/Maya-Cortez-The-Whispering-Lighthouse.html) `21 💛`  
+[Mara Ellingsen - The Millbrook Sessions](/works/Mara-Ellingsen-The-Millbrook-Sessions.html) `0 🩶`  
