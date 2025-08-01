@@ -13,3 +13,4 @@ Gina enjoys the works of Daphne du Maurier, Wilkie Collins, Harper Lee, Jane Aus
 [Edgar Langley - The Music Box of Rav…](/works/Edgar-Langley-The-Music-Box-of-Ravenshollow.html) `0 🩶`  
 [Clara Whitmore - The Tapestry of Langford](/works/Clara-Whitmore-The-Tapestry-of-Langford.html) `0 🩶`  
 [Julia Trent - The Weight of Thornwick](/works/Julia-Trent-The-Weight-of-Thornwick.html) `0 🩶`  
+[Edgar Langley - The Whispering Woods…](/works/Edgar-Langley-The-Whispering-Woods-of-Eldermere.html) `0 🩶`  

@@ -54,3 +54,4 @@ title: All writings
 [Mara Ellingsen - The Millbrook Sessions](/works/Mara-Ellingsen-The-Millbrook-Sessions.html) `0 🩶`  
 [Clara Whitmore - The Tapestry of Langford](/works/Clara-Whitmore-The-Tapestry-of-Langford.html) `0 🩶`  
 [Julia Trent - The Weight of Thornwick](/works/Julia-Trent-The-Weight-of-Thornwick.html) `0 🩶`  
+[Edgar Langley - The Whispering Woods…](/works/Edgar-Langley-The-Whispering-Woods-of-Eldermere.html) `0 🩶`  
