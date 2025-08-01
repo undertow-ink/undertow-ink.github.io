@@ -63,3 +63,4 @@ title: All writings
 [Mark Stevens - The Isle of Unfolded Time](/works/Mark-Stevens-The-Isle-of-Unfolded-Time.html) `0 🩶`  
 [Daniel Wells - The Purple Correspondence](/works/Daniel-Wells-The-Purple-Correspondence.html) `0 🩶`  
 [Mark Stevens - Beyond the Veil](/works/Mark-Stevens-Beyond-the-Veil.html) `0 🩶`  
+[John Bradley - The Deepening Current](/works/John-Bradley-The-Deepening-Current.html) `0 🩶`  
