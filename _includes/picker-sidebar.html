@@ -1,0 +1,99 @@
+<style>
+#picker-sidebar {
+  position: fixed;
+  top: 120px;
+  left: 20px;
+  width: 320px;
+  background: #fff;
+  padding: 12px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  font-family: sans-serif;
+  font-size: 0.9em;
+  line-height: 1.4em;
+  z-index: 999;
+}
+
+#picker-sidebar h3 {
+  margin: 0 0 12px 0;
+  font-size: 1.2em;
+}
+
+#picker-sidebar .picker {
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 0.5px solid #ddd;
+}
+
+#picker-sidebar .picker:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+#picker-sidebar .picker a {
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 3px;
+}
+
+#picker-sidebar .picker a:hover {
+  text-decoration: underline;
+}
+
+#picker-sidebar .authors {
+  font-size: 0.85em;
+  color: #555;
+  line-height: 1.3em;
+}
+
+@media (max-width: 720px) {
+  #picker-sidebar {
+    position: static;
+    width: auto;
+    border: none;
+    box-shadow: none;
+    margin-bottom: 20px;
+  }
+}
+</style>
+
+<div id="picker-sidebar">
+  <h3>Picks</h3>
+
+  <div class="picker">
+    <a href="/picks/avery.html">Avery</a>
+    <div class="authors">Kang, Lockhart, Lowry, Quinn, Plath</div>
+  </div>
+
+  <div class="picker">
+    <a href="/picks/brian.html">Brian</a>
+    <div class="authors">Carson, Carrington, Chiang, Coetzee, Knausgaard</div>
+  </div>
+
+  <div class="picker">
+    <a href="/picks/gina.html">Gina</a>
+    <div class="authors">Austen, Collins, du Maurier, Lee, Shakespeare</div>
+  </div>
+
+  <div class="picker">
+    <a href="/picks/kelley.html">Kelley</a>
+    <div class="authors">Gilbert, Habeck, Hannah, Patchett, Senna</div>
+  </div>
+
+  <div class="picker">
+    <a href="/picks/linda.html">Linda</a>
+    <div class="authors">Chamberlain, Hoover, McNaught, Moriarty, Shreve</div>
+  </div>
+
+  <div class="picker">
+    <a href="/picks/mercy.html">Mercy</a>
+    <div class="authors">Bradbury, Collins, Engle, Lewis, Wells</div>
+  </div>
+
+  <div class="picker">
+    <a href="/picks/phyllis.html">Phyllis</a>
+    <div class="authors">Bantock, Cain, Cornwell, Hannah, Martin</div>
+  </div>
+</div>

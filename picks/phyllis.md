@@ -1,7 +1,4 @@
----
-layout: home
-title: Phyllis's picks
----
+**Phyllis's picks**
 
 ![Phyllis](/assets/phyllis.png)
 

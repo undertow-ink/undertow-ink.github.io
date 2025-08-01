@@ -1,7 +1,4 @@
----
-layout: home
-title: Brian's picks
----
+**Brian's picks**
 
 ![Brian](/assets/brian.png)
 

@@ -1,7 +1,4 @@
----
-layout: home
-title: Mercy's picks
----
+**Mercy's picks**
 
 ![Mercy](/assets/mercy.png)
 

@@ -1,7 +1,4 @@
----
-layout: home
-title: Linda's picks
----
+**Linda's picks**
 
 ![Linda](/assets/linda.png)
 

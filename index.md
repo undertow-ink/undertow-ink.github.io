@@ -1,6 +1,6 @@
 ---
 layout: home
-title: All writings
+title: Home
 ---
 [Robert Kane - The Foundry District](/works/Robert-Kane-The-Foundry-District.html) `97 ❤️`  
 [Ruth Sterling - The Institutional Nights](/works/Ruth-Sterling-The-Institutional-Nights.html) `89 ❤️`  

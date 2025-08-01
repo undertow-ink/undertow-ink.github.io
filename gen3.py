@@ -109,11 +109,11 @@ authors_by_picker = {
         ('William Shakespeare', 'Thomas Fairchild'),
     ],
     'Avery': [
-        ('Lois Lowry', 'Margaret Ellison'),
-        ('E. Lockhart', 'Nora Caldwell'),
         ('Han Kang', 'Elena Park'),
-        ('Sylvia Plath', 'Clara Winslow'),
+        ('E. Lockhart', 'Nora Caldwell'),
+        ('Lois Lowry', 'Margaret Ellison'),
         ('Kate Quinn', 'Isabel Harrington'),
+        ('Sylvia Plath', 'Clara Winslow'),
     ],
 }
 

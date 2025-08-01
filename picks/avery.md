@@ -1,7 +1,4 @@
----
-layout: home
-title: Avery's picks
----
+**Avery's picks**
 
 ![Avery](/assets/avery.png)
 

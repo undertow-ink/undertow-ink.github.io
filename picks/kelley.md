@@ -1,7 +1,4 @@
----
-layout: home
-title: Kelley's picks
----
+**Kelley's picks**
 
 ![Kelley](/assets/kelley.png)
 

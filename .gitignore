@@ -1,6 +1,7 @@
 .bundle/
 .ruby-version
 vendor/
+_site/
 
 .env
 .DS_Store
