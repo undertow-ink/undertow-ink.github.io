@@ -59,3 +59,4 @@ title: All writings
 [Michael Hartley - Shadows in Marlot  ](/works/Michael-Hartley-Shadows-in-Marlot.html) `0 🩶`  
 [Margaret Ellison - The Red Garden](/works/Margaret-Ellison-The-Red-Garden.html) `0 🩶`  
 [Robert Hayes - Obsidian Echoes](/works/Robert-Hayes-Obsidian-Echoes.html) `0 🩶`  
+[Evelyn Marlowe - The Hartwell Inheritance](/works/Evelyn-Marlowe-The-Hartwell-Inheritance.html) `0 🩶`  
