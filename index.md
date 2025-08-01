@@ -60,3 +60,4 @@ title: All writings
 [Margaret Ellison - The Red Garden](/works/Margaret-Ellison-The-Red-Garden.html) `0 🩶`  
 [Robert Hayes - Obsidian Echoes](/works/Robert-Hayes-Obsidian-Echoes.html) `0 🩶`  
 [Evelyn Marlowe - The Hartwell Inheritance](/works/Evelyn-Marlowe-The-Hartwell-Inheritance.html) `0 🩶`  
+[Mark Stevens - The Isle of Unfolded Time](/works/Mark-Stevens-The-Isle-of-Unfolded-Time.html) `0 🩶`  
