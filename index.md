@@ -57,3 +57,4 @@ title: All writings
 [Edgar Langley - The Whispering Woods…](/works/Edgar-Langley-The-Whispering-Woods-of-Eldermere.html) `0 🩶`  
 [Robert Kane - The Blackwood Dispatches](/works/Robert-Kane-The-Blackwood-Dispatches.html) `0 🩶`  
 [Michael Hartley - Shadows in Marlot  ](/works/Michael-Hartley-Shadows-in-Marlot.html) `0 🩶`  
+[Margaret Ellison - The Red Garden](/works/Margaret-Ellison-The-Red-Garden.html) `0 🩶`  
