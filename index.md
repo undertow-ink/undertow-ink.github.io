@@ -76,3 +76,4 @@ title: All writings
 [Kate Morrison - The Lighthouse Keepe…](/works/Kate-Morrison-The-Lighthouse-Keeper's-Secret.html) `0 🩶`  
 [Jake Morrison - The Weight of the Letters](/works/Jake-Morrison-The-Weight-of-the-Letters.html) `0 🩶`  
 [Emma Clarke - The Salt and the Shore](/works/Emma-Clarke-The-Salt-and-the-Shore.html) `0 🩶`  
+[Emma Clarke - Where We Begin](/works/Emma-Clarke-Where-We-Begin.html) `0 🩶`  
