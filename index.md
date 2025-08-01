@@ -56,3 +56,4 @@ title: All writings
 [Julia Trent - The Weight of Thornwick](/works/Julia-Trent-The-Weight-of-Thornwick.html) `0 🩶`  
 [Edgar Langley - The Whispering Woods…](/works/Edgar-Langley-The-Whispering-Woods-of-Eldermere.html) `0 🩶`  
 [Robert Kane - The Blackwood Dispatches](/works/Robert-Kane-The-Blackwood-Dispatches.html) `0 🩶`  
+[Michael Hartley - Shadows in Marlot  ](/works/Michael-Hartley-Shadows-in-Marlot.html) `0 🩶`  

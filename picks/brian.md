@@ -17,3 +17,4 @@ Brian enjoys the works of Karl Ove Knausgaard, Ted Chiang, Leonora Carrington, A
 [Michael Hartley - The Whispering Ga…](/works/Michael-Hartley-The-Whispering-Garden.html) `31 💛`  
 [Helena Cross - The Weight of Trans…](/works/Helena-Cross-The-Weight-of-Translation.html) `29 💛`  
 [Erik Lindqvist - The Algorithm of Endings](/works/Erik-Lindqvist-The-Algorithm-of-Endings.html) `0 🩶`  
+[Michael Hartley - Shadows in Marlot  ](/works/Michael-Hartley-Shadows-in-Marlot.html) `0 🩶`  
