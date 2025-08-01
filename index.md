@@ -68,3 +68,4 @@ title: All writings
 [David Chen - The Temporal Cartographer](/works/David-Chen-The-Temporal-Cartographer.html) `0 🩶`  
 [Evelyn Marlowe - The Silent Heir](/works/Evelyn-Marlowe-The-Silent-Heir.html) `0 🩶`  
 [Mark Stevens - The Resonance Chamber](/works/Mark-Stevens-The-Resonance-Chamber.html) `0 🩶`  
+[Helena Cross - The Whispers at Arfon Bay](/works/Helena-Cross-The-Whispers-at-Arfon-Bay.html) `0 🩶`  

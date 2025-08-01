@@ -19,3 +19,4 @@ Brian enjoys the works of Karl Ove Knausgaard, Ted Chiang, Leonora Carrington, A
 [Erik Lindqvist - The Algorithm of Endings](/works/Erik-Lindqvist-The-Algorithm-of-Endings.html) `0 🩶`  
 [Michael Hartley - Shadows in Marlot  ](/works/Michael-Hartley-Shadows-in-Marlot.html) `0 🩶`  
 [David Chen - The Temporal Cartographer](/works/David-Chen-The-Temporal-Cartographer.html) `0 🩶`  
+[Helena Cross - The Whispers at Arfon Bay](/works/Helena-Cross-The-Whispers-at-Arfon-Bay.html) `0 🩶`  
