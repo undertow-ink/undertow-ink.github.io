@@ -12,3 +12,4 @@ Avery enjoys the works of Lois Lowry, E. Lockhart, Han Kang, Sylvia Plath, and K
 [Margaret Ellison - The Artist's Island](/works/Margaret-Ellison-The-Artist's-Island.html) `14 🩶`  
 [Clara Winslow - The Echoes of Sunb…](/works/Clara-Winslow-The-Echoes-of-Sunbreak.html) `0 🩶`  
 [Margaret Ellison - The Red Garden](/works/Margaret-Ellison-The-Red-Garden.html) `0 🩶`  
+[Nora Caldwell - The Weight of Flour](/works/Nora-Caldwell-The-Weight-of-Flour.html) `0 🩶`  
