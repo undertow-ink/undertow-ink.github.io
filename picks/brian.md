@@ -18,3 +18,4 @@ Brian enjoys the works of Karl Ove Knausgaard, Ted Chiang, Leonora Carrington, A
 [Helena Cross - The Weight of Trans…](/works/Helena-Cross-The-Weight-of-Translation.html) `29 💛`  
 [Erik Lindqvist - The Algorithm of Endings](/works/Erik-Lindqvist-The-Algorithm-of-Endings.html) `0 🩶`  
 [Michael Hartley - Shadows in Marlot  ](/works/Michael-Hartley-Shadows-in-Marlot.html) `0 🩶`  
+[David Chen - The Temporal Cartographer](/works/David-Chen-The-Temporal-Cartographer.html) `0 🩶`  

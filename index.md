@@ -65,3 +65,4 @@ title: All writings
 [Mark Stevens - Beyond the Veil](/works/Mark-Stevens-Beyond-the-Veil.html) `0 🩶`  
 [John Bradley - The Deepening Current](/works/John-Bradley-The-Deepening-Current.html) `0 🩶`  
 [Evelyn Marlowe - The Secrets of Montclair](/works/Evelyn-Marlowe-The-Secrets-of-Montclair.html) `0 🩶`  
+[David Chen - The Temporal Cartographer](/works/David-Chen-The-Temporal-Cartographer.html) `0 🩶`  
