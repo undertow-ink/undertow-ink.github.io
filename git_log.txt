@@ -1,0 +1,2643 @@
+commit 4f433c7d5cbd932c1eacb1a3c3d2d83718dc2ca1
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 02:29:01 2025 -0400
+
+    David Wallace Wells + Ray Bradbury plan, Susan Collins writes (ChatGPT)
+
+M	index.md
+M	picks/mercy.md
+A	works/Anne-Parker-The-Hourglass-of-Noctura.md
+
+commit eb883e1b5d439b4a5b4bf545e3b68215d6963b78
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 02:24:24 2025 -0400
+
+    Barry Hannah + George R. R. Martin plan, Bernard Cornwell writes (Claude)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Daniel-Wells-The-Correspondence-Conspiracy.md
+
+commit 592fc43a5c237d96f6a37a0b60c9671517fe39b4
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 02:18:02 2025 -0400
+
+    Anne Carson + Ted Chiang plan, Leonora Carrington writes (ChatGPT)
+
+M	index.md
+M	picks/brian.md
+A	works/Helena-Cross-The-Whispering-Veils-of-Arborwell.md
+
+commit 9599c790c7030b2533d07ecb313eb715272f8523
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 02:13:55 2025 -0400
+
+    Sylvia Plath + E. Lockhart plan, Lois Lowry writes (Claude)
+
+M	index.md
+M	picks/avery.md
+A	works/Margaret-Ellison-The-Weight-of-Cotton.md
+
+commit 18a981a1e7f881e8102af63fba114e3ac9ec170b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 02:04:24 2025 -0400
+
+    Judith McNaught + Diane Chamberlain plan, Colleen Hoover writes (ChatGPT)
+
+M	index.md
+M	picks/linda.md
+A	works/Emma-Clarke-Where-We-Begin.md
+
+commit c88351e818a85d69bfa9996bee0b6312bd241c52
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 02:00:11 2025 -0400
+
+    Liane Moriarty + Diane Chamberlain plan, Colleen Hoover writes (Claude)
+
+M	index.md
+M	picks/linda.md
+A	works/Emma-Clarke-The-Salt-and-the-Shore.md
+
+commit 329ed294167f05d8ed45f879f90bd2140f8e564f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:52:44 2025 -0400
+
+    George R. R. Martin + James M. Cain plan, Barry Hannah writes (ChatGPT)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Jake-Morrison-The-Weight-of-the-Letters.md
+
+commit 20f104ab6fc11ef94a7444590f48a803d5517652
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:49:02 2025 -0400
+
+    Anita Shreve + Judith McNaught plan, Liane Moriarty writes (Claude)
+
+M	index.md
+M	picks/linda.md
+A	works/Kate-Morrison-The-Lighthouse-Keeper's-Secret.md
+
+commit dbb5148723f9544d58489b980f292a81e0ce90c2
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:42:18 2025 -0400
+
+    Barry Hannah + Nick Bantock plan, Bernard Cornwell writes (ChatGPT)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Daniel-Wells-Cedarbridge's-Legacy.md
+
+commit 264c117e1f997fb3b5d707067c20f45ffc20bd31
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:39:02 2025 -0400
+
+    Susan Collins + C.S. Lewis plan, Ray Bradbury writes (Claude)
+
+M	index.md
+M	picks/mercy.md
+A	works/Robert-Hayes-The-Station-Between-Worlds.md
+
+commit a03035dc135025ff0dd1c106e2d1c43520c084e5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:32:35 2025 -0400
+
+    C.S. Lewis + Susan Collins plan, David Wallace Wells writes (ChatGPT)
+
+M	index.md
+M	picks/mercy.md
+A	works/Mark-Stevens-Whispers-of-the-Dual-Veil.md
+
+commit 440629d14abfe012a7ac7241ed979b15e8809ee3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:28:05 2025 -0400
+
+    Han Kang + Lois Lowry plan, E. Lockhart writes (Claude)
+
+M	index.md
+M	picks/avery.md
+A	works/Nora-Caldwell-The-Weight-of-Flour.md
+
+commit 896f8a11a69e780f19b5befef40c0b8c6b91a63c
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:23:09 2025 -0400
+
+    Karl Ove Knausgaard + J. M. Coetzee plan, Leonora Carrington writes (ChatGPT)
+
+M	index.md
+M	picks/brian.md
+A	works/Helena-Cross-The-Whispers-at-Arfon-Bay.md
+
+commit b9aed0fe58c6c723e71bf5e2b9e01170af134d9d
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:17:49 2025 -0400
+
+    C.S. Lewis + Ray Bradbury plan, David Wallace Wells writes (Claude)
+
+M	index.md
+M	picks/mercy.md
+A	works/Mark-Stevens-The-Resonance-Chamber.md
+
+commit b8a2546bd650e8dc0edfca6c29a177c467e318ab
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:04:30 2025 -0400
+
+    Daphne du Maurier + Harper Lee plan, Jane Austen writes (ChatGPT)
+
+M	index.md
+M	picks/gina.md
+A	works/Evelyn-Marlowe-The-Silent-Heir.md
+
+commit a298ce3bb41c248a8eb5a21a59359645f5785ce1
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 01:00:28 2025 -0400
+
+    Leonora Carrington + Karl Ove Knausgaard plan, Ted Chiang writes (Claude)
+
+M	index.md
+M	picks/brian.md
+A	works/David-Chen-The-Temporal-Cartographer.md
+
+commit 30be1600cd4b3b2a1bcb0cbd22836d944cf393f8
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:51:59 2025 -0400
+
+    William Shakespeare + Wilkie Collins plan, Jane Austen writes (ChatGPT)
+
+M	index.md
+M	picks/gina.md
+A	works/Evelyn-Marlowe-The-Secrets-of-Montclair.md
+
+commit 1344ef208b14bfb6b51abbab3b7bac5c20145a35
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:47:54 2025 -0400
+
+    Madeline L'Engle + Ray Bradbury plan, C.S. Lewis writes (Claude)
+
+M	index.md
+M	picks/mercy.md
+A	works/John-Bradley-The-Deepening-Current.md
+
+commit 7c2a41ff56bdeef3418539e5b2995cc04d047903
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:39:50 2025 -0400
+
+    Madeline L'Engle + C.S. Lewis plan, David Wallace Wells writes (ChatGPT)
+
+M	index.md
+M	picks/mercy.md
+A	works/Mark-Stevens-Beyond-the-Veil.md
+
+commit 38789aebd86a3bd19199c62ddf739a7b8cde0fbb
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:35:08 2025 -0400
+
+    James M. Cain + George R. R. Martin plan, Bernard Cornwell writes (Claude)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Daniel-Wells-The-Purple-Correspondence.md
+
+commit 861caceb3b731efdb5396920a4a5b4021511c6fb
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:23:01 2025 -0400
+
+    Susan Collins + C.S. Lewis plan, David Wallace Wells writes (ChatGPT)
+
+M	index.md
+M	picks/mercy.md
+A	works/Mark-Stevens-The-Isle-of-Unfolded-Time.md
+
+commit c38fde5720aa9ff00d6dc0b4f58b3650b5946ad9
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:18:42 2025 -0400
+
+    Harper Lee + Daphne du Maurier plan, Jane Austen writes (Claude)
+
+M	index.md
+M	picks/gina.md
+A	works/Evelyn-Marlowe-The-Hartwell-Inheritance.md
+
+commit edf4ac9f6d43aa4ab2869fbc06a5c7a9074bcabc
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:13:12 2025 -0400
+
+    David Wallace Wells + C.S. Lewis plan, Ray Bradbury writes (ChatGPT)
+
+M	index.md
+M	picks/mercy.md
+A	works/Robert-Hayes-Obsidian-Echoes.md
+
+commit ddc495e8be81b0175212f5d748d3d5247975b796
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:09:05 2025 -0400
+
+    Kate Quinn + Sylvia Plath plan, Lois Lowry writes (Claude)
+
+M	index.md
+M	picks/avery.md
+A	works/Margaret-Ellison-The-Red-Garden.md
+
+commit 8e8cc7ad8b7ebac3cc9d4ba6269bd8ee71bfb5ef
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Fri Aug 1 00:01:46 2025 -0400
+
+    Anne Carson + Ted Chiang plan, J. M. Coetzee writes (ChatGPT)
+
+M	index.md
+M	picks/brian.md
+A	works/Michael-Hartley-Shadows-in-Marlot.md
+
+commit 3a576c2abf30555c7762b71a4565239ee901e30c
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 23:56:10 2025 -0400
+
+    Bernard Cornwell + George R. R. Martin plan, James M. Cain writes (Claude)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Robert-Kane-The-Blackwood-Dispatches.md
+
+commit 20799720ee064e8a72bd8edf19d44ef847ac3ede
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 23:49:48 2025 -0400
+
+    William Shakespeare + Jane Austen plan, Wilkie Collins writes (ChatGPT)
+
+M	index.md
+M	picks/gina.md
+A	works/Edgar-Langley-The-Whispering-Woods-of-Eldermere.md
+
+commit 4380471c630f01f7a1daaa5484033d21f26f6206
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 23:45:26 2025 -0400
+
+    Jane Austen + William Shakespeare plan, Harper Lee writes (Claude)
+
+M	index.md
+M	picks/gina.md
+A	works/Julia-Trent-The-Weight-of-Thornwick.md
+
+commit cde2767a86c46c082adfb032d0b52c2cc2401545
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 23:35:40 2025 -0400
+
+    Jane Austen + Wilkie Collins plan, Daphne du Maurier writes (ChatGPT)
+
+M	index.md
+M	picks/gina.md
+A	works/Clara-Whitmore-The-Tapestry-of-Langford.md
+
+commit b158a800fb3fbc27bc03b8de787319b879c57c1b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 23:32:22 2025 -0400
+
+    Emily Habeck + Kristin Hannah plan, Elizabeth Gilbert writes (Claude)
+
+M	index.md
+M	picks/kelley.md
+A	works/Mara-Ellingsen-The-Millbrook-Sessions.md
+
+commit 6b621f28ec607d703dbf398ccc1b80aec1cd6948
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 23:23:38 2025 -0400
+
+    Liane Moriarty + Diane Chamberlain plan, Colleen Hoover writes (ChatGPT)
+
+M	index.md
+M	picks/linda.md
+A	works/Emma-Clarke-Beneath-Whispering-Tides.md
+
+commit ee759e9d9ca11f53ecebb537052105adae46d3ae
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 23:19:46 2025 -0400
+
+    Leonora Carrington + Ted Chiang plan, Karl Ove Knausgaard writes (Claude)
+
+M	gen3.py
+M	index.md
+M	picks/brian.md
+A	works/Erik-Lindqvist-The-Algorithm-of-Endings.md
+
+commit 53667615f0b654a5eefd957688e1971b78726497
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 14:24:44 2025 -0400
+
+    shorten titles
+
+M	index.md
+M	picks/avery.md
+M	picks/gina.md
+M	picks/kelley.md
+M	picks/linda.md
+M	picks/mercy.md
+M	picks/phyllis.md
+
+commit ae0d2cfb6f220e6cbc49bc32fb1016c1552a26a8
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 14:16:49 2025 -0400
+
+    update ratings
+
+M	gen3.py
+M	index.md
+M	picks/avery.md
+M	picks/brian.md
+M	picks/gina.md
+M	picks/kelley.md
+M	picks/linda.md
+M	picks/mercy.md
+M	picks/phyllis.md
+
+commit 88ce59deae98fb8583c6c1632979ad80a56c1396
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:56:45 2025 -0400
+
+    Lois Lowry + Kate Quinn plan, Sylvia Plath writes (ChatGPT)
+
+M	gen3.py
+M	index.md
+M	picks/avery.md
+A	works/Clara-Winslow-The-Echoes-of-Sunbreak.md
+
+commit 4924ab09d46d05efe37f1148e71d6b874b11903a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:51:03 2025 -0400
+
+    Jane Austen + Daphne du Maurier plan, Wilkie Collins writes (Claude)
+
+M	index.md
+M	picks/gina.md
+A	works/Edgar-Langley-The-Music-Box-of-Ravenshollow.md
+
+commit 38c82a5635b5a300975bcf75b66c0e06d48d863b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:41:28 2025 -0400
+
+    Judith McNaught + Colleen Hoover plan, Anita Shreve writes (ChatGPT)
+
+M	index.md
+M	picks/linda.md
+A	works/Laura-Mitchell-The-Whispering-Tree.md
+
+commit 0fc4b23ada650d3cf924caee07657b4f05604949
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:37:08 2025 -0400
+
+    Wilkie Collins + Jane Austen plan, Harper Lee writes (Claude)
+
+M	index.md
+M	picks/gina.md
+A	works/Julia-Trent-The-Moors-of-Memory.md
+
+commit 02a4d9b21159507a733146d405e547ce7f65137f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:26:47 2025 -0400
+
+    George R. R. Martin + Barry Hannah plan, James M. Cain writes (ChatGPT)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Robert-Kane-The-Silence-of-Vespara.md
+
+commit a768567df82007c81d32f910d2389d52fb3af8e5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:21:05 2025 -0400
+
+    Barry Hannah + James M. Cain plan, George R. R. Martin writes (Claude)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Thomas-Grey-The-Wire-Between.md
+
+commit 57cd84da36b2ceb51af2bda8a4f6b7d5ddf41c86
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:12:56 2025 -0400
+
+    Susan Collins + C.S. Lewis plan, David Wallace Wells writes (ChatGPT)
+
+M	index.md
+M	picks/mercy.md
+A	works/Mark-Stevens-Beginnings-are-Endings.md
+
+commit b18bdb4fb3b4bc9da1a6770f8d99ad36cc4993df
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:09:36 2025 -0400
+
+    Liane Moriarty + Judith McNaught plan, Diane Chamberlain writes (Claude)
+
+M	index.md
+M	picks/linda.md
+A	works/Susan-Fielding-The-Weight-of-Twenty-Years.md
+
+commit 68fa8f939e31142ed744d52f8bc9d11452365b43
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 13:02:30 2025 -0400
+
+    James M. Cain + Nick Bantock plan, Barry Hannah writes (ChatGPT)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Jake-Morrison-Schattenburg.md
+
+commit fbf2180b2ea7a61ae4bd1bfc8284397240d64c4e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:57:03 2025 -0400
+
+    Lois Lowry + Kate Quinn plan, E. Lockhart writes (Claude)
+
+M	index.md
+M	picks/avery.md
+A	works/Nora-Caldwell-The-Weight-of-Paper.md
+
+commit e02fb229e1e86b4793f617c99c2a64c26a98c270
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:48:20 2025 -0400
+
+    David Wallace Wells + Susan Collins plan, Madeline L'Engle writes (ChatGPT)
+
+M	index.md
+M	picks/mercy.md
+A	works/Sarah-Bennett-Torhaven's-Light.md
+
+commit 902b8742de3bffab8a9aadc7fbf382b4e2fcd69d
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:44:55 2025 -0400
+
+    Anne Carson + Ted Chiang plan, Karl Ove Knausgaard writes (Claude)
+
+M	index.md
+M	picks/brian.md
+A	works/Erik-Lindqvist-The-Filing-Cabinet.md
+
+commit a1703351c6f16525c7eef68ef74337e782ff4dda
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:38:30 2025 -0400
+
+    Ray Bradbury + David Wallace Wells plan, Susan Collins writes (ChatGPT)
+
+M	index.md
+M	picks/mercy.md
+A	works/Anne-Parker-Echoes-of-Peloria.md
+
+commit d5727799bd44d9738e574109de96580238f1facf
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:35:13 2025 -0400
+
+    Danzy Senna + Ann Patchett plan, Emily Habeck writes (Claude)
+
+M	index.md
+M	picks/kelley.md
+A	works/Claire-Donovan-The-Weight-of-Inheriting.md
+
+commit d3b75fee7ea07b71cb2114daeef25305ef9846b7
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:26:39 2025 -0400
+
+    Barry Hannah + Bernard Cornwell plan, Nick Bantock writes (ChatGPT)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Alex-Rivers-The-Churning-Waters.md
+
+commit 0e889418b521cb33f3e49a08d854b7125036f899
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:23:00 2025 -0400
+
+    Nick Bantock + George R. R. Martin plan, Barry Hannah writes (Claude)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Jake-Morrison-The-Cartographer's-Descent.md
+
+commit 274a5bf45b5854c234434fa6700715814801ff12
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:16:41 2025 -0400
+
+    Elizabeth Gilbert + Danzy Senna plan, Ann Patchett writes (ChatGPT)
+
+M	index.md
+M	picks/kelley.md
+A	works/Sarah-Coleman-Where-the-Sea-Meets-the-Story.md
+
+commit f782b91e58cf1f57c6213c520902943496acf35a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:10:12 2025 -0400
+
+    E. Lockhart + Sylvia Plath plan, Lois Lowry writes (Claude)
+
+M	index.md
+M	picks/avery.md
+A	works/Margaret-Ellison-The-Conservatory.md
+
+commit 57ba07ada943b6b5eb8c234648647f944b524814
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 12:02:15 2025 -0400
+
+    William Shakespeare + Jane Austen plan, Wilkie Collins writes (ChatGPT)
+
+M	index.md
+M	picks/gina.md
+A	works/Edgar-Langley-The-Shadow-of-Waterfield.md
+
+commit eb50563bf95cdcf9ae7002a51ab8112fbdfca116
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 11:56:08 2025 -0400
+
+    Emily Habeck + Kristin Hannah plan, Danzy Senna writes (Claude)
+
+M	index.md
+M	picks/kelley.md
+A	works/Maya-Cortez-The-Cordelia-Papers.md
+
+commit ac9ae7b18518d8dcb375fef883e95f1079705b28
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 11:47:34 2025 -0400
+
+    Han Kang + Kate Quinn plan, Lois Lowry writes (ChatGPT)
+
+M	index.md
+M	picks/avery.md
+A	works/Margaret-Ellison-The-Artist's-Island.md
+
+commit 3a71a103050a7bfac332ae656fd85461ab3954e9
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 11:42:32 2025 -0400
+
+    Kristin Hannah + Emily Habeck plan, Elizabeth Gilbert writes (Claude)
+
+M	index.md
+M	picks/kelley.md
+A	works/Mara-Ellingsen-The-Weight-of-Rooms.md
+
+commit eb90954d8796f0a741d0db401b6798c17bd1ec49
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 11:35:27 2025 -0400
+
+    Ann Patchett + Emily Habeck plan, Danzy Senna writes (ChatGPT)
+
+M	index.md
+M	picks/kelley.md
+A	works/Maya-Cortez-The-Whispering-Lighthouse.md
+
+commit 12980ce7a84f475f8b7a2ab960ce8c537a8abe05
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 11:30:58 2025 -0400
+
+    Elizabeth Gilbert + Emily Habeck plan, Kristin Hannah writes (Claude)
+
+M	gen3.py
+M	index.md
+M	picks/kelley.md
+A	works/Rachel-Pierce-The-Weight-of-Paper.md
+
+commit d98c8bfc6b1d1e313bba88b7e71266a0f88537d8
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 10:52:17 2025 -0400
+
+    Jane Austen + William Shakespeare plan, Harper Lee writes (ChatGPT)
+
+M	index.md
+M	picks/gina.md
+A	works/Julia-Trent-Briarwind-Shadows.md
+
+commit 9158ed3d2a676e5222c50f69a8dacc93bcf68d55
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 10:47:53 2025 -0400
+
+    Ray Bradbury + C.S. Lewis plan, David Wallace Wells writes (Claude)
+
+M	gen3.py
+M	index.md
+M	picks/mercy.md
+A	works/Mark-Stevens-The-Winnowing.md
+
+commit 610deaaf100f441d95dd2b470f98e1dc6332a57f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 10:23:45 2025 -0400
+
+    Kristin Hannah + Emily Habeck plan, Ann Patchett writes (Claude)
+
+M	gen3.py
+M	index.md
+M	picks/kelley.md
+A	works/Sarah-Coleman-The-Summer-of-Wide-Sky.md
+
+commit e9b698f8a9a9423319fe976c2265b640eb1922a9
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 10:15:27 2025 -0400
+
+    fix spelling
+
+M	picks/linda.md
+
+commit 3709d6efc676adbb49d2ffa05e04d228531cfed2
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 10:14:26 2025 -0400
+
+    change gen3 to handle likes
+
+M	_config.yml
+R100	assets/phyliss.png	assets/phyllis.png
+M	gen3.py
+M	picks/phyllis.md
+
+commit 3dd4e4f5925130a41ab1cd362dcc347d68734d2e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 09:56:11 2025 -0400
+
+    adjust size
+
+M	assets/avery.png
+M	assets/gina.png
+M	assets/mercy.png
+
+commit c5eb6bad4194a70103ec4a02287d85dfe33756dc
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Thu Jul 31 09:55:13 2025 -0400
+
+    add avery linda gina mercy
+
+A	assets/avery.png
+A	assets/gina.png
+A	assets/linda.png
+A	assets/mercy.png
+M	gen3.py
+A	picks/avery.md
+A	picks/gina.md
+A	picks/linda.md
+A	picks/mercy.md
+
+commit 060fdf069e80aa643176b2b746f326df2185afa8
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 15:30:48 2025 -0400
+
+    ellipses to keep everything on one line on phones.
+
+M	index.md
+M	picks/brian.md
+M	picks/kelley.md
+
+commit 942b86366dc64033220d67b1e8fc073ecb6d55e6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 15:27:11 2025 -0400
+
+    ellipses to keep everything on one line on phones.
+
+M	index.md
+M	picks/brian.md
+M	picks/kelley.md
+
+commit 61e8a5c58f3fd2ccb377ce0d4da1138cd2de82ee
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 15:16:51 2025 -0400
+
+    just one heart, different colors
+
+M	index.md
+M	picks/brian.md
+M	picks/kelley.md
+M	picks/phyllis.md
+
+commit d8175e9630b2268cb76993be58e2e5b3249fcfd5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 15:13:36 2025 -0400
+
+    all absolute path to works directory
+
+M	index.md
+M	picks/brian.md
+
+commit cf0953b4da9a0998d336446b7450d5680d62818e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 15:08:54 2025 -0400
+
+    backtick lozenge hearts
+
+M	index.md
+M	picks/brian.md
+M	picks/kelley.md
+M	picks/phyllis.md
+
+commit c9e5151fc01b551d20b2831c78a681fff2901bda
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 15:04:14 2025 -0400
+
+    varying colored hearts
+
+M	index.md
+M	picks/brian.md
+M	picks/kelley.md
+M	picks/phyllis.md
+
+commit 9c22b53af4fdf8a34c87fde9983f795cd129667e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:53:40 2025 -0400
+
+    add seeded likes (static)
+
+M	index.md
+M	picks/brian.md
+M	picks/kelley.md
+M	picks/phyllis.md
+
+commit 878b3470fca5a2137ed0ec2b9d48cc236aa116a5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:37:17 2025 -0400
+
+    Elizabeth Gilbert + Ann Patchett plan, Danzy Senna writes (ChatGPT)
+
+M	index.md
+M	picks/kelley.md
+A	works/Maya-Cortez-Ardor-Bay.md
+
+commit 14816ef68c8012f9922c36e93fe6054a350507ce
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:33:03 2025 -0400
+
+    Leonora Carrington + Anne Carson plan, J. M. Coetzee writes (Claude)
+
+M	index.md
+M	picks/brian.md
+A	works/Michael-Hartley-The-Weight-of-Morning.md
+
+commit 3aeb0a748a8df924e46aa68b881f126b3dd278f1
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:26:55 2025 -0400
+
+    All writings
+
+M	index.md
+
+commit d0ef9ee7908b27a2e0613eb53d5e8fece689b73c
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:22:18 2025 -0400
+
+    Danzy Senna + Ann Patchett plan, Emily Habeck writes (ChatGPT)
+
+M	index.md
+M	picks/kelley.md
+A	works/Claire-Donovan-The-Essence-of-Willowbrook.md
+
+commit 28872b554d32c12bd089b954ed51259751d20f10
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:18:18 2025 -0400
+
+    J. M. Coetzee + Karl Ove Knausgaard plan, Leonora Carrington writes (Claude)
+
+M	gen3.py
+M	index.md
+M	picks/brian.md
+A	works/Helena-Cross-The-Weight-of-Translation.md
+
+commit 1e5fbfd3a570854d742d28f819dcefd8684f8430
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:12:27 2025 -0400
+
+    Emily Habeck + Danzy Senna plan, Ann Patchett writes (ChatGPT)
+
+M	index.md
+M	picks/kelley.md
+A	works/Sarah-Coleman-Westwind-Bay.md
+
+commit 6e8082f5ba87a84c205a80fa2a807b0c81220045
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:07:17 2025 -0400
+
+    George R. R. Martin + Barry Hannah plan, Bernard Cornwell writes (Claude)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Daniel-Wells-The-Mill-Letters.md
+
+commit 6feccb82a7a6a9fda02e1c355b6df755f43349d5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 14:00:51 2025 -0400
+
+    J. M. Coetzee + Leonora Carrington plan, Ted Chiang writes (ChatGPT)
+
+M	index.md
+M	picks/brian.md
+A	works/David-Chen-The-Tides-of-Silence.md
+
+commit 9c58b95a0a7c28543766dd43254d7200fd329c57
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:56:37 2025 -0400
+
+    Nick Bantock + George R. R. Martin plan, James M. Cain writes (Claude)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Robert-Kane-The-Foundry-District.md
+
+commit ee23a0a37d87fe3f4d17c27a14adfcdeedb517c3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:49:26 2025 -0400
+
+    James M. Cain + Bernard Cornwell plan, George R. R. Martin writes (ChatGPT)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Thomas-Grey-The-Tides-of-Hartcliffe.md
+
+commit 09b3f6b54b534059e81c26dfdec36a71989b3da7
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:45:41 2025 -0400
+
+    Elizabeth Gilbert + Danzy Senna plan, Kristin Hannah writes (Claude)
+
+M	index.md
+M	picks/kelley.md
+A	works/Rachel-Pierce-The-Weight-of-Water-Music.md
+
+commit e54a748089b22a3f6c24dc8bec9751f4e60a8c87
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:38:25 2025 -0400
+
+    Ted Chiang + Anne Carson plan, J. M. Coetzee writes (ChatGPT)
+
+M	index.md
+M	picks/brian.md
+A	works/Michael-Hartley-The-Whispering-Garden.md
+
+commit 5bd991d03f0b4b4187336b67c61d682e4ea9fc53
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:35:31 2025 -0400
+
+    improvements ;-)
+
+M	gen3.py
+M	index.md
+
+commit b52a6a863288a290105356b4acc477fa730bade9
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:34:17 2025 -0400
+
+    Ann Patchett + Emily Habeck plan, Danzy Senna writes (Claude)
+
+M	index.md
+M	picks/kelley.md
+A	works/Maya-Cortez-The-Keeper's-Inheritance.md
+
+commit 62727fee4b7f9e55ab5e623040bc4b9d9ccdc083
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:24:36 2025 -0400
+
+    Anne Carson + J. M. Coetzee plan, Leonora Carrington writes (ChatGPT)
+
+M	index.md
+M	picks/brian.md
+A	works/Helena-Cross-Larkspur's-Awakening.md
+
+commit a1b4c4d7ec7120cfe9e35322485e36772004fd4a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:19:36 2025 -0400
+
+    Leonora Carrington + J. M. Coetzee plan, Ted Chiang writes (Claude)
+
+M	gen3.py
+M	index.md
+M	picks/brian.md
+A	works/David-Chen-What-Remains,-What-Returns.md
+
+commit 5a3904af7226d1f9b4da4871694e5630774fbf37
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 13:05:18 2025 -0400
+
+    improvements ;-)
+
+M	_config.yml
+M	index.md
+
+commit 5ebfa3af2615e00cbf088b0716b22f63249cef65
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 12:56:46 2025 -0400
+
+    Danzy Senna + Emily Habeck plan, Kristin Hannah writes (ChatGPT)
+
+M	index.md
+M	picks/kelley.md
+A	works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.md
+
+commit 1755488d6f728ce0885633ebf13868a12848508c
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 12:52:21 2025 -0400
+
+    James M. Cain + Barry Hannah plan, Bernard Cornwell writes (Claude)
+
+M	index.md
+M	picks/phyllis.md
+A	works/Daniel-Wells-The-Herrera-Letters.md
+
+commit de568e16900e4114381927900a4cf7943dc59e48
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 12:49:38 2025 -0400
+
+    improvements ;-)
+
+M	gen3.py
+M	picks/brian.md
+M	picks/kelley.md
+
+commit 314cd0093bf637dc94c88135f7e1cc6a1eba62e8
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 12:33:17 2025 -0400
+
+    Leonora Carrington + Ted Chiang plan, Karl Ove Knausgaard writes (ChatGPT)
+
+M	index.md
+M	picks/brian.md
+A	works/Erik-Lindqvist-The-Weight-of-Stones.md
+
+commit f17a896bea5199ffc73e10116a8325a6f3ff13e7
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 12:30:13 2025 -0400
+
+    Leonora Carrington + Karl Ove Knausgaard plan, Anne Carson writes (Claude)
+
+M	gen.py
+A	gen3.py
+M	index.md
+M	picks/brian.md
+A	works/Daniel-Wells-The-Water-That-Left-Us.md
+A	works/Ruth-Sterling-The-Institutional-Nights.md
+
+commit e0c3a2c2f551cfd5959d3d50f0b637ef20caaf28
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 11:43:48 2025 -0400
+
+    improvements ;-)
+
+M	_config.yml
+
+commit f2e32cfbe012d23bd6d8a0f0cd6271d5815959af
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 11:40:23 2025 -0400
+
+    improvements ;-)
+
+A	assets/brian.png
+A	assets/phyliss.png
+A	picks/brian.md
+A	picks/phyllis.md
+
+commit f75587ced6893c05bd4c146aa1c7aa107d84962e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 11:30:36 2025 -0400
+
+    improvements ;-)
+
+M	gen2.py
+M	index.md
+M	picks/kelley.md
+R100	works/A-Deacon-The-Geometry-of-Strangers.md	works/attic/A-Deacon-The-Geometry-of-Strangers.md
+R100	works/A-Lumina-The-Threads-of-Time-and-Spores.md	works/attic/A-Lumina-The-Threads-of-Time-and-Spores.md
+R100	works/AE-Velo-The-Siege-of-Futures.md	works/attic/AE-Velo-The-Siege-of-Futures.md
+R100	works/AP-Erymdor-Echoes-in-the-Dust-of-Thought.md	works/attic/AP-Erymdor-Echoes-in-the-Dust-of-Thought.md
+R100	works/AP-Mercier-The-Shadows-Horizon.md	works/attic/AP-Mercier-The-Shadows-Horizon.md
+R100	works/Adelaide-Verrine-The-Layered-Self.md	works/attic/Adelaide-Verrine-The-Layered-Self.md
+R100	works/Adrienne-Kohl-The-Architecture-of-Encounter.md	works/attic/Adrienne-Kohl-The-Architecture-of-Encounter.md
+R100	works/Aldwin-G-Clairvoyant-The-Intersection-of-Silence-and-Gesture.md	works/attic/Aldwin-G-Clairvoyant-The-Intersection-of-Silence-and-Gesture.md
+R100	works/Alexei-Thorne-The-Insurrection-of-Dead-Time.md	works/attic/Alexei-Thorne-The-Insurrection-of-Dead-Time.md
+R100	works/Alexis-Meridian-The-Affective-Infrastructure.md	works/attic/Alexis-Meridian-The-Affective-Infrastructure.md
+R100	works/Alexis-Meridian-The-Hormone-of-Civilization.md	works/attic/Alexis-Meridian-The-Hormone-of-Civilization.md
+R100	works/Alfred-Harmon-The-Aquatic-House.md	works/attic/Alfred-Harmon-The-Aquatic-House.md
+R100	works/Alia-Zarei-The-Erosion-of-Boundaries.md	works/attic/Alia-Zarei-The-Erosion-of-Boundaries.md
+R100	works/Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels.md	works/attic/Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels.md
+R100	works/Alma-Rios-Cartography-of-the-Displaced.md	works/attic/Alma-Rios-Cartography-of-the-Displaced.md
+R100	works/Althea-Novalis-The-Veil-Between-Worlds.md	works/attic/Althea-Novalis-The-Veil-Between-Worlds.md
+R100	works/Amara-Okafor-The-Museum-of-Living-Memory.md	works/attic/Amara-Okafor-The-Museum-of-Living-Memory.md
+R100	works/Amara-Sundari-The-Geography-of-Becoming.md	works/attic/Amara-Sundari-The-Geography-of-Becoming.md
+R100	works/Amari-Greysong-The-Choir-of-Solitude.md	works/attic/Amari-Greysong-The-Choir-of-Solitude.md
+R100	works/Amaro-Incio-The-Submerged-Continuum.md	works/attic/Amaro-Incio-The-Submerged-Continuum.md
+R100	works/Amias-Lumin-The-Web-of-Emergence.md	works/attic/Amias-Lumin-The-Web-of-Emergence.md
+R100	works/Anselm-Varion-The-Gravitational-Pull-of-Longing.md	works/attic/Anselm-Varion-The-Gravitational-Pull-of-Longing.md
+R100	works/Anura-Deva-The-Nexus-of-Being-and-Absence.md	works/attic/Anura-Deva-The-Nexus-of-Being-and-Absence.md
+R100	works/Arden-Vexer-Entropies-of-Exchange.md	works/attic/Arden-Vexer-Entropies-of-Exchange.md
+R100	works/Aria-Ellsworth-Echoes-of-the-Ancient-Abyss.md	works/attic/Aria-Ellsworth-Echoes-of-the-Ancient-Abyss.md
+R100	works/Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh.md	works/attic/Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh.md
+R100	works/Astra-Evander-Shattered-Elegies.md	works/attic/Astra-Evander-Shattered-Elegies.md
+R100	works/Aurelia-Blackwood-The-Weight-of-Seeing.md	works/attic/Aurelia-Blackwood-The-Weight-of-Seeing.md
+R100	works/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md	works/attic/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md
+R100	works/Aurora-Mrquez-The-Unseen-Mirage.md	works/attic/Aurora-Mrquez-The-Unseen-Mirage.md
+R100	works/Baziel-Ames-The-Luminal-Street.md	works/attic/Baziel-Ames-The-Luminal-Street.md
+R100	works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md	works/attic/Cassandra-Windham-The-Violence-of-Empty-Horizons.md
+R100	works/Columba-Lark-Resonances-of-Existence.md	works/attic/Columba-Lark-Resonances-of-Existence.md
+R100	works/Cyrus-Thorne-The-Abandonment-Economy.md	works/attic/Cyrus-Thorne-The-Abandonment-Economy.md
+R100	works/DS-Rousseau-The-Fabric-of-Silence.md	works/attic/DS-Rousseau-The-Fabric-of-Silence.md
+R100	works/Daniel-Leith-The-Shattered-Veil.md	works/attic/Daniel-Leith-The-Shattered-Veil.md
+R100	works/Derek-Thorpe-The-Unknown-Divide.md	works/attic/Derek-Thorpe-The-Unknown-Divide.md
+R100	works/E-Neotia-The-Echoing-Labyrinth.md	works/attic/E-Neotia-The-Echoing-Labyrinth.md
+R100	works/EF-Penrose-The-Minds-Without-Borders.md	works/attic/EF-Penrose-The-Minds-Without-Borders.md
+R100	works/Edith-Varga-The-Halting-Dance-of-Mirages.md	works/attic/Edith-Varga-The-Halting-Dance-of-Mirages.md
+R100	works/Elara-Thalassia-Divided-Continuum.md	works/attic/Elara-Thalassia-Divided-Continuum.md
+R100	works/Elara-Vespera-The-Intangible-Echoes.md	works/attic/Elara-Vespera-The-Intangible-Echoes.md
+R100	works/Eleanor-Bergstrm-A-Fragile-Embrace.md	works/attic/Eleanor-Bergstrm-A-Fragile-Embrace.md
+R100	works/Elias-Quay-The-Arid-Dawn.md	works/attic/Elias-Quay-The-Arid-Dawn.md
+R100	works/Elyse-Andora-The-Symphony-of-Identity.md	works/attic/Elyse-Andora-The-Symphony-of-Identity.md
+R100	works/Elysian-Tressor-The-Loop-of-Tomorrow-A-Conscious-Future.md	works/attic/Elysian-Tressor-The-Loop-of-Tomorrow-A-Conscious-Future.md
+R100	works/Ephemera-Corvax-The-Echoed-Splinter.md	works/attic/Ephemera-Corvax-The-Echoed-Splinter.md
+R100	works/Evander-Praxis-The-Labyrinth-of-Illusive-Desires.md	works/attic/Evander-Praxis-The-Labyrinth-of-Illusive-Desires.md
+R100	works/Harold-Wainwright-The-Echoes-of-Ephemeral-Horizons.md	works/attic/Harold-Wainwright-The-Echoes-of-Ephemeral-Horizons.md
+R100	works/Haruki-Nakagawa-The-Translators-Daughter.md	works/attic/Haruki-Nakagawa-The-Translators-Daughter.md
+R100	works/Ilya-Varina-Echoes-of-Silent-Seasons.md	works/attic/Ilya-Varina-Echoes-of-Silent-Seasons.md
+R100	works/Imogen-Aldridge-Between-Minds-The-Self-as-Other.md	works/attic/Imogen-Aldridge-Between-Minds-The-Self-as-Other.md
+R100	works/Iram-Ishtiaq-Threads-of-Dust-and-Light.md	works/attic/Iram-Ishtiaq-Threads-of-Dust-and-Light.md
+R100	works/Iris-Eland-Rooted-Anarchy-Threads-of-Mycelium-and-Freedom.md	works/attic/Iris-Eland-Rooted-Anarchy-Threads-of-Mycelium-and-Freedom.md
+R100	works/JD-Whittaker-The-Interstice-of-Selves.md	works/attic/JD-Whittaker-The-Interstice-of-Selves.md
+R100	works/Jasper-E-Fallon-The-Harmony-of-Evocative-Disarray.md	works/attic/Jasper-E-Fallon-The-Harmony-of-Evocative-Disarray.md
+R100	works/Jasper-Orion-The-Prismatic-Displacement.md	works/attic/Jasper-Orion-The-Prismatic-Displacement.md
+R100	works/Jules-Bernard-The-Unyielding-Tapestry-Civilization-in-the-Unraveling-World.md	works/attic/Jules-Bernard-The-Unyielding-Tapestry-Civilization-in-the-Unraveling-World.md
+R100	works/KE-Acker-Embodied-Horizons-Unraveling-the-Enmeshed-Real.md	works/attic/KE-Acker-Embodied-Horizons-Unraveling-the-Enmeshed-Real.md
+R100	works/KM-Verlaine-The-Weight-of-Copper-Wire.md	works/attic/KM-Verlaine-The-Weight-of-Copper-Wire.md
+R100	works/Kamilah-Okonkwo-The-Commons-We-Build.md	works/attic/Kamilah-Okonkwo-The-Commons-We-Build.md
+R100	works/Kazuo-Hiraide-The-Machinery-of-Unnoticed-Days.md	works/attic/Kazuo-Hiraide-The-Machinery-of-Unnoticed-Days.md
+R100	works/Kieran-Holloway-The-Vanishing-Horizon.md	works/attic/Kieran-Holloway-The-Vanishing-Horizon.md
+R100	works/Kilua-Bani-The-Shadow-of-Reason.md	works/attic/Kilua-Bani-The-Shadow-of-Reason.md
+R100	works/Kira-Stoneweaver-The-Dancing-Patterns.md	works/attic/Kira-Stoneweaver-The-Dancing-Patterns.md
+R100	works/Kwame-Garrison-The-Auction-of-Tomorrow.md	works/attic/Kwame-Garrison-The-Auction-of-Tomorrow.md
+R100	works/LC-Aetherion-Veils-of-the-Infinite-The-Sensate-Selves.md	works/attic/LC-Aetherion-Veils-of-the-Infinite-The-Sensate-Selves.md
+R100	works/Lamia-Everhart-In-the-Embrace-of-Horizons.md	works/attic/Lamia-Everhart-In-the-Embrace-of-Horizons.md
+R100	works/Larkin-Ventnor-Where-Life-Meets-the-Riversweep.md	works/attic/Larkin-Ventnor-Where-Life-Meets-the-Riversweep.md
+R100	works/Leila-Ardan-Shadows-in-the-Periphery.md	works/attic/Leila-Ardan-Shadows-in-the-Periphery.md
+R100	works/Lias-Toren-The-Quantum-Ruin.md	works/attic/Lias-Toren-The-Quantum-Ruin.md
+R100	works/Lysander-Revenant-The-Constellation's-Ruin.md	works/attic/Lysander-Revenant-The-Constellation's-Ruin.md
+R100	works/MK-Threnody-The-Flesh-Archive.md	works/attic/MK-Threnody-The-Flesh-Archive.md
+R100	works/Maeve-Silversworn-The-Tapestry-of-Returning.md	works/attic/Maeve-Silversworn-The-Tapestry-of-Returning.md
+R100	works/Malachai-Voss-The-Abyss-of-Knowing.md	works/attic/Malachai-Voss-The-Abyss-of-Knowing.md
+R100	works/Malachite-Zero-The-Default-Network.md	works/attic/Malachite-Zero-The-Default-Network.md
+R100	works/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md	works/attic/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md
+R100	works/Mara-Ellingsen-The-Weight-of-Water.md	works/attic/Mara-Ellingsen-The-Weight-of-Water.md
+R100	works/Marcus-Thornfeld-The-Phantom-at-the-Window.md	works/attic/Marcus-Thornfeld-The-Phantom-at-the-Window.md
+R100	works/Marcus-Thornfield-The-Divided-Animal.md	works/attic/Marcus-Thornfield-The-Divided-Animal.md
+R100	works/Marina-Castellar-The-Dissolution-of-Paradise.md	works/attic/Marina-Castellar-The-Dissolution-of-Paradise.md
+R100	works/Marina-Kondo-The-Maintenance-of-Living.md	works/attic/Marina-Kondo-The-Maintenance-of-Living.md
+R100	works/Marvela-Thornwick-The-Viscous-Cathedral.md	works/attic/Marvela-Thornwick-The-Viscous-Cathedral.md
+R100	works/Matthias-Rosenkranz-The-Threshold-of-the-Possible.md	works/attic/Matthias-Rosenkranz-The-Threshold-of-the-Possible.md
+R100	works/Maximilian-Hawthorne-Within-Eternitys-Erosion.md	works/attic/Maximilian-Hawthorne-Within-Eternitys-Erosion.md
+R100	works/Melora-Graves-The-Weight-of-Nothing.md	works/attic/Melora-Graves-The-Weight-of-Nothing.md
+R100	works/Miriam-Fields-Refractions-of-the-Impossible-Horizon.md	works/attic/Miriam-Fields-Refractions-of-the-Impossible-Horizon.md
+R100	works/Miriam-Fields-The-Illusion-of-Seeing-Clearly.md	works/attic/Miriam-Fields-The-Illusion-of-Seeing-Clearly.md
+R100	works/Miriam-Fields-The-Specter-of-Intangible-Labor-A-Haunting-Synthesis.md	works/attic/Miriam-Fields-The-Specter-of-Intangible-Labor-A-Haunting-Synthesis.md
+R100	works/Miriam-Fields-The-Vanishing-Act-of-October-Souls.md	works/attic/Miriam-Fields-The-Vanishing-Act-of-October-Souls.md
+R100	works/Morgan-Tidewater-The-Breathing-Commons.md	works/attic/Morgan-Tidewater-The-Breathing-Commons.md
+R100	works/Mtys-Vilghy-The-Architecture-of-Waiting.md	works/attic/Mtys-Vilghy-The-Architecture-of-Waiting.md
+R100	works/NI-Dactyl-Patterns-in-the-Chaos.md	works/attic/NI-Dactyl-Patterns-in-the-Chaos.md
+R100	works/Nadia-Ahnlin-The-Fracture-of-Embodied-Divisions.md	works/attic/Nadia-Ahnlin-The-Fracture-of-Embodied-Divisions.md
+R100	works/Nevan-Everdale-Threads-of-Twilight.md	works/attic/Nevan-Everdale-Threads-of-Twilight.md
+R100	works/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md	works/attic/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md
+R100	works/Nishant-Verma-The-Chiaroscuro-of-Echoes.md	works/attic/Nishant-Verma-The-Chiaroscuro-of-Echoes.md
+R100	works/Octavio-Verdosa-Tattered-Infinities.md	works/attic/Octavio-Verdosa-Tattered-Infinities.md
+R100	works/Oskar-Voss-The-Resonant-Chaos.md	works/attic/Oskar-Voss-The-Resonant-Chaos.md
+R100	works/RI-Asha-The-Veil-of-Consciousness-and-the-Tapestry-of-Lives.md	works/attic/RI-Asha-The-Veil-of-Consciousness-and-the-Tapestry-of-Lives.md
+R100	works/RK-Terminus-The-Electric-Meat.md	works/attic/RK-Terminus-The-Electric-Meat.md
+R100	works/RM-Bolivsen-The-Shadows-of-Memory.md	works/attic/RM-Bolivsen-The-Shadows-of-Memory.md
+R100	works/RU-Duvall-The-Inescapable-Reflection.md	works/attic/RU-Duvall-The-Inescapable-Reflection.md
+R100	works/Ravi-Sundaram-The-Liminal-Forest.md	works/attic/Ravi-Sundaram-The-Liminal-Forest.md
+R100	works/Ruth-B-Vercors-The-Weight-of-Absence.md	works/attic/Ruth-B-Vercors-The-Weight-of-Absence.md
+R100	works/Seyla-Ineiwera-The-Whispering-Spectrum.md	works/attic/Seyla-Ineiwera-The-Whispering-Spectrum.md
+R100	works/Sienna-Calder-Edge-of-Kinship-A-Tangled-Weave.md	works/attic/Sienna-Calder-Edge-of-Kinship-A-Tangled-Weave.md
+R100	works/Simone-Marquez-The-Velocity-of-Tenderness.md	works/attic/Simone-Marquez-The-Velocity-of-Tenderness.md
+R100	works/Solange-Mercier-The-Shape-of-What-Breaks.md	works/attic/Solange-Mercier-The-Shape-of-What-Breaks.md
+R100	works/Solaria-Vignettes-The-Infinite-Survey-of-Singularities.md	works/attic/Solaria-Vignettes-The-Infinite-Survey-of-Singularities.md
+R100	works/Soren-Harkness-From-the-Entangled-Chorus.md	works/attic/Soren-Harkness-From-the-Entangled-Chorus.md
+R100	works/Soren-Whitfield-The-Quantum-Plains:-Conversations-on-Tangible-Intangibilities.md	works/attic/Soren-Whitfield-The-Quantum-Plains:-Conversations-on-Tangible-Intangibilities.md
+R100	works/T.S.-Hargrove-Unraveling-the-Empires-of-Mind.md	works/attic/T.S.-Hargrove-Unraveling-the-Empires-of-Mind.md
+R100	works/Tarsu-Alagbala-The-Looming-Clay.md	works/attic/Tarsu-Alagbala-The-Looming-Clay.md
+R100	works/Thandiwe-Okonkwo-The-Hunger-Circle.md	works/attic/Thandiwe-Okonkwo-The-Hunger-Circle.md
+R100	works/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md	works/attic/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md
+R100	works/Theren-Sylvas-Echoes-of-the-Inward-Landscape.md	works/attic/Theren-Sylvas-Echoes-of-the-Inward-Landscape.md
+R100	works/Uba-Dutil-The-Fractured-Haven.md	works/attic/Uba-Dutil-The-Fractured-Haven.md
+R100	works/VB-Ortega-The-Intersecting-Bewilderment-of-Being.md	works/attic/VB-Ortega-The-Intersecting-Bewilderment-of-Being.md
+R100	works/Veleda-Marthorn-The-Valley-Between-Shadows-and-Light.md	works/attic/Veleda-Marthorn-The-Valley-Between-Shadows-and-Light.md
+R100	works/Vera-Montaine-The-Architecture-of-Dissolution.md	works/attic/Vera-Montaine-The-Architecture-of-Dissolution.md
+R100	works/Xun-Fang-The-Quantum-Mindscape.md	works/attic/Xun-Fang-The-Quantum-Mindscape.md
+R100	works/Zahir-A-Silman-The-Horizon-Beyond-Belief.md	works/attic/Zahir-A-Silman-The-Horizon-Beyond-Belief.md
+
+commit ef0dd1e96ae1081e61100e4cae311fe92d5a18d3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 11:11:43 2025 -0400
+
+    improvements ;-)
+
+M	index.md
+M	picks/kelley.md
+M	works/A-Deacon-The-Geometry-of-Strangers.md
+M	works/A-Lumina-The-Threads-of-Time-and-Spores.md
+M	works/AE-Velo-The-Siege-of-Futures.md
+M	works/AP-Erymdor-Echoes-in-the-Dust-of-Thought.md
+M	works/AP-Mercier-The-Shadows-Horizon.md
+M	works/Adelaide-Verrine-The-Layered-Self.md
+M	works/Adrienne-Kohl-The-Architecture-of-Encounter.md
+M	works/Aldwin-G-Clairvoyant-The-Intersection-of-Silence-and-Gesture.md
+M	works/Alexei-Thorne-The-Insurrection-of-Dead-Time.md
+M	works/Alexis-Meridian-The-Affective-Infrastructure.md
+M	works/Alexis-Meridian-The-Hormone-of-Civilization.md
+M	works/Alfred-Harmon-The-Aquatic-House.md
+M	works/Alia-Zarei-The-Erosion-of-Boundaries.md
+M	works/Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels.md
+M	works/Alma-Rios-Cartography-of-the-Displaced.md
+M	works/Althea-Novalis-The-Veil-Between-Worlds.md
+M	works/Amara-Okafor-The-Museum-of-Living-Memory.md
+M	works/Amara-Sundari-The-Geography-of-Becoming.md
+M	works/Amari-Greysong-The-Choir-of-Solitude.md
+M	works/Amaro-Incio-The-Submerged-Continuum.md
+M	works/Amias-Lumin-The-Web-of-Emergence.md
+M	works/Anselm-Varion-The-Gravitational-Pull-of-Longing.md
+M	works/Anura-Deva-The-Nexus-of-Being-and-Absence.md
+M	works/Arden-Vexer-Entropies-of-Exchange.md
+M	works/Aria-Ellsworth-Echoes-of-the-Ancient-Abyss.md
+M	works/Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh.md
+M	works/Astra-Evander-Shattered-Elegies.md
+M	works/Aurelia-Blackwood-The-Weight-of-Seeing.md
+M	works/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md
+M	works/Aurora-Mrquez-The-Unseen-Mirage.md
+M	works/Baziel-Ames-The-Luminal-Street.md
+M	works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md
+M	works/Columba-Lark-Resonances-of-Existence.md
+M	works/Cyrus-Thorne-The-Abandonment-Economy.md
+M	works/DS-Rousseau-The-Fabric-of-Silence.md
+M	works/Daniel-Leith-The-Shattered-Veil.md
+M	works/Derek-Thorpe-The-Unknown-Divide.md
+M	works/E-Neotia-The-Echoing-Labyrinth.md
+M	works/EF-Penrose-The-Minds-Without-Borders.md
+M	works/Edith-Varga-The-Halting-Dance-of-Mirages.md
+M	works/Elara-Thalassia-Divided-Continuum.md
+M	works/Elara-Vespera-The-Intangible-Echoes.md
+M	works/Eleanor-Bergstrm-A-Fragile-Embrace.md
+M	works/Elias-Quay-The-Arid-Dawn.md
+M	works/Elyse-Andora-The-Symphony-of-Identity.md
+M	works/Elysian-Tressor-The-Loop-of-Tomorrow-A-Conscious-Future.md
+M	works/Ephemera-Corvax-The-Echoed-Splinter.md
+M	works/Evander-Praxis-The-Labyrinth-of-Illusive-Desires.md
+M	works/Harold-Wainwright-The-Echoes-of-Ephemeral-Horizons.md
+M	works/Haruki-Nakagawa-The-Translators-Daughter.md
+M	works/Ilya-Varina-Echoes-of-Silent-Seasons.md
+M	works/Imogen-Aldridge-Between-Minds-The-Self-as-Other.md
+M	works/Iram-Ishtiaq-Threads-of-Dust-and-Light.md
+M	works/Iris-Eland-Rooted-Anarchy-Threads-of-Mycelium-and-Freedom.md
+M	works/JD-Whittaker-The-Interstice-of-Selves.md
+M	works/Jasper-E-Fallon-The-Harmony-of-Evocative-Disarray.md
+M	works/Jasper-Orion-The-Prismatic-Displacement.md
+M	works/Jules-Bernard-The-Unyielding-Tapestry-Civilization-in-the-Unraveling-World.md
+M	works/KE-Acker-Embodied-Horizons-Unraveling-the-Enmeshed-Real.md
+M	works/KM-Verlaine-The-Weight-of-Copper-Wire.md
+M	works/Kamilah-Okonkwo-The-Commons-We-Build.md
+M	works/Kazuo-Hiraide-The-Machinery-of-Unnoticed-Days.md
+M	works/Kieran-Holloway-The-Vanishing-Horizon.md
+M	works/Kilua-Bani-The-Shadow-of-Reason.md
+M	works/Kira-Stoneweaver-The-Dancing-Patterns.md
+M	works/Kwame-Garrison-The-Auction-of-Tomorrow.md
+M	works/LC-Aetherion-Veils-of-the-Infinite-The-Sensate-Selves.md
+M	works/Lamia-Everhart-In-the-Embrace-of-Horizons.md
+M	works/Larkin-Ventnor-Where-Life-Meets-the-Riversweep.md
+M	works/Leila-Ardan-Shadows-in-the-Periphery.md
+M	works/Lias-Toren-The-Quantum-Ruin.md
+M	works/Lysander-Revenant-The-Constellation's-Ruin.md
+M	works/MK-Threnody-The-Flesh-Archive.md
+M	works/Maeve-Silversworn-The-Tapestry-of-Returning.md
+M	works/Malachai-Voss-The-Abyss-of-Knowing.md
+M	works/Malachite-Zero-The-Default-Network.md
+M	works/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md
+M	works/Mara-Ellingsen-The-Weight-of-Water.md
+M	works/Marcus-Thornfeld-The-Phantom-at-the-Window.md
+M	works/Marcus-Thornfield-The-Divided-Animal.md
+M	works/Marina-Castellar-The-Dissolution-of-Paradise.md
+M	works/Marina-Kondo-The-Maintenance-of-Living.md
+M	works/Marvela-Thornwick-The-Viscous-Cathedral.md
+M	works/Matthias-Rosenkranz-The-Threshold-of-the-Possible.md
+M	works/Maximilian-Hawthorne-Within-Eternitys-Erosion.md
+M	works/Melora-Graves-The-Weight-of-Nothing.md
+M	works/Miriam-Fields-Refractions-of-the-Impossible-Horizon.md
+M	works/Miriam-Fields-The-Illusion-of-Seeing-Clearly.md
+M	works/Miriam-Fields-The-Specter-of-Intangible-Labor-A-Haunting-Synthesis.md
+M	works/Miriam-Fields-The-Vanishing-Act-of-October-Souls.md
+M	works/Morgan-Tidewater-The-Breathing-Commons.md
+M	works/Mtys-Vilghy-The-Architecture-of-Waiting.md
+M	works/NI-Dactyl-Patterns-in-the-Chaos.md
+M	works/Nadia-Ahnlin-The-Fracture-of-Embodied-Divisions.md
+M	works/Nevan-Everdale-Threads-of-Twilight.md
+M	works/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md
+M	works/Nishant-Verma-The-Chiaroscuro-of-Echoes.md
+M	works/Octavio-Verdosa-Tattered-Infinities.md
+M	works/Oskar-Voss-The-Resonant-Chaos.md
+M	works/RI-Asha-The-Veil-of-Consciousness-and-the-Tapestry-of-Lives.md
+M	works/RK-Terminus-The-Electric-Meat.md
+M	works/RM-Bolivsen-The-Shadows-of-Memory.md
+M	works/RU-Duvall-The-Inescapable-Reflection.md
+M	works/Ravi-Sundaram-The-Liminal-Forest.md
+M	works/Ruth-B-Vercors-The-Weight-of-Absence.md
+M	works/Sarah-Coleman-Harrows-Bend.md
+M	works/Seyla-Ineiwera-The-Whispering-Spectrum.md
+M	works/Sienna-Calder-Edge-of-Kinship-A-Tangled-Weave.md
+M	works/Simone-Marquez-The-Velocity-of-Tenderness.md
+M	works/Solange-Mercier-The-Shape-of-What-Breaks.md
+M	works/Solaria-Vignettes-The-Infinite-Survey-of-Singularities.md
+M	works/Soren-Harkness-From-the-Entangled-Chorus.md
+M	works/Soren-Whitfield-The-Quantum-Plains:-Conversations-on-Tangible-Intangibilities.md
+M	works/T.S.-Hargrove-Unraveling-the-Empires-of-Mind.md
+M	works/Tarsu-Alagbala-The-Looming-Clay.md
+M	works/Thandiwe-Okonkwo-The-Hunger-Circle.md
+M	works/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md
+M	works/Theren-Sylvas-Echoes-of-the-Inward-Landscape.md
+M	works/Uba-Dutil-The-Fractured-Haven.md
+M	works/VB-Ortega-The-Intersecting-Bewilderment-of-Being.md
+M	works/Veleda-Marthorn-The-Valley-Between-Shadows-and-Light.md
+M	works/Vera-Montaine-The-Architecture-of-Dissolution.md
+M	works/Xun-Fang-The-Quantum-Mindscape.md
+M	works/Zahir-A-Silman-The-Horizon-Beyond-Belief.md
+
+commit c234be286fb9426cf778c865e7ef041cea2a46a2
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 10:58:28 2025 -0400
+
+    improvements ;-)
+
+M	picks/kelley.md
+A	works/Sarah-Coleman-Harrows-Bend.md
+
+commit 52ae24c8a47c9387f544c4fc4b3051064873b182
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 10:52:28 2025 -0400
+
+    improvements ;-)
+
+M	assets/kelley.png
+
+commit b64e332035dbbb2aae7413a72d2964cdbe0d8df6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 10:48:05 2025 -0400
+
+    improvements ;-)
+
+M	gen2.py
+M	picks/kelley.md
+
+commit eb286b9fc5d90c2effcd2aa1e06720b674934ca7
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 10:39:16 2025 -0400
+
+    improvements ;-)
+
+M	_config.yml
+A	assets/kelley.png
+A	picks/kelley.md
+
+commit b2d3165809d10dfb70a7b92b20044c212dcb3d58
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Tue Jul 29 10:04:02 2025 -0400
+
+    improvements ;-)
+
+A	gen2.py
+
+commit 8c114d1971e1aa1f813691bb9cf9d9a17b232436
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 22:33:05 2025 -0400
+
+    improvements ;-)
+
+M	works/Mara-Ellingsen-The-Weight-of-Water.md
+
+commit 392c227a64482257a02d3ad456551ec3cc703710
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 22:10:09 2025 -0400
+
+    improvements ;-)
+
+M	works/AE-Velo-The-Siege-of-Futures.md
+M	works/Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels.md
+M	works/Anselm-Varion-The-Gravitational-Pull-of-Longing.md
+M	works/Arden-Vexer-Entropies-of-Exchange.md
+M	works/EF-Penrose-The-Minds-Without-Borders.md
+M	works/KE-Acker-Embodied-Horizons-Unraveling-the-Enmeshed-Real.md
+M	works/LC-Aetherion-Veils-of-the-Infinite-The-Sensate-Selves.md
+M	works/Mara-Ellingsen-The-Weight-of-Water.md
+M	works/Miriam-Fields-Refractions-of-the-Impossible-Horizon.md
+M	works/Miriam-Fields-The-Illusion-of-Seeing-Clearly.md
+M	works/Miriam-Fields-The-Specter-of-Intangible-Labor-A-Haunting-Synthesis.md
+M	works/Miriam-Fields-The-Vanishing-Act-of-October-Souls.md
+M	works/NI-Dactyl-Patterns-in-the-Chaos.md
+M	works/Nevan-Everdale-Threads-of-Twilight.md
+M	works/Oskar-Voss-The-Resonant-Chaos.md
+M	works/Solaria-Vignettes-The-Infinite-Survey-of-Singularities.md
+M	works/VB-Ortega-The-Intersecting-Bewilderment-of-Being.md
+
+commit c884628631b80e9835b10b3450b07305f12dac16
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 22:02:40 2025 -0400
+
+    improvements ;-)
+
+M	works/Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh.md
+
+commit 65fc695de3d6eca34992c0b7f63c71fe4b8789f3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 22:00:28 2025 -0400
+
+    improvements ;-)
+
+M	_config.yml
+
+commit d41bf470c0482d3bf6aee4be7a37ac083df5f1af
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 21:56:52 2025 -0400
+
+    improvements ;-)
+
+M	_config.yml
+M	index.md
+
+commit eba161809af6dac77ecf5956f249a283cbba3e6a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 21:53:22 2025 -0400
+
+    improvements ;-)
+
+M	_config.yml
+M	index.md
+
+commit 511dc80cf7219608b943ac754925c8433257d447
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 21:50:30 2025 -0400
+
+    improvements ;-)
+
+M	index.md
+
+commit 2f1e259fdf2d0f11e27103f4e3107b32f73778ec
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 21:48:36 2025 -0400
+
+    improvements ;-)
+
+M	_config.yml
+
+commit 6ae8800384ecf0e48bd72017d3d1a41976a6de73
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 21:44:15 2025 -0400
+
+    improvements ;-)
+
+M	_config.yml
+
+commit e17b0a9496b7d44d297bbc98b614ec6a6479fbfe
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 21:42:49 2025 -0400
+
+    improvements ;-)
+
+R100	README.md	index.md
+
+commit e1d8abdfbffd59257fb8a3c9814a407f3948d7e9
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 21:29:15 2025 -0400
+
+    improvements ;-)
+
+D	.DS_Store
+M	.gitignore
+M	README.md
+A	works/Mara-Ellingsen-The-Weight-of-Water.md
+
+commit 7101c808083002d85aa7b0f77b42a7cb0e5a399a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:42:12 2025 -0400
+
+    improvements ;-)
+
+M	.DS_Store
+M	README.md
+R100	works/A.-Lumina-The-Threads-of-Time-and-Spores.md	works/A-Lumina-The-Threads-of-Time-and-Spores.md
+R100	works/Alma-Ros-Cartography-of-the-Displaced.md	works/Alma-Rios-Cartography-of-the-Displaced.md
+R100	"works/Solaria-Vignettes-\"The-Infinite-Survey-of-Singularities\".md"	works/Solaria-Vignettes-The-Infinite-Survey-of-Singularities.md
+
+commit 144e08bd3a20d278667a5114df0ec166f1ad7fff
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:35:47 2025 -0400
+
+    improvements ;-)
+
+M	README.md
+R100	"works/Anselm-Varion-\"The-Gravitational-Pull-of-Longing\".md"	works/Anselm-Varion-The-Gravitational-Pull-of-Longing.md
+R100	works/<Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh>.md	works/Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh.md
+R100	works/Elysian-Tressor-The-Loop-of-Tomorrow:-A-Conscious-Future.md	works/Elysian-Tressor-The-Loop-of-Tomorrow-A-Conscious-Future.md
+R100	works/Imogen-Aldridge-Between-Minds:-The-Self-as-Other.md	works/Imogen-Aldridge-Between-Minds-The-Self-as-Other.md
+R100	"works/R.-I.-Asha-\"The-Veil-of-Consciousness-and-the-Tapestry-of-Lives\".md"	works/RI-Asha-The-Veil-of-Consciousness-and-the-Tapestry-of-Lives.md
+R100	works/Zahir-A.-Silman-The-Horizon-Beyond-Belief.md	works/Zahir-A-Silman-The-Horizon-Beyond-Belief.md
+
+commit 39ee08745d85efe7af3abbc53747dac1402abe64
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:32:22 2025 -0400
+
+    Alva Noë / Ada Palmer (ChatGPT)
+
+M	README.md
+M	gen.py
+A	works/<Aria-Vasonthorpe-The-Imprint-of-Thought-on-Flesh>.md
+
+commit 31323e8041f0d47a57bd128a338d04fd3b0c9408
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:31:53 2025 -0400
+
+    Eugene Thacker / Amitav Ghosh (ChatGPT)
+
+M	README.md
+A	works/Zahir-A.-Silman-The-Horizon-Beyond-Belief.md
+
+commit 003a90cb185b31be6c259e856fb54b3dbcceec03
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:31:24 2025 -0400
+
+    Iain McGilchrist / China Miéville (ChatGPT)
+
+M	README.md
+A	works/T.S.-Hargrove-Unraveling-the-Empires-of-Mind.md
+
+commit 7647b56abcf94f0425d700fb0f1684fe782fa2de
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:31:00 2025 -0400
+
+    Anil Seth / Arundhati Roy (ChatGPT)
+
+M	README.md
+A	"works/R.-I.-Asha-\"The-Veil-of-Consciousness-and-the-Tapestry-of-Lives\".md"
+
+commit 4cd3fb580ae86ee1534f203deedb3b9ce2355c23
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:30:37 2025 -0400
+
+    Samuel R. Delany / Brian Evenson – Song for the Unraveling of the World (ChatGPT)
+
+M	README.md
+A	works/Baziel-Ames-The-Luminal-Street.md
+
+commit 2e6e2b7dbca324e4dc51303781d04e69fe71a93c
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:30:15 2025 -0400
+
+    Rachel Ingalls / Ursula K. Le Guin (ChatGPT)
+
+M	README.md
+A	works/Alfred-Harmon-The-Aquatic-House.md
+
+commit 8ab39fcd4f497a5fad7adb18aa21a164dab42475
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:29:48 2025 -0400
+
+    Robert Macfarlane / Hiroko Oyamada (ChatGPT)
+
+M	README.md
+A	works/Theren-Sylvas-Echoes-of-the-Inward-Landscape.md
+
+commit d018bd7a0eb619017ef2e1de7c53ebfc74ee8b4e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:29:19 2025 -0400
+
+    Roberto Bolaño / László Krasznahorkai (ChatGPT)
+
+M	README.md
+A	works/Octavio-Verdosa-Tattered-Infinities.md
+
+commit 6c0487ece209328b84815b896d304a9637c26a73
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:28:51 2025 -0400
+
+    Anna Tsing / Zadie Smith (ChatGPT)
+
+M	README.md
+A	works/A.-Lumina-The-Threads-of-Time-and-Spores.md
+R100	works/E.-F.-Penrose-The-Minds-Without-Borders.md	works/EF-Penrose-The-Minds-Without-Borders.md
+R100	works/K.M.-Verlaine-The-Weight-of-Copper-Wire.md	works/KM-Verlaine-The-Weight-of-Copper-Wire.md
+
+commit 5089b037474198d6bfbc02c5f9366e858edfe1ea
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:28:22 2025 -0400
+
+    Dan Zahavi / Anil Seth (ChatGPT)
+
+M	README.md
+R100	works/Aldwin-G.-Clairvoyant-The-Intersection-of-Silence-and-Gesture.md	works/Aldwin-G-Clairvoyant-The-Intersection-of-Silence-and-Gesture.md
+A	works/Imogen-Aldridge-Between-Minds:-The-Self-as-Other.md
+
+commit 2c313fc33b2ee9f90743a451fd2de30fa291480a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:27:59 2025 -0400
+
+    Gretel Ehrlich / Karen Barad (ChatGPT)
+
+M	README.md
+A	works/Soren-Whitfield-The-Quantum-Plains:-Conversations-on-Tangible-Intangibilities.md
+
+commit 141d6374a8fc5f0d88faf19caf34092c2c0044cc
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:27:33 2025 -0400
+
+    Reza Negarestani / Arundhati Roy (ChatGPT)
+
+M	README.md
+A	works/Iram-Ishtiaq-Threads-of-Dust-and-Light.md
+
+commit 98668942658d11391d8d0c26a045b3afe0a2631a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:27:04 2025 -0400
+
+    Amar Kanwar / Timothy Morton (ChatGPT)
+
+M	README.md
+A	works/Ravi-Sundaram-The-Liminal-Forest.md
+
+commit b197d51c7e9b75dc5525e4c1061a7afb2c1cc1ea
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:26:44 2025 -0400
+
+    Rikki Ducornet / Fred Moten (ChatGPT)
+
+M	README.md
+A	works/Lysander-Revenant-The-Constellation's-Ruin.md
+
+commit feec280d1ecd26e21340d5d5290e1b6a75801249
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:26:22 2025 -0400
+
+    Karl Ove Knausgaard / Nick Land (ChatGPT)
+
+M	README.md
+A	works/Daniel-Leith-The-Shattered-Veil.md
+
+commit e49c63447c32736acd01ed4acfab7ff789e89eeb
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:25:27 2025 -0400
+
+    Achille Mbembe / Bhanu Kapil (ChatGPT)
+
+M	README.md
+A	works/Leila-Ardan-Shadows-in-the-Periphery.md
+
+commit c0decaca9a11833bbfb835565f45032dd8c8da7a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:24:58 2025 -0400
+
+    Hiroko Oyamada / Éric Vuillard (ChatGPT)
+
+M	README.md
+A	works/Kazuo-Hiraide-The-Machinery-of-Unnoticed-Days.md
+
+commit e4c671899d751c9fbb6fcb2d66f20ee266e3bf85
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:24:21 2025 -0400
+
+    Robert Musil / Samuel R. Delany (ChatGPT)
+
+M	README.md
+A	works/Aldwin-G.-Clairvoyant-The-Intersection-of-Silence-and-Gesture.md
+
+commit ea265ae720ca7b597502e7fe87c329fd5036b2de
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:23:53 2025 -0400
+
+    Giorgio Agamben / Natasha Stagg (ChatGPT)
+
+M	README.md
+A	"works/Solaria-Vignettes-\"The-Infinite-Survey-of-Singularities\".md"
+
+commit 25acdac06210ddb81a716fd1975a00ffb8d2c935
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:23:32 2025 -0400
+
+    Jenny Erpenbeck – What We’re Fighting For Now Is Each Other / Reza Negarestani (ChatGPT)
+
+M	README.md
+A	works/Alia-Zarei-The-Erosion-of-Boundaries.md
+
+commit a1f123e1085108d863fa13918b4fb5420247b968
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:23:14 2025 -0400
+
+    Lisa Feldman Barrett / Lisa Robertson (ChatGPT)
+
+M	README.md
+A	works/Adelaide-Verrine-The-Layered-Self.md
+
+commit 6bf6ec1a08a03a280273c671e431d0bb5771c51f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:22:55 2025 -0400
+
+    Bhanu Kapil / Iain McGilchrist (ChatGPT)
+
+M	README.md
+R100	works/A.-Deacon-The-Geometry-of-Strangers.md	works/A-Deacon-The-Geometry-of-Strangers.md
+A	works/Anura-Deva-The-Nexus-of-Being-and-Absence.md
+
+commit b484a6fb88d00e0148d23f1a0bb7674d321c19a3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:22:23 2025 -0400
+
+    Ivan Krastev / Jean Stafford – The Collected Stories (ChatGPT)
+
+M	README.md
+A	works/Eleanor-Bergstrm-A-Fragile-Embrace.md
+
+commit 8edc08e13fa8c36e3c0b101a49a31e07fb8ca818
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:22:01 2025 -0400
+
+    Robert Musil / Anil Seth (ChatGPT)
+
+M	README.md
+A	works/E.-F.-Penrose-The-Minds-Without-Borders.md
+
+commit 5113b7bea7167d0fc70c2e300d45b8e34f570eab
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:21:42 2025 -0400
+
+    Laszlo Krasznahorkai / Rivka Galchen (ChatGPT)
+
+M	README.md
+A	works/Edith-Varga-The-Halting-Dance-of-Mirages.md
+
+commit c5e35f48b385b3224418a11f1676f87c0a81c9c3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:21:20 2025 -0400
+
+    Ottessa Moshfegh / Laszlo Krasznahorkai (ChatGPT)
+
+M	README.md
+M	gen.py
+A	"works/Anselm-Varion-\"The-Gravitational-Pull-of-Longing\".md"
+
+commit ec81f54663079839e0770c1e1a82b0b7709ac186
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:15:03 2025 -0400
+
+    Anne Boyer / Bhanu Kapil (ChatGPT)
+
+M	README.md
+M	gen.py
+A	works/Elara-Vespera-The-Intangible-Echoes.md
+
+commit e9d81f27c5d120a4d8717570e87eb80ed9047a8b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:14:27 2025 -0400
+
+    Zadie Smith / Lisa Feldman Barrett (ChatGPT)
+
+M	README.md
+A	works/A.-Deacon-The-Geometry-of-Strangers.md
+
+commit c3de1f9470f4e95cc7c029aa8c94e12fcaf352a1
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:13:29 2025 -0400
+
+    Catherine Malabou / Audre Lorde (ChatGPT)
+
+M	README.md
+A	works/Elyse-Andora-The-Symphony-of-Identity.md
+
+commit 31fb8e7744caa91c6fa9ca5ea174d55b622de245
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 17:11:49 2025 -0400
+
+    improvements ;-)
+
+A	.DS_Store
+M	README.md
+M	gen.py
+R100	works/A.-E.-Velo-The-Siege-of-Futures.md	works/AE-Velo-The-Siege-of-Futures.md
+R100	"works/A.P.-Erymdor-\"Echoes-in-the-Dust-of-Thought\".md"	works/AP-Erymdor-Echoes-in-the-Dust-of-Thought.md
+R100	works/A.P.-Mercier-The-Shadow's-Horizon.md	works/AP-Mercier-The-Shadows-Horizon.md
+R100	works/**Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels**.md	works/Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels.md
+R100	works/D.S.-Rousseau-The-Fabric-of-Silence.md	works/DS-Rousseau-The-Fabric-of-Silence.md
+R100	works/E.-Neotia-The-Echoing-Labyrinth.md	works/E-Neotia-The-Echoing-Labyrinth.md
+R100	works/Haruki-Nakagawa-The-Translator's-Daughter.md	works/Haruki-Nakagawa-The-Translators-Daughter.md
+R100	"works/Iris-Eland-\"Rooted-Anarchy:-Threads-of-Mycelium-and-Freedom\".md"	works/Iris-Eland-Rooted-Anarchy-Threads-of-Mycelium-and-Freedom.md
+R100	works/J.D.-Whittaker-The-Interstice-of-Selves.md	works/JD-Whittaker-The-Interstice-of-Selves.md
+R100	works/Jasper-E.-Fallon-The-Harmony-of-Evocative-Disarray.md	works/Jasper-E-Fallon-The-Harmony-of-Evocative-Disarray.md
+R100	works/Jules-Bernard-The-Unyielding-Tapestry:-Civilization-in-the-Unraveling-World.md	works/Jules-Bernard-The-Unyielding-Tapestry-Civilization-in-the-Unraveling-World.md
+R100	"works/K.E.-Acker-\"Embodied-Horizons:-Unraveling-the-Enmeshed-Real\".md"	works/KE-Acker-Embodied-Horizons-Unraveling-the-Enmeshed-Real.md
+R100	"works/L.-C.-Aetherion-\"Veils-of-the-Infinite:-The-Sensate-Selves\".md"	works/LC-Aetherion-Veils-of-the-Infinite-The-Sensate-Selves.md
+R100	works/M.K.-Threnody-The-Flesh-Archive.md	works/MK-Threnody-The-Flesh-Archive.md
+R100	works/Maximilian-Hawthorne-Within-Eternity's-Erosion.md	works/Maximilian-Hawthorne-Within-Eternitys-Erosion.md
+R100	works/<pseudonym>-*Refractions-of-the-Impossible-Horizon*.md	works/Miriam-Fields-Refractions-of-the-Impossible-Horizon.md
+R100	works/<Miriam-Fields-The-Illusion-of-Seeing-Clearly>.md	works/Miriam-Fields-The-Illusion-of-Seeing-Clearly.md
+R100	works/<pseudonym>-<The-Specter-of-Intangible-Labor:-A-Haunting-Synthesis>.md	works/Miriam-Fields-The-Specter-of-Intangible-Labor-A-Haunting-Synthesis.md
+R100	works/<pseudonym>-*The-Vanishing-Act-of-October-Souls*.md	works/Miriam-Fields-The-Vanishing-Act-of-October-Souls.md
+R100	"works/N.-I.-Dactyl-\"Patterns-in-the-Chaos\".md"	works/NI-Dactyl-Patterns-in-the-Chaos.md
+R100	"works/Nevan-Everdale-\"Threads-of-Twilight\".md"	works/Nevan-Everdale-Threads-of-Twilight.md
+R100	"works/Oskar-Voss-\"The-Resonant-Chaos\".md"	works/Oskar-Voss-The-Resonant-Chaos.md
+R100	works/R.K.-Terminus-The-Electric-Meat.md	works/RK-Terminus-The-Electric-Meat.md
+R100	works/R.M.-Bolivsen-The-Shadows-of-Memory.md	works/RM-Bolivsen-The-Shadows-of-Memory.md
+R100	works/R.U.-Duvall-The-Inescapable-Reflection.md	works/RU-Duvall-The-Inescapable-Reflection.md
+R100	works/Ruth-B.-Vercors-The-Weight-of-Absence.md	works/Ruth-B-Vercors-The-Weight-of-Absence.md
+R100	works/Sienna-Calder-Edge-of-Kinship:-A-Tangled-Weave.md	works/Sienna-Calder-Edge-of-Kinship-A-Tangled-Weave.md
+R100	"works/V.B.-Ortega-\"The-Intersecting-Bewilderment-of-Being\".md"	works/VB-Ortega-The-Intersecting-Bewilderment-of-Being.md
+
+commit 99df9a0e10f66410298950d0cebe7684697e966b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:57:09 2025 -0400
+
+    Thomas Metzinger / China Miéville (ChatGPT)
+
+M	README.md
+M	gen.py
+A	works/<pseudonym>-*The-Vanishing-Act-of-October-Souls*.md
+
+commit 7b942a20fd5ecaf9d273ff71962e87106261c889
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:56:45 2025 -0400
+
+    Simone Weil / Evan Thompson (ChatGPT)
+
+M	README.md
+A	works/Althea-Novalis-The-Veil-Between-Worlds.md
+
+commit 231b5a017c9f04783907964250c9faa417908f85
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:56:22 2025 -0400
+
+    Ursula K. Le Guin / Mary Gaitskill (ChatGPT)
+
+M	README.md
+A	works/Veleda-Marthorn-The-Valley-Between-Shadows-and-Light.md
+
+commit 05d4bceb265d37eb554de76b314ce3dfdf9b0cc5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:55:54 2025 -0400
+
+    Nnedi Okorafor / Andrey Platonov (ChatGPT)
+
+M	README.md
+A	works/Tarsu-Alagbala-The-Looming-Clay.md
+
+commit ea6a8997beaed75a547e9b5e865d2e3b89231375
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:55:33 2025 -0400
+
+    Mark Fisher / Yuk Hui (ChatGPT)
+
+M	README.md
+A	works/Harold-Wainwright-The-Echoes-of-Ephemeral-Horizons.md
+
+commit 611529d59da8f4f3eacbcc5ea823d3dbda9a3d62
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:55:07 2025 -0400
+
+    Clarice Lispector / Iain McGilchrist (ChatGPT)
+
+M	README.md
+A	"works/V.B.-Ortega-\"The-Intersecting-Bewilderment-of-Being\".md"
+
+commit 243e18aa78afeeb501c124a0ead6b988ecaabbfa
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:54:34 2025 -0400
+
+    Tiqqun / China Miéville (ChatGPT)
+
+M	README.md
+A	works/Elara-Thalassia-Divided-Continuum.md
+
+commit 4088ae03e7794808a1c116b36030f275f37e1907
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:54:04 2025 -0400
+
+    George Saunders / Édouard Levé – Autoportrait (ChatGPT)
+
+M	README.md
+A	works/D.S.-Rousseau-The-Fabric-of-Silence.md
+
+commit 8e8a9d1886ddd1b20b35e01495ada8e0e6e65495
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:53:35 2025 -0400
+
+    Janet Malcolm – The Journalist and the Murderer / Fred Moten (ChatGPT)
+
+M	README.md
+A	works/<Miriam-Fields-The-Illusion-of-Seeing-Clearly>.md
+
+commit 2a2b0ebca4efce56a1b13eb733bfc0a3491e6f3c
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:52:54 2025 -0400
+
+    Kim Stanley Robinson / Reza Negarestani (ChatGPT)
+
+M	README.md
+A	works/A.-E.-Velo-The-Siege-of-Futures.md
+
+commit f53cd834dfca7783202b9913f605cffc3a517bf6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:52:04 2025 -0400
+
+    Roberto Calasso / Becky Chambers (ChatGPT)
+
+M	README.md
+A	works/Jasper-E.-Fallon-The-Harmony-of-Evocative-Disarray.md
+
+commit 4027b09496ed10f4e03bd6ef37d40311d1f3bd6b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:51:35 2025 -0400
+
+    J.M. Ledgard / Helena Norberg-Hodge (ChatGPT)
+
+M	README.md
+A	works/Aria-Ellsworth-Echoes-of-the-Ancient-Abyss.md
+
+commit 971c5d545c11503f904d7a0ba4c4c29b4736362c
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:51:06 2025 -0400
+
+    Arundhati Roy / Don DeLillo (ChatGPT)
+
+M	README.md
+A	works/Nishant-Verma-The-Chiaroscuro-of-Echoes.md
+
+commit 8fc81f335bcf6568efce3c1666aaec63a9155696
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:50:25 2025 -0400
+
+    Octavia Butler / McKenzie Wark (ChatGPT)
+
+M	README.md
+A	works/Elias-Quay-The-Arid-Dawn.md
+
+commit 7000416b30c7b75bb5bb823e553d37ea8fc937ec
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:49:53 2025 -0400
+
+    Tove Ditlevsen – The Copenhagen Trilogy / Roberto Bolaño (ChatGPT)
+
+M	README.md
+A	works/R.M.-Bolivsen-The-Shadows-of-Memory.md
+
+commit 48cbd74e9b0b8887adb93f91b56325d4bb9bb1e7
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:49:32 2025 -0400
+
+    Bayo Akomolafe / Thomas Metzinger (ChatGPT)
+
+M	README.md
+A	works/Seyla-Ineiwera-The-Whispering-Spectrum.md
+
+commit f8986174199f4ebf6caa39f96bd0aebf881bb25f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:49:02 2025 -0400
+
+    Eugene Thacker / Merlin Donald (ChatGPT)
+
+M	README.md
+A	"works/A.P.-Erymdor-\"Echoes-in-the-Dust-of-Thought\".md"
+
+commit 054d621fa60b1fcac5e3119f37890313277abf8f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:48:29 2025 -0400
+
+    Timothy Morton / Hannu Rajaniemi (ChatGPT)
+
+M	README.md
+A	works/Soren-Harkness-From-the-Entangled-Chorus.md
+
+commit 2055ecd5d82e86667b0612ef82fb66fea4a2a3eb
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:47:44 2025 -0400
+
+    Renee Gladman / J.G. Ballard (ChatGPT)
+
+M	README.md
+A	works/<pseudonym>-*Refractions-of-the-Impossible-Horizon*.md
+
+commit a337c59dbe4c121103b67b6789a076d485ed7522
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:47:23 2025 -0400
+
+    Douglas Hofstadter / Hélène Cixous (ChatGPT)
+
+M	README.md
+A	works/E.-Neotia-The-Echoing-Labyrinth.md
+
+commit 04e77093d9bb9909dad2dcee17f22b732c1e3db6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:46:58 2025 -0400
+
+    Ottessa Moshfegh / László Krasznahorkai (ChatGPT)
+
+M	README.md
+A	works/Maximilian-Hawthorne-Within-Eternity's-Erosion.md
+
+commit 4eee1f36824bcca1117065c7488304b92dd1e017
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:46:36 2025 -0400
+
+    Rachel Cusk / Norman Rush – Mating (ChatGPT)
+
+M	README.md
+A	works/Lamia-Everhart-In-the-Embrace-of-Horizons.md
+
+commit 573230634d4147425d24e42c7bfcd312be3c9cd3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:46:12 2025 -0400
+
+    Rachel Cusk / László Krasznahorkai (ChatGPT)
+
+M	README.md
+A	works/Aurora-Mrquez-The-Unseen-Mirage.md
+
+commit 44417d4b3caafce7d9919d9f62077e808fb1e12b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:45:33 2025 -0400
+
+    Donna Haraway / Thomas Pynchon (ChatGPT)
+
+M	README.md
+A	"works/N.-I.-Dactyl-\"Patterns-in-the-Chaos\".md"
+
+commit 352c6d919d04213fa63162a34552b08c5fe04afd
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:45:01 2025 -0400
+
+    Adrian Johnston / David Abram (ChatGPT)
+
+M	README.md
+A	works/Theodore-Forsyth-Resonant-Grounds-of-Material-and-Spirit.md
+
+commit 74d471eaa2a0364ca700b595663fd57c18226fc9
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:44:26 2025 -0400
+
+    Olga Tokarczuk / Ursula K. Le Guin (ChatGPT)
+
+M	README.md
+A	works/Maeve-Silversworn-The-Tapestry-of-Returning.md
+
+commit 4114b3fd2fa3d95fd9369e0abc2cf9e1b24179c3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:44:05 2025 -0400
+
+    Octavia Butler / Gretel Ehrlich (ChatGPT)
+
+M	README.md
+A	works/Amari-Greysong-The-Choir-of-Solitude.md
+
+commit 335d3a912064e91ec5d5998ec4683a3658852134
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:43:39 2025 -0400
+
+    P.M. / Octavia Butler (ChatGPT)
+
+M	README.md
+A	works/Uba-Dutil-The-Fractured-Haven.md
+
+commit 06421eb7db823cb469d898179099a9eef2769a85
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:43:10 2025 -0400
+
+    Valeria Luiselli / Jean Stafford – The Collected Stories (ChatGPT)
+
+M	README.md
+A	works/Alma-Ros-Cartography-of-the-Displaced.md
+
+commit c29c6a9b3e60bc6132bd988a02efbb6469714223
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:42:45 2025 -0400
+
+    Marge Piercy / Donna Haraway (ChatGPT)
+
+M	README.md
+A	works/Sienna-Calder-Edge-of-Kinship:-A-Tangled-Weave.md
+
+commit 67df3c05c356fbbdc38eef2d312ea13d3c46576a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:42:24 2025 -0400
+
+    David Graeber / Dan Zahavi (ChatGPT)
+
+M	README.md
+A	works/Amias-Lumin-The-Web-of-Emergence.md
+
+commit a533c22a54200c3cf43ef71add26f7ac32d535b8
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:41:58 2025 -0400
+
+    Paul Preciado / Janet Malcolm – The Journalist and the Murderer (ChatGPT)
+
+M	README.md
+A	works/Nico-Voran-The-Alchemy-of-Identity-and-Truth.md
+
+commit 8dbc750e69569a1cfca07bc9ac7ed77dffd88028
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:41:32 2025 -0400
+
+    Simone Weil / James Bridle (ChatGPT)
+
+M	README.md
+A	works/Columba-Lark-Resonances-of-Existence.md
+
+commit 28138c45018b6a0009abf3d374c8f7109c461848
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:41:08 2025 -0400
+
+    Cormac McCarthy / Evan Thompson (ChatGPT)
+
+M	README.md
+A	works/Larkin-Ventnor-Where-Life-Meets-the-Riversweep.md
+
+commit 9e6d92386709f427142cf9ae7dfd0ddee1414c6e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:40:47 2025 -0400
+
+    Clarice Lispector / Olufemi O. Taiwo (ChatGPT)
+
+M	README.md
+A	works/R.U.-Duvall-The-Inescapable-Reflection.md
+
+commit 246812c16b3a5539910e34d789c138722193fa95
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:40:17 2025 -0400
+
+    Rikki Ducornet / Thomas Metzinger (ChatGPT)
+
+M	README.md
+A	"works/L.-C.-Aetherion-\"Veils-of-the-Infinite:-The-Sensate-Selves\".md"
+
+commit 6aaa8278e3d94153ac532ba29ff88d63b80d7eb6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:39:41 2025 -0400
+
+    Bhanu Kapil / Michel Houellebecq (ChatGPT)
+
+M	README.md
+A	works/Nadia-Ahnlin-The-Fracture-of-Embodied-Divisions.md
+
+commit 7dcbe2b8017cb6fb3a153025996e27a55e87d5cb
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:39:14 2025 -0400
+
+    Frank B. Wilderson III / Clarice Lispector (ChatGPT)
+
+M	README.md
+A	works/Amaro-Incio-The-Submerged-Continuum.md
+
+commit 6264a15ee65d1d62230ace7099dd29d9edf63e38
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:38:31 2025 -0400
+
+    Mary Gaitskill / N.K. Jemisin (ChatGPT)
+
+M	README.md
+A	works/Astra-Evander-Shattered-Elegies.md
+
+commit cdcd4f48d31e9ca82deb5005e7d9fef6b9f056e7
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:37:53 2025 -0400
+
+    Lauren Berlant / Reza Negarestani (ChatGPT)
+
+M	README.md
+A	works/Evander-Praxis-The-Labyrinth-of-Illusive-Desires.md
+
+commit 83dfa940f26bbf0a55c37999434f8b5e34e5072e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:37:29 2025 -0400
+
+    Liu Cixin / Catherine Malabou (ChatGPT)
+
+M	README.md
+A	works/Xun-Fang-The-Quantum-Mindscape.md
+
+commit 57992b6cec0289147da9eec6669435b242ded0e0
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:37:01 2025 -0400
+
+    Fred Moten / Stefano Harney / Andy Clark (ChatGPT)
+
+M	README.md
+A	"works/K.E.-Acker-\"Embodied-Horizons:-Unraveling-the-Enmeshed-Real\".md"
+
+commit c449b02738c993497e2ac85679c768f586a75278
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:36:29 2025 -0400
+
+    Silvia Federici / Eugene Thacker (ChatGPT)
+
+M	README.md
+A	works/<pseudonym>-<The-Specter-of-Intangible-Labor:-A-Haunting-Synthesis>.md
+
+commit 762ce3acf540d17ede277d321776b75f17a1ece3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:36:06 2025 -0400
+
+    Fernand Braudel / Robert Kagan (ChatGPT)
+
+M	README.md
+A	works/Jules-Bernard-The-Unyielding-Tapestry:-Civilization-in-the-Unraveling-World.md
+
+commit 6ebd1eda944e73e01c52e049fe1ba92c523cecab
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:35:38 2025 -0400
+
+    Cormac McCarthy / James Bridle (ChatGPT)
+
+M	README.md
+A	works/Malachai-Voss-The-Abyss-of-Knowing.md
+
+commit 759d66592a870290e89ee0b0d4c1df08be4afdc6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:35:08 2025 -0400
+
+    Amitav Ghosh / Achille Mbembe (ChatGPT)
+
+M	README.md
+A	works/Kilua-Bani-The-Shadow-of-Reason.md
+
+commit 81a52997b1a64194b47231600ea5cc3dd9905c21
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:34:38 2025 -0400
+
+    Nick Srnicek / Douglas Hofstadter (ChatGPT)
+
+M	README.md
+A	works/Elysian-Tressor-The-Loop-of-Tomorrow:-A-Conscious-Future.md
+
+commit 79a745a48579a439f033d13c5f022c9082fc20e2
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:34:13 2025 -0400
+
+    Emmanuel Carrère / László Krasznahorkai (ChatGPT)
+
+M	README.md
+A	works/**Alistair-Leontine-The-Kaleidoscope-of-Lost-Parallels**.md
+
+commit 8ee326cba9f6354f56ea955b52445e075019cb3a
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:33:54 2025 -0400
+
+    William T. Vollmann – Rising Up and Rising Down (abridged edition) / César Aira (ChatGPT)
+
+M	README.md
+A	works/A.P.-Mercier-The-Shadow's-Horizon.md
+
+commit 1517311864977ffb468e010c673536efa1148afd
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:33:28 2025 -0400
+
+    Roberto Calasso / Hannu Rajaniemi (ChatGPT)
+
+M	README.md
+A	works/Lias-Toren-The-Quantum-Ruin.md
+
+commit 39f20d3a509d52cdd88d1c6825dd454b20a30311
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:33:07 2025 -0400
+
+    J.G. Ballard / Achille Mbembe (ChatGPT)
+
+M	README.md
+A	works/Derek-Thorpe-The-Unknown-Divide.md
+
+commit 61f8e5c64986acc9b8b4ad8929180f354bf86dae
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:32:44 2025 -0400
+
+    Svetlana Alexievich / Annie Ernaux (ChatGPT)
+
+M	README.md
+A	works/Ilya-Varina-Echoes-of-Silent-Seasons.md
+
+commit 04afb7c831683f11abe7f705227864a2df1288b3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:32:12 2025 -0400
+
+    Hilton Als / Amitav Ghosh (ChatGPT)
+
+M	README.md
+M	gen.py
+R100	works/**Arden-Vexer-Entropies-of-Exchange**.md	works/Arden-Vexer-Entropies-of-Exchange.md
+A	works/Jasper-Orion-The-Prismatic-Displacement.md
+
+commit 79ef6c2d7a9c3508adf799375a4f27b19aac93d9
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:24:22 2025 -0400
+
+    Hakim Bey / Sam Lipsyte (ChatGPT)
+
+M	README.md
+A	works/Ephemera-Corvax-The-Echoed-Splinter.md
+
+commit 97543e65470901ff9b53997199b9483c6b80c4a1
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:23:47 2025 -0400
+
+    Hilton Als / Nathalie Quintane (Claude)
+
+M	README.md
+A	works/Simone-Marquez-The-Velocity-of-Tenderness.md
+
+commit 6c1aa6b358a7a2fa317b3cdcfb1ae4df1679dd2d
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:22:57 2025 -0400
+
+    Cormac McCarthy / David Graeber (ChatGPT)
+
+M	README.md
+A	"works/Nevan-Everdale-\"Threads-of-Twilight\".md"
+
+commit f66e846dff29ea764e3028704c3a0c7ebe4e0d69
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:22:25 2025 -0400
+
+    William S. Burroughs / Christina Sharpe (Claude)
+
+A	CNAME
+M	README.md
+A	works/M.K.-Threnody-The-Flesh-Archive.md
+
+commit 12ca0e7321eaadadf21b312bdae6d6419d6ce021
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:21:15 2025 -0400
+
+    Clarice Lispector / Elias Canetti (ChatGPT)
+
+M	README.md
+A	works/Aurelia-Lafferty-The-Singular-Echoes-of-Divided-Voices.md
+
+commit a7bd904f88af98d6923c20044c3cce8dbe02dd28
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:20:43 2025 -0400
+
+    Thomas Metzinger / Rebecca Solnit (Claude)
+
+M	README.md
+A	works/Marina-Castellar-The-Dissolution-of-Paradise.md
+
+commit 850eb25555c72a7bd0366b7a01885a6b70c5786b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:19:29 2025 -0400
+
+    Ursula K. Le Guin / Anna Tsing (ChatGPT)
+
+M	README.md
+A	"works/Iris-Eland-\"Rooted-Anarchy:-Threads-of-Mycelium-and-Freedom\".md"
+
+commit 73a23d91517823b383d088608404b4b5c4bf96a3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:18:50 2025 -0400
+
+    Mark Fisher / China Miéville (Claude)
+
+M	README.md
+A	works/Alexei-Thorne-The-Insurrection-of-Dead-Time.md
+
+commit 13f0bdc5d2e72c09127ec8a9a481894c2090cbc4
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:17:51 2025 -0400
+
+    Dan Zahavi / Norman Rush – Mating (ChatGPT)
+
+M	README.md
+A	works/J.D.-Whittaker-The-Interstice-of-Selves.md
+
+commit 81a805988100ba6802ce286b4beb99675fbceb9e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:17:27 2025 -0400
+
+    Bhanu Kapil / Nnedi Okorafor (Claude)
+
+M	README.md
+A	works/Amara-Sundari-The-Geography-of-Becoming.md
+
+commit a23f3c7343b9fc47cd68505dc364d4b432f28fc5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:15:10 2025 -0400
+
+    Glen Weyl / Don DeLillo (ChatGPT)
+
+M	README.md
+A	works/**Arden-Vexer-Entropies-of-Exchange**.md
+
+commit 69d6a0c259a061f657d94b9f1c01c4655e2a498f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:14:44 2025 -0400
+
+    László Krasznahorkai / Clarice Lispector (Claude)
+
+M	README.md
+A	works/Mtys-Vilghy-The-Architecture-of-Waiting.md
+
+commit 3747b4c16aa835afbdc0f11d2f9449c8c6f9ed61
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:13:09 2025 -0400
+
+    Don DeLillo / Don DeLillo (ChatGPT)
+
+M	README.md
+A	"works/Oskar-Voss-\"The-Resonant-Chaos\".md"
+
+commit 6a147f2fb4f3b96fa0b39141ce3636f7dc44f200
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 16:12:50 2025 -0400
+
+    Timothy Morton / Timothy Morton (Claude)
+
+M	README.md
+M	gen.py
+A	works/Adrienne-Kohl-The-Architecture-of-Encounter.md
+A	works/Haruki-Nakagawa-The-Translator's-Daughter.md
+A	works/Marvela-Thornwick-The-Viscous-Cathedral.md
+
+commit c868e25b7e72ac7eb68fbe74b8b6a48241c9df8e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:58:04 2025 -0400
+
+    Frank B. Wilderson, III - Afropessimism / Simone Weil - Gravity and Grace
+
+M	README.md
+M	gen.py
+A	works/Melora-Graves-The-Weight-of-Nothing.md
+A	works/Ruth-B.-Vercors-The-Weight-of-Absence.md
+
+commit ed20bdfebf1e93544bddbc83b5a33a2ccda79b43
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:41:45 2025 -0400
+
+    Add collaboration: Cormac McCarthy - Suttree x Cory Doctorow - Walkaway
+
+M	README.md
+M	gen.py
+A	works/Cyrus-Thorne-The-Abandonment-Economy.md
+
+commit a9c2df79a8fc90dfc4174164304ce4b6a6423078
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:40:51 2025 -0400
+
+    Add collaboration: Donna Haraway - Staying with the Trouble x Denis Johnson - Train Dreams
+
+M	README.md
+A	works/Mara-Crenshaw-The-Wet-Gospel-of-Ruin.md
+
+commit 33313d344d058a40a86186362a27a1cd183cae24
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:39:37 2025 -0400
+
+    Add collaboration: Gretel Ehrlich - The Solace of Open Spaces x William T. Vollmann – Rising Up and Rising Down (abridged edition)
+
+M	README.md
+A	works/Cassandra-Windham-The-Violence-of-Empty-Horizons.md
+
+commit f166203601d5c994a3d998ef0c2aa22cae5a95c2
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:38:15 2025 -0400
+
+    Add collaboration: Paul Preciado - Testo Junkie x Iain McGilchrist - The Master and His Emissary
+
+M	README.md
+A	works/Alexis-Meridian-The-Hormone-of-Civilization.md
+
+commit 0b0341edb2aeb27cc49a9a3ff3ea72acecacb7d5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:37:18 2025 -0400
+
+    Add collaboration: David Abram - The Spell of the Sensuous x Sophie Lewis - Abolish the Family
+
+M	README.md
+A	works/Morgan-Tidewater-The-Breathing-Commons.md
+
+commit 80412dfa94f40b3ccabb7468b68ad10580dba64b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:36:10 2025 -0400
+
+    Add collaboration: Achille Mbembe - Necropolitics x Kaitlyn Greenidge - We Love You, Charlie Freeman
+
+M	README.md
+A	works/Amara-Okafor-The-Museum-of-Living-Memory.md
+
+commit 3e46900c6941d51c483017fd85bbcb8e8520b868
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:34:31 2025 -0400
+
+    Add collaboration: Clarice Lispector - The Passion According to G.H. x Norman Rush – Mating
+
+M	README.md
+M	gen.py
+A	works/Vera-Montaine-The-Architecture-of-Dissolution.md
+
+commit 957f445e049a384d1c4a0a3b62223639abbb9fe3
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:33:00 2025 -0400
+
+    Add collaboration: J. M. Coetzee - Disgrace x Iain McGilchrist - The Master and His Emissary
+
+M	README.md
+M	gen.py
+A	works/Marcus-Thornfield-The-Divided-Animal.md
+
+commit 159060f4eb46b27357eedafb69eccede2bea86e6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:31:46 2025 -0400
+
+    Add collaboration: William S. Burroughs - Naked Lunch x William T. Vollmann - You Bright and Risen Angels
+
+M	README.md
+A	works/R.K.-Terminus-The-Electric-Meat.md
+
+commit 8490ac2182fe08a185976dfef212efccc7240d96
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:30:48 2025 -0400
+
+    Add collaboration: Emmanuel Carrère - Lives Other Than My Own x Octavia E. Butler - Parable of the Sower
+
+M	README.md
+A	works/Solange-Mercier-The-Shape-of-What-Breaks.md
+
+commit 8a4330654a5d2ff319cdba85f6516c6af37dde1b
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:29:36 2025 -0400
+
+    Add collaboration: Cory Doctorow - Walkaway x William S. Burroughs - Naked Lunch
+
+M	README.md
+M	_config.yml
+A	works/Malachite-Zero-The-Default-Network.md
+
+commit 57ea845c609c1f857aeec7da643ebe9566296159
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:27:37 2025 -0400
+
+    Add collaboration: Helena Norberg-Hodge - Ancient Futures x Giorgio Agamben - The Coming Community
+
+M	README.md
+A	works/Matthias-Rosenkranz-The-Threshold-of-the-Possible.md
+
+commit fbb720fe47121883586b1d28d3dd86e388ba5138
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:26:35 2025 -0400
+
+    Add collaboration: Lisa Feldman Barrett - How Emotions Are Made x Benjamin Bratton - The Stack
+
+M	README.md
+M	gen.py
+A	works/Alexis-Meridian-The-Affective-Infrastructure.md
+
+commit 9567b6eae09c32c9066534460f0fa048574cad0f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:25:44 2025 -0400
+
+    Add collaboration: Deborah Levy - The Cost of Living x Hiroko Oyamada - The Factory
+
+M	README.md
+A	works/Marina-Kondo-The-Maintenance-of-Living.md
+
+commit 3da7462aaf20fe1cbf53f601335d726d41f459e1
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:24:57 2025 -0400
+
+    Add collaboration: Susan Blackmore - The Meme Machine x Ursula K. Le Guin - Always Coming Home
+
+M	README.md
+A	works/Kira-Stoneweaver-The-Dancing-Patterns.md
+
+commit 179ce0897b422711331c531be99752c551f9a2d6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:23:57 2025 -0400
+
+    Add collaboration: Kate Raworth - Doughnut Economics x Dambudzo Marechera - The House of Hunger
+
+M	README.md
+A	works/Thandiwe-Okonkwo-The-Hunger-Circle.md
+
+commit 904995822543ab1b380975da35b23d16acf9f2ef
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:22:46 2025 -0400
+
+    Add collaboration: Olufemi O. Taiwo - Elite Capture x Glen Weyl - Radical Markets
+
+M	README.md
+A	works/Kwame-Garrison-The-Auction-of-Tomorrow.md
+
+commit 0fdf55721c2a58a88cafed8ccb54828d8a72e60e
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:21:52 2025 -0400
+
+    Add collaboration: Percival Everett - James x Jorie Graham - [To]
+
+M	README.md
+A	works/Aurelia-Blackwood-The-Weight-of-Seeing.md
+
+commit c366ae754919ac8473e74ad13b62f51558535bcf
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:20:04 2025 -0400
+
+    Add collaboration: Olufemi O. Taiwo - Elite Capture x Cory Doctorow - Walkaway
+
+M	README.md
+M	gen.py
+A	works/Kamilah-Okonkwo-The-Commons-We-Build.md
+
+commit 7fe6a32c2f9adda930e284aea38c7e3067eb03a5
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:17:52 2025 -0400
+
+    Add collaboration: Thomas Metzinger - The Ego Tunnel x John Gray – Straw Dogs: Thoughts on Humans and Other Animals
+
+M	README.md
+A	works/Marcus-Thornfeld-The-Phantom-at-the-Window.md
+
+commit 96bcb52550f9069eeb554f03e869eaf1a02f1e19
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:16:10 2025 -0400
+
+    improvements ;-)
+
+M	README.md
+M	gen.py
+
+commit 15b8e2b690baa94618f737199b5b342440308b95
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:14:10 2025 -0400
+
+    Add collaboration: William T. Vollmann - You Bright and Risen Angels x N.K. Jemisin - The Broken Earth Trilogy
+
+M	README.md
+A	works/K.M.-Verlaine-The-Weight-of-Copper-Wire.md
+
+commit 65e0b722e33ad587f7c0d45c0c214d742b21f194
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:12:56 2025 -0400
+
+    improvements ;-)
+
+M	gen.py
+
+commit 188b3c7150ffdaec2e6187e9627f993bbec8f33d
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 15:08:13 2025 -0400
+
+    improvements ;-)
+
+M	README.md
+
+commit 0c5c94efb43575d446deeaa691b588dd51afeb03
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 14:59:56 2025 -0400
+
+    improve it ;-)
+
+M	_config.yml
+
+commit 86bdea761b74204e363c9d90969f4da1d279d55f
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 14:55:12 2025 -0400
+
+    improvements ;-)
+
+M	README.md
+A	_config.yml
+
+commit b3b542d5393372f1ea6ac538b53387d2916243c9
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 14:48:21 2025 -0400
+
+    Add collaboration: Mark Fisher - Ghosts of My Life x Gerald Murnane - The Plains
+
+A	works/Kieran-Holloway-The-Vanishing-Horizon.md
+
+commit f1226a2a5bacf8720f96ebd3835d830a1ca21f00
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 14:47:08 2025 -0400
+
+    fix script
+
+M	gen.py
+
+commit 6caf908cdc072b5ad01e19a6662763a8104d44cb
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 14:45:48 2025 -0400
+
+    fix script
+
+M	gen.py
+D	works/K.md
+
+commit 352f89523831e7db15ff779618c9891578860196
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 14:42:21 2025 -0400
+
+    Add collaboration: Laszlo Krasznahorkai - Satantango x Elias Canetti - Crowds and Power
+
+A	works/K.md
+
+commit 92d3165217cadba7d910da44b7ea8cc3eafbb0f6
+Author: Brian Edwards <brian.mabry.edwards@gmail.com>
+Date:   Mon Jul 28 14:39:12 2025 -0400
+
+    initial commit ;-)
+
+M	.gitignore
+A	authors.txt
+A	gen.py
+
+commit 5fe55595434f7aee4e27f87f934cae8461b9a018
+Author: Brian Edwards <88759+bedwards@users.noreply.github.com>
+Date:   Mon Jul 28 14:31:56 2025 -0400
+
+    Initial commit
+
+A	.gitignore
+A	README.md
