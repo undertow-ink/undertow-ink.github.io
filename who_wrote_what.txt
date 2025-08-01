@@ -1,0 +1,233 @@
+    David Wallace Wells + Ray Bradbury plan, Susan Collins writes (ChatGPT)
+A   works/Anne-Parker-The-Hourglass-of-Noctura.md
+
+    Barry Hannah + George R. R. Martin plan, Bernard Cornwell writes (Claude)
+A   works/Daniel-Wells-The-Correspondence-Conspiracy.md
+
+    Anne Carson + Ted Chiang plan, Leonora Carrington writes (ChatGPT)
+A   works/Helena-Cross-The-Whispering-Veils-of-Arborwell.md
+
+    Sylvia Plath + E. Lockhart plan, Lois Lowry writes (Claude)
+A   works/Margaret-Ellison-The-Weight-of-Cotton.md
+
+    Judith McNaught + Diane Chamberlain plan, Colleen Hoover writes (ChatGPT)
+A   works/Emma-Clarke-Where-We-Begin.md
+
+    Liane Moriarty + Diane Chamberlain plan, Colleen Hoover writes (Claude)
+A   works/Emma-Clarke-The-Salt-and-the-Shore.md
+
+    George R. R. Martin + James M. Cain plan, Barry Hannah writes (ChatGPT)
+A   works/Jake-Morrison-The-Weight-of-the-Letters.md
+
+    Anita Shreve + Judith McNaught plan, Liane Moriarty writes (Claude)
+A   works/Kate-Morrison-The-Lighthouse-Keeper's-Secret.md
+
+    Barry Hannah + Nick Bantock plan, Bernard Cornwell writes (ChatGPT)
+A   works/Daniel-Wells-Cedarbridge's-Legacy.md
+
+    Susan Collins + C.S. Lewis plan, Ray Bradbury writes (Claude)
+A   works/Robert-Hayes-The-Station-Between-Worlds.md
+
+    C.S. Lewis + Susan Collins plan, David Wallace Wells writes (ChatGPT)
+A   works/Mark-Stevens-Whispers-of-the-Dual-Veil.md
+
+    Han Kang + Lois Lowry plan, E. Lockhart writes (Claude)
+A   works/Nora-Caldwell-The-Weight-of-Flour.md
+
+    Karl Ove Knausgaard + J. M. Coetzee plan, Leonora Carrington writes (ChatGPT)
+A   works/Helena-Cross-The-Whispers-at-Arfon-Bay.md
+
+    C.S. Lewis + Ray Bradbury plan, David Wallace Wells writes (Claude)
+A   works/Mark-Stevens-The-Resonance-Chamber.md
+
+    Daphne du Maurier + Harper Lee plan, Jane Austen writes (ChatGPT)
+A   works/Evelyn-Marlowe-The-Silent-Heir.md
+
+    Leonora Carrington + Karl Ove Knausgaard plan, Ted Chiang writes (Claude)
+A   works/David-Chen-The-Temporal-Cartographer.md
+
+    William Shakespeare + Wilkie Collins plan, Jane Austen writes (ChatGPT)
+A   works/Evelyn-Marlowe-The-Secrets-of-Montclair.md
+
+    Madeline L'Engle + Ray Bradbury plan, C.S. Lewis writes (Claude)
+A   works/John-Bradley-The-Deepening-Current.md
+
+    Madeline L'Engle + C.S. Lewis plan, David Wallace Wells writes (ChatGPT)
+A   works/Mark-Stevens-Beyond-the-Veil.md
+
+    James M. Cain + George R. R. Martin plan, Bernard Cornwell writes (Claude)
+A   works/Daniel-Wells-The-Purple-Correspondence.md
+
+    Susan Collins + C.S. Lewis plan, David Wallace Wells writes (ChatGPT)
+A   works/Mark-Stevens-The-Isle-of-Unfolded-Time.md
+
+    Harper Lee + Daphne du Maurier plan, Jane Austen writes (Claude)
+A   works/Evelyn-Marlowe-The-Hartwell-Inheritance.md
+
+    David Wallace Wells + C.S. Lewis plan, Ray Bradbury writes (ChatGPT)
+A   works/Robert-Hayes-Obsidian-Echoes.md
+
+    Kate Quinn + Sylvia Plath plan, Lois Lowry writes (Claude)
+A   works/Margaret-Ellison-The-Red-Garden.md
+
+    Anne Carson + Ted Chiang plan, J. M. Coetzee writes (ChatGPT)
+A   works/Michael-Hartley-Shadows-in-Marlot.md
+
+    Bernard Cornwell + George R. R. Martin plan, James M. Cain writes (Claude)
+A   works/Robert-Kane-The-Blackwood-Dispatches.md
+
+    William Shakespeare + Jane Austen plan, Wilkie Collins writes (ChatGPT)
+A   works/Edgar-Langley-The-Whispering-Woods-of-Eldermere.md
+
+    Jane Austen + William Shakespeare plan, Harper Lee writes (Claude)
+A   works/Julia-Trent-The-Weight-of-Thornwick.md
+
+    Jane Austen + Wilkie Collins plan, Daphne du Maurier writes (ChatGPT)
+A   works/Clara-Whitmore-The-Tapestry-of-Langford.md
+
+    Emily Habeck + Kristin Hannah plan, Elizabeth Gilbert writes (Claude)
+A   works/Mara-Ellingsen-The-Millbrook-Sessions.md
+
+    Liane Moriarty + Diane Chamberlain plan, Colleen Hoover writes (ChatGPT)
+A   works/Emma-Clarke-Beneath-Whispering-Tides.md
+
+    Leonora Carrington + Ted Chiang plan, Karl Ove Knausgaard writes (Claude)
+A   works/Erik-Lindqvist-The-Algorithm-of-Endings.md
+
+    Lois Lowry + Kate Quinn plan, Sylvia Plath writes (ChatGPT)
+A   works/Clara-Winslow-The-Echoes-of-Sunbreak.md
+
+    Jane Austen + Daphne du Maurier plan, Wilkie Collins writes (Claude)
+A   works/Edgar-Langley-The-Music-Box-of-Ravenshollow.md
+
+    Judith McNaught + Colleen Hoover plan, Anita Shreve writes (ChatGPT)
+A   works/Laura-Mitchell-The-Whispering-Tree.md
+
+    Wilkie Collins + Jane Austen plan, Harper Lee writes (Claude)
+A   works/Julia-Trent-The-Moors-of-Memory.md
+
+    George R. R. Martin + Barry Hannah plan, James M. Cain writes (ChatGPT)
+A   works/Robert-Kane-The-Silence-of-Vespara.md
+
+    Barry Hannah + James M. Cain plan, George R. R. Martin writes (Claude)
+A   works/Thomas-Grey-The-Wire-Between.md
+
+    Susan Collins + C.S. Lewis plan, David Wallace Wells writes (ChatGPT)
+A   works/Mark-Stevens-Beginnings-are-Endings.md
+
+    Liane Moriarty + Judith McNaught plan, Diane Chamberlain writes (Claude)
+A   works/Susan-Fielding-The-Weight-of-Twenty-Years.md
+
+    James M. Cain + Nick Bantock plan, Barry Hannah writes (ChatGPT)
+A   works/Jake-Morrison-Schattenburg.md
+
+    Lois Lowry + Kate Quinn plan, E. Lockhart writes (Claude)
+A   works/Nora-Caldwell-The-Weight-of-Paper.md
+
+    David Wallace Wells + Susan Collins plan, Madeline L'Engle writes (ChatGPT)
+A   works/Sarah-Bennett-Torhaven's-Light.md
+
+    Anne Carson + Ted Chiang plan, Karl Ove Knausgaard writes (Claude)
+A   works/Erik-Lindqvist-The-Filing-Cabinet.md
+
+    Ray Bradbury + David Wallace Wells plan, Susan Collins writes (ChatGPT)
+A   works/Anne-Parker-Echoes-of-Peloria.md
+
+    Danzy Senna + Ann Patchett plan, Emily Habeck writes (Claude)
+A   works/Claire-Donovan-The-Weight-of-Inheriting.md
+
+    Barry Hannah + Bernard Cornwell plan, Nick Bantock writes (ChatGPT)
+A   works/Alex-Rivers-The-Churning-Waters.md
+
+    Nick Bantock + George R. R. Martin plan, Barry Hannah writes (Claude)
+A   works/Jake-Morrison-The-Cartographer's-Descent.md
+
+    Elizabeth Gilbert + Danzy Senna plan, Ann Patchett writes (ChatGPT)
+A   works/Sarah-Coleman-Where-the-Sea-Meets-the-Story.md
+
+    E. Lockhart + Sylvia Plath plan, Lois Lowry writes (Claude)
+A   works/Margaret-Ellison-The-Conservatory.md
+
+    William Shakespeare + Jane Austen plan, Wilkie Collins writes (ChatGPT)
+A   works/Edgar-Langley-The-Shadow-of-Waterfield.md
+
+    Emily Habeck + Kristin Hannah plan, Danzy Senna writes (Claude)
+A   works/Maya-Cortez-The-Cordelia-Papers.md
+
+    Han Kang + Kate Quinn plan, Lois Lowry writes (ChatGPT)
+A   works/Margaret-Ellison-The-Artist's-Island.md
+
+    Kristin Hannah + Emily Habeck plan, Elizabeth Gilbert writes (Claude)
+A   works/Mara-Ellingsen-The-Weight-of-Rooms.md
+
+    Ann Patchett + Emily Habeck plan, Danzy Senna writes (ChatGPT)
+A   works/Maya-Cortez-The-Whispering-Lighthouse.md
+
+    Elizabeth Gilbert + Emily Habeck plan, Kristin Hannah writes (Claude)
+A   works/Rachel-Pierce-The-Weight-of-Paper.md
+
+    Jane Austen + William Shakespeare plan, Harper Lee writes (ChatGPT)
+A   works/Julia-Trent-Briarwind-Shadows.md
+
+    Ray Bradbury + C.S. Lewis plan, David Wallace Wells writes (Claude)
+A   works/Mark-Stevens-The-Winnowing.md
+
+    Kristin Hannah + Emily Habeck plan, Ann Patchett writes (Claude)
+A   works/Sarah-Coleman-The-Summer-of-Wide-Sky.md
+
+    Elizabeth Gilbert + Ann Patchett plan, Danzy Senna writes (ChatGPT)
+A   works/Maya-Cortez-Ardor-Bay.md
+
+    Leonora Carrington + Anne Carson plan, J. M. Coetzee writes (Claude)
+A   works/Michael-Hartley-The-Weight-of-Morning.md
+
+    Danzy Senna + Ann Patchett plan, Emily Habeck writes (ChatGPT)
+A   works/Claire-Donovan-The-Essence-of-Willowbrook.md
+
+    J. M. Coetzee + Karl Ove Knausgaard plan, Leonora Carrington writes (Claude)
+A   works/Helena-Cross-The-Weight-of-Translation.md
+
+    Emily Habeck + Danzy Senna plan, Ann Patchett writes (ChatGPT)
+A   works/Sarah-Coleman-Westwind-Bay.md
+
+    George R. R. Martin + Barry Hannah plan, Bernard Cornwell writes (Claude)
+A   works/Daniel-Wells-The-Mill-Letters.md
+
+    J. M. Coetzee + Leonora Carrington plan, Ted Chiang writes (ChatGPT)
+A   works/David-Chen-The-Tides-of-Silence.md
+
+    Nick Bantock + George R. R. Martin plan, James M. Cain writes (Claude)
+A   works/Robert-Kane-The-Foundry-District.md
+
+    James M. Cain + Bernard Cornwell plan, George R. R. Martin writes (ChatGPT)
+A   works/Thomas-Grey-The-Tides-of-Hartcliffe.md
+
+    Elizabeth Gilbert + Danzy Senna plan, Kristin Hannah writes (Claude)
+A   works/Rachel-Pierce-The-Weight-of-Water-Music.md
+
+    Ted Chiang + Anne Carson plan, J. M. Coetzee writes (ChatGPT)
+A   works/Michael-Hartley-The-Whispering-Garden.md
+
+    Ann Patchett + Emily Habeck plan, Danzy Senna writes (Claude)
+A   works/Maya-Cortez-The-Keeper's-Inheritance.md
+
+    Anne Carson + J. M. Coetzee plan, Leonora Carrington writes (ChatGPT)
+A   works/Helena-Cross-Larkspur's-Awakening.md
+
+    Leonora Carrington + J. M. Coetzee plan, Ted Chiang writes (Claude)
+A   works/David-Chen-What-Remains,-What-Returns.md
+
+    Danzy Senna + Emily Habeck plan, Kristin Hannah writes (ChatGPT)
+A   works/Rachel-Pierce-The-Secrets-of-Alderwood-Hall.md
+
+    James M. Cain + Barry Hannah plan, Bernard Cornwell writes (Claude)
+A   works/Daniel-Wells-The-Herrera-Letters.md
+
+    Leonora Carrington + Ted Chiang plan, Karl Ove Knausgaard writes (ChatGPT)
+A   works/Erik-Lindqvist-The-Weight-of-Stones.md
+
+    Barry Hannah + James M. Cain, Bernard Cornwell writes (Claude)
+A   works/Daniel-Wells-The-Water-That-Left-Us.md
+
+    Leonora Carrington + Karl Ove Knausgaard plan, Anne Carson writes (Claude)
+A   works/Ruth-Sterling-The-Institutional-Nights.md
