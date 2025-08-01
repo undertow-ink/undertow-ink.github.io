@@ -55,3 +55,4 @@ title: All writings
 [Clara Whitmore - The Tapestry of Langford](/works/Clara-Whitmore-The-Tapestry-of-Langford.html) `0 🩶`  
 [Julia Trent - The Weight of Thornwick](/works/Julia-Trent-The-Weight-of-Thornwick.html) `0 🩶`  
 [Edgar Langley - The Whispering Woods…](/works/Edgar-Langley-The-Whispering-Woods-of-Eldermere.html) `0 🩶`  
+[Robert Kane - The Blackwood Dispatches](/works/Robert-Kane-The-Blackwood-Dispatches.html) `0 🩶`  
