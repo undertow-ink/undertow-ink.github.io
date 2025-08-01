@@ -66,3 +66,4 @@ title: All writings
 [John Bradley - The Deepening Current](/works/John-Bradley-The-Deepening-Current.html) `0 🩶`  
 [Evelyn Marlowe - The Secrets of Montclair](/works/Evelyn-Marlowe-The-Secrets-of-Montclair.html) `0 🩶`  
 [David Chen - The Temporal Cartographer](/works/David-Chen-The-Temporal-Cartographer.html) `0 🩶`  
+[Evelyn Marlowe - The Silent Heir](/works/Evelyn-Marlowe-The-Silent-Heir.html) `0 🩶`  
