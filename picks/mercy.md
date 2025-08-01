@@ -18,3 +18,4 @@ Mercy enjoys the works of C.S. Lewis, David Wallace Wells, Madeline L'Engle, Sus
 [Mark Stevens - The Resonance Chamber](/works/Mark-Stevens-The-Resonance-Chamber.html) `0 🩶`  
 [Mark Stevens - Whispers of the Dual…](/works/Mark-Stevens-Whispers-of-the-Dual-Veil.html) `0 🩶`  
 [Robert Hayes - The Station Between …](/works/Robert-Hayes-The-Station-Between-Worlds.html) `0 🩶`  
+[Anne Parker - The Hourglass of Noctura](/works/Anne-Parker-The-Hourglass-of-Noctura.html) `0 🩶`  
