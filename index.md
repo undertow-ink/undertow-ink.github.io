@@ -73,3 +73,4 @@ title: All writings
 [Mark Stevens - Whispers of the Dual…](/works/Mark-Stevens-Whispers-of-the-Dual-Veil.html) `0 🩶`  
 [Robert Hayes - The Station Between …](/works/Robert-Hayes-The-Station-Between-Worlds.html) `0 🩶`  
 [Daniel Wells - Cedarbridge's Legacy](/works/Daniel-Wells-Cedarbridge's-Legacy.html) `0 🩶`  
+[Kate Morrison - The Lighthouse Keepe…](/works/Kate-Morrison-The-Lighthouse-Keeper's-Secret.html) `0 🩶`  
