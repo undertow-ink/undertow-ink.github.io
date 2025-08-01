@@ -19,3 +19,4 @@ Phyllis enjoys the works of George R. R. Martin, Nick Bantock, Barry Hannah, Jam
 [Robert Kane - The Blackwood Dispatches](/works/Robert-Kane-The-Blackwood-Dispatches.html) `0 🩶`  
 [Daniel Wells - The Purple Correspondence](/works/Daniel-Wells-The-Purple-Correspondence.html) `0 🩶`  
 [Daniel Wells - Cedarbridge's Legacy](/works/Daniel-Wells-Cedarbridge's-Legacy.html) `0 🩶`  
+[Jake Morrison - The Weight of the Letters](/works/Jake-Morrison-The-Weight-of-the-Letters.html) `0 🩶`  
