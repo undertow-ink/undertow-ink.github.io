@@ -11,3 +11,4 @@ Linda enjoys the works of Anita Shreve, Judith Mcnaught, Diane Chamberlain, Lian
 [Laura Mitchell - The Whispering Tree](/works/Laura-Mitchell-The-Whispering-Tree.html) `0 🩶`  
 [Emma Clarke - Beneath Whispering Tides](/works/Emma-Clarke-Beneath-Whispering-Tides.html) `0 🩶`  
 [Kate Morrison - The Lighthouse Keepe…](/works/Kate-Morrison-The-Lighthouse-Keeper's-Secret.html) `0 🩶`  
+[Emma Clarke - The Salt and the Shore](/works/Emma-Clarke-The-Salt-and-the-Shore.html) `0 🩶`  

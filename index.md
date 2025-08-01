@@ -75,3 +75,4 @@ title: All writings
 [Daniel Wells - Cedarbridge's Legacy](/works/Daniel-Wells-Cedarbridge's-Legacy.html) `0 🩶`  
 [Kate Morrison - The Lighthouse Keepe…](/works/Kate-Morrison-The-Lighthouse-Keeper's-Secret.html) `0 🩶`  
 [Jake Morrison - The Weight of the Letters](/works/Jake-Morrison-The-Weight-of-the-Letters.html) `0 🩶`  
+[Emma Clarke - The Salt and the Shore](/works/Emma-Clarke-The-Salt-and-the-Shore.html) `0 🩶`  
