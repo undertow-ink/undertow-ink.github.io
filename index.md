@@ -58,3 +58,4 @@ title: All writings
 [Robert Kane - The Blackwood Dispatches](/works/Robert-Kane-The-Blackwood-Dispatches.html) `0 🩶`  
 [Michael Hartley - Shadows in Marlot  ](/works/Michael-Hartley-Shadows-in-Marlot.html) `0 🩶`  
 [Margaret Ellison - The Red Garden](/works/Margaret-Ellison-The-Red-Garden.html) `0 🩶`  
+[Robert Hayes - Obsidian Echoes](/works/Robert-Hayes-Obsidian-Echoes.html) `0 🩶`  

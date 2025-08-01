@@ -11,3 +11,4 @@ Mercy enjoys the works of C.S. Lewis, David Wallace Wells, Madeline L'Engle, Sus
 [Sarah Bennett - Torhaven's Light  ](/works/Sarah-Bennett-Torhaven's-Light.html) `30 💛`  
 [Anne Parker - Echoes of Peloria](/works/Anne-Parker-Echoes-of-Peloria.html) `25 💛`  
 [Mark Stevens - Beginnings are En…](/works/Mark-Stevens-Beginnings-are-Endings.html) `18 🩶`  
+[Robert Hayes - Obsidian Echoes](/works/Robert-Hayes-Obsidian-Echoes.html) `0 🩶`  
