@@ -20,3 +20,4 @@ Brian enjoys the works of Karl Ove Knausgaard, Ted Chiang, Leonora Carrington, A
 [Michael Hartley - Shadows in Marlot  ](/works/Michael-Hartley-Shadows-in-Marlot.html) `0 🩶`  
 [David Chen - The Temporal Cartographer](/works/David-Chen-The-Temporal-Cartographer.html) `0 🩶`  
 [Helena Cross - The Whispers at Arfon Bay](/works/Helena-Cross-The-Whispers-at-Arfon-Bay.html) `0 🩶`  
+[Helena Cross - The Whispering Veils…](/works/Helena-Cross-The-Whispering-Veils-of-Arborwell.html) `0 🩶`  

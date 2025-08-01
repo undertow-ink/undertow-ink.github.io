@@ -78,3 +78,4 @@ title: All writings
 [Emma Clarke - The Salt and the Shore](/works/Emma-Clarke-The-Salt-and-the-Shore.html) `0 🩶`  
 [Emma Clarke - Where We Begin](/works/Emma-Clarke-Where-We-Begin.html) `0 🩶`  
 [Margaret Ellison - The Weight of Cotton](/works/Margaret-Ellison-The-Weight-of-Cotton.html) `0 🩶`  
+[Helena Cross - The Whispering Veils…](/works/Helena-Cross-The-Whispering-Veils-of-Arborwell.html) `0 🩶`  
