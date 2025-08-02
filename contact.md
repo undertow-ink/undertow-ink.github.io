@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-#### How to Submit
+### How to Submit
 
 I'd love to create stories based on your favorite authors! Email, text, or call me with your five favorite authors:
 
@@ -13,7 +13,7 @@ Brian Edwards
 📧 brian.mabry.edwards@gmail.com  
 📧 [Send Email](mailto:brian.mabry.edwards@gmail.com?subject=My%20Five%20Favorite%20Authors)
 
-#### What to Include
+### What to Include
 
 1. Your name (to be listed as a "picker")
 2. Five authors you love

@@ -9,6 +9,10 @@ padding-left: 22rem; /* Increase this value for more whitespace */
 }
 }
 
-h1, .page-heading, .post-title {
+h1, h2, .post-title {
   font-size: 2em;
+}
+
+h3, .post-content h3 {
+  font-size: 1.5em;
 }
