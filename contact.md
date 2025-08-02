@@ -9,8 +9,9 @@ permalink: /contact/
 I'd love to create stories based on your favorite authors! Email, text, or call me with your five favorite authors:
 
 Brian Edwards  
-📧 brian.mabry.edwards@gmail.com | 📧 [Send Email](mailto:brian.mabry.edwards@gmail.com?subject=My%20Five%20Favorite%20Authors)  
-📱 (512) 584-6841
+📱 (512) 584-6841  
+📧 brian.mabry.edwards@gmail.com  
+📧 [Send Email](mailto:brian.mabry.edwards@gmail.com?subject=My%20Five%20Favorite%20Authors)
 
 ## What to Include
 

@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+*pulled by undertones  
+ink between my toes*
 
 ## How It Works
 
