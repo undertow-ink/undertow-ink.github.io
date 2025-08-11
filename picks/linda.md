@@ -6,7 +6,7 @@ Linda enjoys the works of Anita Shreve, Judith Mcnaught, Diane Chamberlain, Lian
 
 ***
 <br />
-[Kate Morrison - The Lighthouse Keeper's Secret](/works/Kate-Morrison-The-Lighthouse-Keepers-Secret.html)  
+[Kate Morrison - The Lighthouse Keeper's Secret](/works/Kate-Morrison-The-Lighthouse-Keeper's-Secret.html)  
 Historical Fiction / WWII Romance `88 ❤️` *Elena inherits her grandmother's Maine lighthouse and uncovers a forbidden WWII romance between Magdalena and Viktor, a German POW who carved wooden puffins and was executed trying to save her, revealing three generations of women protecting dangerous wartime secrets.*
 <br />
 <br />
